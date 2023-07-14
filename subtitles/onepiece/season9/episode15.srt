@@ -1,0 +1,1430 @@
+﻿1
+00:00:22,170 --> 00:00:23,420
+<i>Dünya...</i>
+
+2
+00:00:24,130 --> 00:00:25,380
+<i>Evet!</i>
+
+3
+00:00:25,800 --> 00:00:27,350
+<i>Özgürlüğü arayın,...</i>
+
+4
+00:00:27,380 --> 00:00:31,550
+<i>...ve dünyanız gözlerinizin önünde uzanmış duracak.</i>
+
+5
+00:00:31,970 --> 00:00:35,390
+<i>Eğer sonsuz bir hayal
+ruhlarınıza rehberlik ediyorsa,...</i>
+
+6
+00:00:35,890 --> 00:00:37,310
+<i>...onu fethedin!</i>
+
+7
+00:00:37,560 --> 00:00:40,390
+<i>Bayrağınızın arkasından inancınızı taşıyın!</i>
+
+8
+00:00:45,190 --> 00:00:48,280
+<i>Bir su patlamasıyla,</i>
+
+9
+00:00:45,190 --> 00:00:48,280
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+10
+00:00:48,360 --> 00:00:50,780
+<i>Arayışıma başladım,</i>
+
+11
+00:00:48,360 --> 00:00:50,780
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+12
+00:00:50,820 --> 00:00:54,200
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+13
+00:00:50,820 --> 00:00:54,200
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+14
+00:00:55,330 --> 00:00:58,330
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+15
+00:00:55,330 --> 00:00:58,330
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+16
+00:00:58,410 --> 00:01:00,370
+<i>Heryere gideceğim</i>
+
+17
+00:00:58,410 --> 00:01:00,370
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+18
+00:01:00,550 --> 00:01:08,630
+<i>Hiç görmediğim ışığı arayarak</i>
+
+19
+00:01:00,550 --> 00:01:08,630
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+20
+00:01:08,710 --> 00:01:14,260
+<i>Yaz renkli güneş, kalbimin
+yelkenini salladığı zaman,</i>
+
+21
+00:01:08,710 --> 00:01:14,260
+<i>{\an8}{\fs10}natsu-iro taiyou ga kokoro no ho o yuraseba</i>
+
+22
+00:01:14,261 --> 00:01:18,810
+<i>uçup git kasvetli mavi deniz...</i>
+
+23
+00:01:14,261 --> 00:01:18,810
+<i>{\an8}{\fs10}fly away glum blue sea...</i>
+
+24
+00:01:18,810 --> 00:01:24,450
+<i>Bu, yeni dünyaya bir kapının açıldığını işaretidir</i>
+
+25
+00:01:18,810 --> 00:01:24,450
+<i>{\an8}{\fs10}atarashii sekai e no tobira o hiraku aizu</i>
+
+26
+00:01:24,451 --> 00:01:28,320
+<i>uçup git kasvetli mavi gökyüzü...</i>
+
+27
+00:01:24,451 --> 00:01:28,320
+<i>{\an8}{\fs10}fly away glum blue sky...</i>
+
+28
+00:01:28,320 --> 00:01:33,320
+<i>Dalgalar arasında sallanırken,
+umutsuzluktan kaçabilirim,</i>
+
+29
+00:01:28,320 --> 00:01:33,320
+<i>{\an8}{\fs10}namima ni yureteru zetsubou o nukete</i>
+
+30
+00:01:33,360 --> 00:01:36,660
+<i>Diğer taraftaki ufuk...</i>
+
+31
+00:01:33,360 --> 00:01:36,660
+<i>{\an8}{\fs10}suiheisen no mukougawa</i>
+
+32
+00:01:39,250 --> 00:01:40,950
+<i>... benim hedeflediğim şey!</i>
+
+33
+00:01:39,250 --> 00:01:40,950
+<i>{\an8}{\fs10}mezashite</i>
+
+34
+00:01:41,050 --> 00:01:44,080
+<i>Bir su patlamasıyla,</i>
+
+35
+00:01:41,050 --> 00:01:44,080
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+36
+00:01:44,170 --> 00:01:46,630
+<i>Arayışıma başladım,</i>
+
+37
+00:01:44,170 --> 00:01:46,630
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+38
+00:01:46,710 --> 00:01:49,800
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+39
+00:01:46,710 --> 00:01:49,800
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+40
+00:01:51,210 --> 00:01:54,130
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+41
+00:01:51,210 --> 00:01:54,130
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+42
+00:01:54,220 --> 00:01:56,350
+<i>Heryere gideceğim</i>
+
+43
+00:01:54,220 --> 00:01:56,350
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+44
+00:01:56,470 --> 00:02:03,020
+<i>Hiç görmediğim ışığı arayarak</i>
+
+45
+00:01:56,470 --> 00:02:03,020
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+46
+00:02:05,651 --> 00:02:08,864
+<i>Luffy ve tayfası, Beyaz Bereliler'e
+yakalanmaktan kurtulup kaçmayı başardı.</i>
+
+47
+00:02:07,550 --> 00:02:15,962
+{\an8}{\fs10}Yukarıdan aşağıya SKYPIEA:
+Üst Bahçe, Güzel Sokak, Melek Kumsalı
+
+48
+00:02:08,864 --> 00:02:14,494
+<i>Ama sonra Kami'nin yaratıkları
+ortaya çıktı ve Nami'yle birlikte
+diğer üç tayfa üyesini uzaklaştırdı.</i>
+
+49
+00:02:17,463 --> 00:02:20,424
+Şu durumda arkadaşlarımızı
+ve gemimizi geri istiyorsak,...
+
+50
+00:02:21,050 --> 00:02:23,886
+...ön kapıdan girmek zorunda kalacağız.
+
+51
+00:02:24,637 --> 00:02:27,223
+Yani katlanmamız gereken çetin sınav...
+
+52
+00:02:27,223 --> 00:02:28,516
+...Cennet'in Hükmü mü?
+
+53
+00:02:29,058 --> 00:02:35,189
+Evet, Üst Bahçe'nin dört rahibinin akıl
+almaz gücüyle yüzleşmek zorundasınız.
+
+54
+00:02:36,357 --> 00:02:38,609
+Ne? Her şey halloldu o zaman.
+
+55
+00:02:38,985 --> 00:02:43,573
+Uzun lafın kısası, rahipleri
+halletmemiz gerekiyor, değil mi?
+
+56
+00:02:43,948 --> 00:02:45,324
+Her zamanki gibi kaygısız.
+
+57
+00:02:49,328 --> 00:02:51,247
+İşler ilginçleşiyor.
+
+58
+00:02:56,210 --> 00:03:03,342
+Güzel Sokak'ta Tuzak!
+Kudretli Kami Enel
+
+59
+00:03:11,726 --> 00:03:13,394
+Hey, Luffy!
+
+60
+00:03:13,394 --> 00:03:15,180
+Dur biraz!
+
+61
+00:03:15,180 --> 00:03:16,564
+Ha? Sorun nedir?
+
+62
+00:03:17,023 --> 00:03:18,691
+Ortadan kayboldun!
+
+63
+00:03:18,691 --> 00:03:20,401
+Nereye gittiğini sanıyorsun?
+
+64
+00:03:20,693 --> 00:03:21,986
+Nami söylemişti, değil mi?
+
+65
+00:03:21,986 --> 00:03:25,239
+Burada kalmak Conis ve
+amca için sıkıntı olurdu.
+
+66
+00:03:25,239 --> 00:03:27,692
+Doğru ama nereye gidiyorsun?
+
+67
+00:03:27,692 --> 00:03:30,202
+Belli değil mi? Kurban Sunağı'na.
+
+68
+00:03:30,703 --> 00:03:32,121
+Peki oraya nasıl ulaşacaksın?
+
+69
+00:03:38,210 --> 00:03:39,128
+DÜŞÜNME!
+
+70
+00:03:40,421 --> 00:03:44,884
+Çalacak bir gemi bulacağız
+ve Sütlü Yol'a çıkacağız.
+
+71
+00:03:45,509 --> 00:03:48,054
+Çalacak bir gemiyi nasıl bulacağız?
+
+72
+00:03:49,680 --> 00:03:51,390
+DÜŞÜNME!
+
+73
+00:03:51,390 --> 00:03:54,060
+Biliyorsun Mavi Deniz'de değiliz.
+
+74
+00:03:54,352 --> 00:03:58,439
+Bu eski haritayla, Melek Adası'nın
+coğrafyasının nasıl olduğunu bilemeyiz.
+
+75
+00:03:58,439 --> 00:04:01,234
+Sütlü Yol'a nasıl çıkacağımız bile tam bir gizem.
+
+76
+00:04:01,484 --> 00:04:03,611
+Ne can sıkıcı ama.
+
+77
+00:04:07,441 --> 00:04:08,658
+Çocuklar.
+
+78
+00:04:10,360 --> 00:04:11,661
+Conis-chan!
+
+79
+00:04:11,661 --> 00:04:15,414
+Buraya kadar bizi uğurlamaya mı geldin?
+
+80
+00:04:15,414 --> 00:04:21,128
+Babam, Kurban Sunağı'na giden yolu
+bulmanız için size yardım etmemi söyledi.
+
+81
+00:04:21,420 --> 00:04:23,005
+Ah, Pagaya-san mı?
+
+82
+00:04:24,048 --> 00:04:27,051
+Sizi Melek Adası rıhtımına götüreceğim.
+
+83
+00:04:27,051 --> 00:04:29,053
+Sizin için sağlam bir kayık hazırlayacağım.
+
+84
+00:04:29,345 --> 00:04:31,556
+Ah, iyi düşünülmüş bir plan.
+
+85
+00:04:31,556 --> 00:04:33,641
+Dinlediğimiz kuş beyinlinin ki gibi değil.
+
+86
+00:04:33,641 --> 00:04:34,559
+Evet!
+
+87
+00:04:34,559 --> 00:04:35,726
+SENİ KASTETMİŞTİM!
+
+88
+00:04:36,644 --> 00:04:40,815
+Conis-chan'la bir şeyler
+yapabilmek beni çok mutlu ediyor!
+
+89
+00:04:40,815 --> 00:04:41,816
+Değil mi, Luffy?
+
+90
+00:04:46,070 --> 00:04:48,072
+Peki, madem yardım için
+geldin. Elbette, gidelim!
+
+91
+00:04:49,448 --> 00:04:50,066
+Tamam!
+
+92
+00:04:58,374 --> 00:05:00,084
+Kaçamayacaksınız!
+
+93
+00:05:00,084 --> 00:05:04,297
+Cennet'in Adaleti'ne maruz bırakmak
+için sizi Üst Bahçe'ye göndereceğim.
+
+94
+00:05:13,389 --> 00:05:15,050
+Orası da ne öyle?
+
+95
+00:05:15,050 --> 00:05:16,893
+Orası Güzel Sokak.
+
+96
+00:05:16,893 --> 00:05:20,771
+Güzel Sokağı geçtikten
+sonra rıhtıma varacağız.
+
+97
+00:05:31,157 --> 00:05:33,527
+Üst Bahçe'ye doğru yola çıktılar bile.
+
+98
+00:05:33,527 --> 00:05:35,912
+Onları bu şekilde takip etmemize gerek yok.
+
+99
+00:05:35,912 --> 00:05:36,412
+Susun!
+
+100
+00:05:37,330 --> 00:05:39,707
+Diğer tüm Mavi deniz sakinleri hep aynıydı.
+
+101
+00:05:39,707 --> 00:05:43,085
+Önce bunu rüya gibi bir macera
+olarak düşünüp atıp tutarlar.
+
+102
+00:05:43,085 --> 00:05:47,465
+Ama canları tehlikeye girince, bebekler
+gibi ağlamaya başlayıp kaçmaya çalışırlar.
+
+103
+00:05:48,625 --> 00:05:51,503
+Üst Bahçe'ye gitmeyi dört gözle bekliyorum!
+
+104
+00:05:51,928 --> 00:05:54,506
+Orada ölebilirsiniz.
+
+105
+00:05:54,931 --> 00:05:57,134
+Evet, er ya da geç herkes ölecek.
+
+106
+00:05:58,218 --> 00:05:59,343
+Ve senin için farketmiyor mu?
+
+107
+00:05:59,343 --> 00:06:02,021
+Farkediyor. Bunun için çok heyecanlıyım!
+
+108
+00:06:03,723 --> 00:06:05,224
+Seni pislik, bu gülünecek bir şey değil!
+
+109
+00:06:05,224 --> 00:06:08,110
+Nami-san ve Robin-chan
+konusunda biraz daha endişeli ol!
+
+110
+00:06:08,110 --> 00:06:10,988
+Merry, Zoro ve Chopper konusunda da öyle!
+
+111
+00:06:10,988 --> 00:06:12,274
+Onları umursamıyor musun?!
+
+112
+00:06:12,573 --> 00:06:13,950
+Üzgünüm.
+
+113
+00:06:21,958 --> 00:06:23,751
+Burası harika bir yer!
+
+114
+00:06:24,502 --> 00:06:28,005
+Güzel Sokak, Melek Adası'ndaki
+tek alışveriş bölgesidir.
+
+115
+00:06:30,424 --> 00:06:32,677
+Bakın! Bazı dükkanlar havada duruyor!
+
+116
+00:06:33,427 --> 00:06:36,430
+Onlar Ada Bulutu'nun özel
+bir türünden yapılmıştır.
+
+117
+00:06:37,848 --> 00:06:39,642
+Burada hiç yakiniku dükkanı var mı?
+
+118
+00:06:52,321 --> 00:06:53,155
+Geldiler.
+
+119
+00:06:55,316 --> 00:06:56,610
+Yürümeye devam edin.
+
+120
+00:06:56,610 --> 00:06:58,611
+Bir an önce gidin buradan.
+
+121
+00:07:03,374 --> 00:07:06,460
+Bizden kaçınıyorlar mı?
+
+122
+00:07:06,752 --> 00:07:08,212
+Anlayabiliyorum.
+
+123
+00:07:08,212 --> 00:07:10,214
+İtibarımız önden gidiyor.
+
+124
+00:07:10,214 --> 00:07:11,841
+Biz suçlularız.
+
+125
+00:07:14,343 --> 00:07:15,669
+Bu harika!
+
+126
+00:07:15,669 --> 00:07:17,597
+Bütün şehir merkezi bize kaldı!
+
+127
+00:07:20,134 --> 00:07:22,886
+Bütün melekler benden kaçıyor.
+
+128
+00:07:38,451 --> 00:07:40,703
+Burada çok tuhaf şeyler satıyorlar.
+
+129
+00:07:43,414 --> 00:07:46,125
+Süper! Biraz param olsun isterdim!
+
+130
+00:07:46,125 --> 00:07:48,169
+Hazine bulursak belki onlara ödeyebilirim!
+
+131
+00:08:04,644 --> 00:08:06,604
+Burası Kadran Dükkanı olmalı!
+
+132
+00:08:07,063 --> 00:08:13,444
+Bu dev Nefes Kadranları'ndan
+iki tane Going Merry'ye takarsak,
+belki de Dalgayaran gibi gider!
+
+133
+00:08:21,202 --> 00:08:24,789
+Luffy, oyun oynayacak vaktimiz yok!
+
+134
+00:08:24,789 --> 00:08:27,083
+Nami-san ve diğerleri Kurban
+Sunağı'nda tutsak durumda!
+
+135
+00:08:27,083 --> 00:08:29,252
+Onları kurtarma konusunda ciddi misin?
+
+136
+00:08:29,252 --> 00:08:30,127
+Kurtarmak mı?
+
+137
+00:08:30,127 --> 00:08:31,671
+Dediğim gibi, onlar iyi!
+
+138
+00:08:31,671 --> 00:08:33,414
+Zoro da onlarla birlikte orada tuzağa düştü!
+
+139
+00:08:33,414 --> 00:08:35,508
+O serseme güvenemeyiz!
+
+140
+00:08:35,508 --> 00:08:38,469
+Ben sadece geminin olduğundan
+fazla zarar görmemesini umuyorum.
+
+141
+00:08:38,469 --> 00:08:40,179
+Son zamanlarda ona çok sert davrandık.
+
+142
+00:08:40,638 --> 00:08:42,924
+Oh, sokağın ortasında bir şey var!
+
+143
+00:08:49,897 --> 00:08:51,141
+Tuhaf bir yüz!
+
+144
+00:08:51,141 --> 00:08:51,857
+Nedir bu?
+
+145
+00:08:51,857 --> 00:08:52,858
+Yünlü fokbalığı mı?
+
+146
+00:08:52,858 --> 00:08:55,444
+Basit, kilden bir heykel gibi görünüyor.
+
+147
+00:08:55,444 --> 00:08:57,321
+Ama muhtemelen dinsel.
+
+148
+00:08:57,321 --> 00:08:59,198
+Aptal! Bu sanat!
+
+149
+00:08:59,198 --> 00:09:00,241
+Bunu anlayabilirim!
+
+150
+00:09:00,616 --> 00:09:01,909
+Bu Vearth.
+
+151
+00:09:02,493 --> 00:09:06,664
+Gökyüzünde yaşayanlar
+için sonsuz hasretin ifadesi.
+
+152
+00:09:06,998 --> 00:09:08,117
+Vearth?
+
+153
+00:09:08,117 --> 00:09:09,041
+Sonsuz?
+
+154
+00:09:09,041 --> 00:09:11,460
+O kadar uzun zamandır mı hasret çekiyorsunuz?
+
+155
+00:09:12,211 --> 00:09:13,546
+Sizde bir gariplik olmalı.
+
+156
+00:09:15,923 --> 00:09:20,761
+Evet, eminim Mavi Deniz
+sakinleri için anlaması zor olmalı.
+
+157
+00:09:21,304 --> 00:09:22,880
+Rıhtım bu tarafta!
+
+158
+00:09:23,639 --> 00:09:25,016
+Şehirden hemen gidiyor muyuz?
+
+159
+00:09:25,641 --> 00:09:26,767
+Elbette gidiyoruz!
+
+160
+00:09:26,767 --> 00:09:28,720
+Gideceğimiz yer burası değil, değil mi?
+
+161
+00:09:28,720 --> 00:09:31,063
+Burada biraz daha vakit geçirebiliriz.
+
+162
+00:09:36,861 --> 00:09:38,070
+İşe yaramış görünüyor.
+
+163
+00:09:38,070 --> 00:09:39,947
+Doğruca rıhtıma gittiler.
+
+164
+00:09:39,947 --> 00:09:40,990
+Kurtulduk.
+
+165
+00:10:00,468 --> 00:10:02,178
+Bir sürü sandal var!
+
+166
+00:10:03,963 --> 00:10:06,974
+Burada demirlemiş olan çok çeşit sandal vardır.
+
+167
+00:10:07,642 --> 00:10:10,478
+Uyuyabileceğiniz otel sandallarından...
+
+168
+00:10:10,978 --> 00:10:14,482
+...sürat tipi dev Kadranlı olanlara kadar.
+
+169
+00:10:16,442 --> 00:10:18,611
+Başka bir sürü model var.
+
+170
+00:10:20,029 --> 00:10:21,906
+Şu gondola bakın!
+
+171
+00:10:24,575 --> 00:10:26,402
+Müthiş!
+
+172
+00:10:26,402 --> 00:10:27,620
+Bunu kiralayalım!
+
+173
+00:10:28,329 --> 00:10:29,789
+Arkasına bak!
+
+174
+00:10:29,789 --> 00:10:32,500
+Bu şey Dalgayaran gibi kendi
+başına hareket edebilir, değil mi?
+
+175
+00:10:32,500 --> 00:10:35,461
+Bu eğlenceli bir gondol yolculuğu olacak!
+
+176
+00:10:35,461 --> 00:10:36,879
+Sersem.
+
+177
+00:10:36,879 --> 00:10:39,257
+Nami-san ve Robin-chan'ı kurtaracağız!
+
+178
+00:10:39,257 --> 00:10:40,091
+Biraz daha ciddi ol!
+
+179
+00:10:40,883 --> 00:10:42,510
+Sandalınız orada!
+
+180
+00:10:42,843 --> 00:10:43,461
+Tamam.
+
+181
+00:10:43,461 --> 00:10:44,345
+Tamam!
+
+182
+00:10:45,888 --> 00:10:46,847
+Çok heyecanlıyım!
+
+183
+00:10:46,847 --> 00:10:48,724
+Ne tür bir gondol?
+
+184
+00:10:59,986 --> 00:11:01,237
+Küçük Karga!
+
+185
+00:11:04,356 --> 00:11:05,775
+Olamaz!
+
+186
+00:11:05,775 --> 00:11:06,951
+Karga...?
+
+187
+00:11:08,286 --> 00:11:09,829
+Su kuşu değil mi?
+
+188
+00:11:11,247 --> 00:11:15,293
+Dalgayaran'ı sürmeye
+başlayana dek bunu kullandım.
+
+189
+00:11:15,793 --> 00:11:20,590
+Dalgayaran kadar hızlı gitmeyebilir
+ama iki tane Nefes Kadran'ı var.
+
+190
+00:11:21,215 --> 00:11:22,758
+Lütfen kullanın!
+
+191
+00:11:24,677 --> 00:11:26,345
+Hayır, ben gitmiyorum.
+
+192
+00:11:32,935 --> 00:11:37,273
+Altyazı çeviri ve düzenleme: Kazasker
+
+193
+00:11:39,984 --> 00:11:44,322
+http://kazaskerinyeri.blogspot.com
+
+194
+00:11:47,742 --> 00:11:49,452
+Hayır, ben gitmiyorum.
+
+195
+00:11:53,873 --> 00:11:55,249
+Biliyordum.
+
+196
+00:11:55,249 --> 00:11:57,543
+Son anda cesaretini yitiriyor.
+
+197
+00:11:57,543 --> 00:11:59,921
+Bu dünyada hayatına değer
+vermeyen kimse yoktur.
+
+198
+00:12:02,116 --> 00:12:03,799
+Ben onu istiyorum!
+
+199
+00:12:08,387 --> 00:12:10,223
+Sadece bencillik mi ediyormuş?!
+
+200
+00:12:13,093 --> 00:12:14,261
+Bu hoşuna gitmedi mi?
+
+201
+00:12:14,261 --> 00:12:15,386
+Üzgünüm.
+
+202
+00:12:15,386 --> 00:12:16,187
+Ama...
+
+203
+00:12:16,479 --> 00:12:18,265
+Seni nankör pislik!
+
+204
+00:12:18,265 --> 00:12:19,057
+Özür dile!
+
+205
+00:12:19,057 --> 00:12:20,975
+Conis-chan'dan samimi bir şekilde özür dile!
+
+206
+00:12:20,975 --> 00:12:22,602
+Sana insan demeye bin şahit ister!
+
+207
+00:12:22,602 --> 00:12:25,604
+Onun bencilliğine bakma.
+
+208
+00:12:25,604 --> 00:12:26,773
+Üzgünüm.
+
+209
+00:12:26,981 --> 00:12:27,531
+Tamam.
+
+210
+00:12:45,583 --> 00:12:47,677
+2 no'lu kapıdan çıkabilirsiniz.
+
+211
+00:12:48,678 --> 00:12:52,640
+Üst Bahçe'ye giden Sütlü
+Yol'la karşılaşacaksınız.
+
+212
+00:12:53,641 --> 00:12:56,394
+O yolu takip etmelisiniz.
+
+213
+00:12:59,772 --> 00:13:01,440
+Hey, Conis.
+
+214
+00:13:02,191 --> 00:13:02,608
+Evet?
+
+215
+00:13:03,109 --> 00:13:06,487
+Niye evinizden çıktığımızdan beri titriyorsun?
+
+216
+00:13:10,032 --> 00:13:12,194
+Şu herif...
+
+217
+00:13:12,194 --> 00:13:13,494
+Ne diyor öyle?
+
+218
+00:13:15,121 --> 00:13:17,248
+Öyle mi görünüyor?
+
+219
+00:13:19,208 --> 00:13:22,169
+Evet, neredeyse bir
+şeyden korkuyor gibisin.
+
+220
+00:13:24,297 --> 00:13:27,133
+Olamaz. Mümkün değil!
+
+221
+00:13:29,176 --> 00:13:33,055
+Conis-chan! Bizim için
+endişelenmiş olmalısın!
+
+222
+00:13:33,055 --> 00:13:34,599
+Çok tatlısın!
+
+223
+00:13:36,767 --> 00:13:37,935
+Ama...
+
+224
+00:13:38,311 --> 00:13:40,354
+Siz iyi olacak mısınız?
+
+225
+00:13:40,897 --> 00:13:44,483
+Şehirdeki herkes yüzü kızarmış
+bir halde bizden uzaklaştı.
+
+226
+00:13:44,483 --> 00:13:46,944
+Ama bize kayığını veriyorsun.
+
+227
+00:13:47,486 --> 00:13:49,322
+Yolu bile gösterdin.
+
+228
+00:13:50,239 --> 00:13:53,492
+Bu sizi suç ortağımız
+gibi göstermeyecek mi?
+
+229
+00:13:54,285 --> 00:13:55,870
+Yüzün...
+
+230
+00:13:55,870 --> 00:13:56,954
+...biraz solgun görünüyor.
+
+231
+00:13:59,415 --> 00:14:03,878
+Korkuyorduysan, buraya
+kendi başımıza gelebilirdik.
+
+232
+00:14:04,170 --> 00:14:05,338
+Hayır.
+
+233
+00:14:06,080 --> 00:14:06,872
+Ben...
+
+234
+00:14:16,140 --> 00:14:17,266
+Düşündüğünüz gibi değil!
+
+235
+00:14:22,096 --> 00:14:23,481
+Yoksa...
+
+236
+00:14:24,357 --> 00:14:26,442
+Onlara bir şey söyleme!
+
+237
+00:14:27,693 --> 00:14:29,403
+Kesinlikle tuhaf.
+
+238
+00:14:30,154 --> 00:14:33,157
+Nazikçe zorlu sınavın yolunu göstermek.
+
+239
+00:14:33,157 --> 00:14:35,368
+Buraya kadar sizinle gelmek.
+
+240
+00:14:35,368 --> 00:14:38,329
+Herkesin zorlu sınavın ölümden
+daha korkunç olduğunu söylemesi.
+
+241
+00:14:38,329 --> 00:14:40,289
+Sanki sizi buraya yönlendiriyormuş gibiydim.
+
+242
+00:14:42,658 --> 00:14:44,168
+DUR BAKALIM!
+
+243
+00:14:44,168 --> 00:14:46,128
+APTALCA BİR ŞEY SÖYLEME!
+
+244
+00:14:47,713 --> 00:14:48,506
+O da neydi?
+
+245
+00:14:58,683 --> 00:15:00,259
+<i>Yoksa...</i>
+
+246
+00:15:00,259 --> 00:15:01,644
+<i>...herkes bu işin içinde mi?</i>
+
+247
+00:15:13,072 --> 00:15:14,365
+Ama niye?
+
+248
+00:15:14,365 --> 00:15:16,659
+Yapmak zorunda değiliz!
+
+249
+00:15:16,659 --> 00:15:18,661
+Onlar farklı.
+
+250
+00:15:18,661 --> 00:15:21,497
+Onları yönlendirmesek bile,
+yine de Üst Bahçe'ye gidecekler!
+
+251
+00:15:21,956 --> 00:15:24,959
+Evet, sadece bunun doğru olmasını dilerdim.
+
+252
+00:15:24,959 --> 00:15:29,005
+O zaman bu yükü sana yüklememe gerek kalmazdı.
+
+253
+00:15:29,005 --> 00:15:33,467
+Ama şimdiye dek
+gelenlerin çoğu hep aynıydı.
+
+254
+00:15:34,302 --> 00:15:36,721
+Kısa süreli coşkuları bittikten sonra,...
+
+255
+00:15:36,721 --> 00:15:42,476
+...hayatlarına hayallerden veya maceralardan
+daha çok değer vermeye başlıyorlar.
+
+256
+00:15:43,269 --> 00:15:46,856
+Bu yüzden oraya yönlendirilmeliler.
+
+257
+00:15:46,856 --> 00:15:48,357
+Üst Bahçe'ye.
+
+258
+00:15:52,945 --> 00:15:55,732
+Lütfen beni affet, Conis-san!
+
+259
+00:15:55,732 --> 00:15:58,451
+Bu insanlarımızın görevi!
+
+260
+00:15:58,451 --> 00:16:01,203
+Bu O'nun isteği!
+
+261
+00:16:08,461 --> 00:16:09,962
+Lütfen buradan kaçar mısınız?
+
+262
+00:16:15,801 --> 00:16:17,136
+Çok üzgünüm!
+
+263
+00:16:21,140 --> 00:16:22,384
+DUR!
+
+264
+00:16:22,384 --> 00:16:23,851
+NE DİYORSUN SEN?!
+
+265
+00:16:24,644 --> 00:16:27,063
+Süper Ekspres Hızlı Karides'i çağıran...
+
+266
+00:16:27,063 --> 00:16:28,814
+...bendim!
+
+267
+00:16:29,857 --> 00:16:32,610
+Nami-san ve diğerlerini götüren karidesi mi?!
+
+268
+00:16:32,610 --> 00:16:33,653
+Bunu sen mi yaptın Conis-chan?!
+
+269
+00:16:36,322 --> 00:16:37,073
+Evet.
+
+270
+00:16:38,366 --> 00:16:40,451
+Siz gemiden uzaktayken...
+
+271
+00:16:41,035 --> 00:16:44,956
+...onlara Bulut Sonu'nda bir
+akıntı var diye yalan söyledim.
+
+272
+00:16:44,956 --> 00:16:46,791
+Demir almalarını sağladım.
+
+273
+00:16:52,171 --> 00:16:56,133
+Bu, Süper Ekspres Hızlı Karides'in
+gelmesi için bir işaretti.
+
+274
+00:17:06,310 --> 00:17:08,020
+Aptal kız, ölmek mi istiyorsun?!
+
+275
+00:17:08,020 --> 00:17:10,022
+O senin görevindi!
+
+276
+00:17:10,022 --> 00:17:13,484
+Suçluları tespit ettikten sonra,
+onları Yargı Yeri'ne yönlendirmeliyiz.
+
+277
+00:17:13,484 --> 00:17:16,487
+Yoksa öldürülürüz!
+
+278
+00:17:19,073 --> 00:17:20,491
+Konuşmayı bırak!
+
+279
+00:17:20,491 --> 00:17:22,743
+Ne dediğinin farkında mısın?
+
+280
+00:17:22,743 --> 00:17:24,161
+Kami'ye karşı saygısızlık ediyorsun!
+
+281
+00:17:24,161 --> 00:17:25,788
+Biri onu engellesin!
+
+282
+00:17:25,788 --> 00:17:28,908
+Bu insanlarımızın görevi!
+
+283
+00:17:28,908 --> 00:17:30,201
+Bu delilik!
+
+284
+00:17:30,910 --> 00:17:31,870
+Çok üzgünüm!
+
+285
+00:17:32,912 --> 00:17:34,290
+Her şey...
+
+286
+00:17:34,290 --> 00:17:35,506
+...çok tuhaf!
+
+287
+00:17:37,341 --> 00:17:38,593
+Seni aptal!
+
+288
+00:17:39,552 --> 00:17:41,596
+Başka çaren yoktu, değil mi?!
+
+289
+00:17:44,849 --> 00:17:46,058
+Öyleyse...
+
+290
+00:17:49,103 --> 00:17:51,188
+...NİYE BİZE SÖYLEDİN?!
+
+291
+00:17:57,612 --> 00:17:59,238
+Şimdi senin peşinden gelecekler!
+
+292
+00:17:59,864 --> 00:18:02,318
+Hayır! Çok geç!
+
+293
+00:18:02,608 --> 00:18:04,201
+Ondan uzak durun!
+
+294
+00:18:04,201 --> 00:18:05,578
+Hüküm geliyor!
+
+295
+00:18:43,115 --> 00:18:44,200
+Faydasız! Çok büyük!
+
+296
+00:19:28,828 --> 00:19:29,996
+O da ne öyle?!
+
+297
+00:19:30,913 --> 00:19:32,081
+Ne oldu?!
+
+298
+00:19:33,749 --> 00:19:34,667
+Luffy!
+
+299
+00:19:34,667 --> 00:19:35,710
+Conis-chan!
+
+300
+00:19:35,710 --> 00:19:37,461
+Hey, neredesiniz?!
+
+301
+00:19:38,546 --> 00:19:40,339
+LUFFY! CONIS!
+
+302
+00:19:41,215 --> 00:19:42,425
+İşe yaramaz.
+
+303
+00:19:42,425 --> 00:19:45,595
+Kudretli Kami Enel bizi izliyor.
+
+304
+00:19:49,640 --> 00:19:52,310
+İkisi de güvende.
+
+305
+00:19:57,940 --> 00:19:59,483
+Bu Gan Fall-san!
+
+306
+00:20:02,653 --> 00:20:03,654
+Şu tuhaf amca!
+
+307
+00:20:03,946 --> 00:20:05,482
+Tuhaf mı?
+
+308
+00:20:06,014 --> 00:20:08,068
+Ben Gökyüzü Şövalyesi'yim.
+
+309
+00:20:08,068 --> 00:20:09,820
+Bu bir hizmettir.
+
+310
+00:20:13,789 --> 00:20:15,917
+Hele şükür, Conis-chan!
+
+311
+00:20:17,126 --> 00:20:19,587
+Bu kızla ben ilgileneceğim.
+
+312
+00:20:19,587 --> 00:20:22,590
+Benimle birlikteyken, Enel
+ona tekrar saldıramayacak.
+
+313
+00:20:23,799 --> 00:20:24,717
+Evet.
+
+314
+00:20:24,717 --> 00:20:28,046
+Bu ülkenin gerçek hislerinin
+perdesini kaldırdınız.
+
+315
+00:20:28,046 --> 00:20:30,089
+Kami'nin gücünün de öyle.
+
+316
+00:20:30,089 --> 00:20:32,308
+Nasıl hareket edeceksiniz?
+
+317
+00:20:32,683 --> 00:20:35,228
+Bu pek de ilgimizi çekmiyor.
+
+318
+00:20:36,062 --> 00:20:37,980
+Arkadaşlarımız Kami'nin Adası'nda.
+
+319
+00:20:38,814 --> 00:20:39,807
+Anlıyorum.
+
+320
+00:20:40,475 --> 00:20:41,651
+Şans sizinle olsun!
+
+321
+00:20:51,661 --> 00:20:52,703
+Ya onlar?
+
+322
+00:20:52,703 --> 00:20:55,248
+Gitmeleri gereken yolu seçtiler.
+
+323
+00:20:55,248 --> 00:20:57,208
+Senin hatan değil.
+
+324
+00:20:58,459 --> 00:21:01,629
+Kim olduğunu biliyorum.
+
+325
+00:21:02,171 --> 00:21:04,715
+Ben Gökyüzü Şövalyesi'yim.
+
+326
+00:21:05,716 --> 00:21:06,801
+Hayır.
+
+327
+00:21:06,801 --> 00:21:08,877
+Hepimiz biliyoruz.
+
+328
+00:21:08,877 --> 00:21:10,505
+Lütfen bize geri dön,...
+
+329
+00:21:11,173 --> 00:21:12,974
+...Kami-sama.
+
+330
+00:21:17,554 --> 00:21:18,889
+Herkes kayığa binsin!
+
+331
+00:21:18,889 --> 00:21:21,440
+Sizi ittikten sonra yola çıkın!
+
+332
+00:21:21,816 --> 00:21:23,025
+Sen de geliyorsun!
+
+333
+00:21:28,190 --> 00:21:30,533
+Tamam, Üst Bahçe'ye gidelim!
+
+334
+00:21:33,953 --> 00:21:36,581
+HAYIIIIIRRR~!
+
+335
+00:21:39,417 --> 00:21:41,752
+Gidiyorlar!
+
+336
+00:21:41,752 --> 00:21:44,213
+Bir tereddüt bulutu bile olmadan!
+
+337
+00:22:05,850 --> 00:22:09,021
+Devam edecek...
+
+338
+00:22:15,780 --> 00:22:22,446
+<i>Birbirimizden uzakta bile olsak,...</i>
+
+339
+00:22:22,446 --> 00:22:28,911
+<i>...her zaman hatırlayacağını umuyorum.</i>
+
+340
+00:22:28,911 --> 00:22:35,833
+<i>Ağladığın günlerde her zaman...</i>
+
+341
+00:22:35,833 --> 00:22:43,091
+<i>...acını paylaşmak için burada biri olduğunu.</i>
+
+342
+00:22:45,802 --> 00:22:52,685
+<i>Asla teslim olmayan bizler,
+uzak düşüncelerimizin...</i>
+
+343
+00:22:52,685 --> 00:22:59,233
+<i>...hayaller olarak son
+bulmasına izin vermeyeceğiz.</i>
+
+344
+00:22:59,233 --> 00:23:05,905
+<i>Herkesin aradığı sonsuzluğun parıltısı...</i>
+
+345
+00:23:05,905 --> 00:23:13,672
+<i>...bizim ellerimizde olacak.</i>

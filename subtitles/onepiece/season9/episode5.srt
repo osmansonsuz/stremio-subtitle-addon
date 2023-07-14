@@ -1,0 +1,1812 @@
+﻿1
+00:00:15,550 --> 00:23:20,750
+<i>{\1a&HFF&}{\an7}{\fs9}Kazasker</i>
+
+2
+00:00:15,551 --> 00:00:18,113
+..:: One Person Subs ::..
+Sunar
+
+3
+00:00:18,114 --> 00:00:21,970
+Altyazı çeviri ve düzenleme:
+Kazasker - Zübeyir Ayvalık
+
+4
+00:00:22,170 --> 00:00:23,420
+<i>Dünya...</i>
+
+5
+00:00:24,130 --> 00:00:25,380
+<i>Evet!</i>
+
+6
+00:00:25,800 --> 00:00:27,350
+<i>Özgürlüğü arayın,...</i>
+
+7
+00:00:27,380 --> 00:00:31,550
+<i>...ve dünyanız gözlerinizin önünde uzanmış duracak.</i>
+
+8
+00:00:31,970 --> 00:00:35,390
+<i>Eğer sonsuz bir hayal
+ruhlarınıza rehberlik ediyorsa,...</i>
+
+9
+00:00:35,890 --> 00:00:37,310
+<i>...onu fethedin!</i>
+
+10
+00:00:37,560 --> 00:00:40,390
+<i>Bayrağınızın arkasından inancınızı taşıyın!</i>
+
+11
+00:00:45,190 --> 00:00:48,280
+<i>Bir su patlamasıyla,</i>
+
+12
+00:00:45,190 --> 00:00:48,280
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+13
+00:00:48,360 --> 00:00:50,780
+<i>Arayışıma başladım,</i>
+
+14
+00:00:48,360 --> 00:00:50,780
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+15
+00:00:50,820 --> 00:00:54,200
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+16
+00:00:50,820 --> 00:00:54,200
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+17
+00:00:55,330 --> 00:00:58,330
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+18
+00:00:55,330 --> 00:00:58,330
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+19
+00:00:58,410 --> 00:01:00,370
+<i>Heryere gideceğim</i>
+
+20
+00:00:58,410 --> 00:01:00,370
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+21
+00:01:00,550 --> 00:01:08,630
+<i>Hiç görmediğim ışığı arayarak</i>
+
+22
+00:01:00,550 --> 00:01:08,630
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+23
+00:01:08,710 --> 00:01:14,260
+<i>Yaz renkli güneş, kalbimin
+yelkenini salladığı zaman,</i>
+
+24
+00:01:08,710 --> 00:01:14,260
+<i>{\an8}{\fs10}natsu-iro taiyou ga kokoro no ho o yuraseba</i>
+
+25
+00:01:14,261 --> 00:01:18,810
+<i>uçup git kasvetli mavi deniz...</i>
+
+26
+00:01:14,261 --> 00:01:18,810
+<i>{\an8}{\fs10}fly away glum blue sea...</i>
+
+27
+00:01:18,810 --> 00:01:24,450
+<i>Bu, yeni dünyaya bir kapının açıldığını işaretidir</i>
+
+28
+00:01:18,810 --> 00:01:24,450
+<i>{\an8}{\fs10}atarashii sekai e no tobira o hiraku aizu</i>
+
+29
+00:01:24,451 --> 00:01:28,320
+<i>uçup git kasvetli mavi gökyüzü...</i>
+
+30
+00:01:24,451 --> 00:01:28,320
+<i>{\an8}{\fs10}fly away glum blue sky...</i>
+
+31
+00:01:28,320 --> 00:01:33,320
+<i>Dalgalar arasında sallanırken,
+umutsuzluktan kaçabilirim,</i>
+
+32
+00:01:28,320 --> 00:01:33,320
+<i>{\an8}{\fs10}namima ni yureteru zetsubou o nukete</i>
+
+33
+00:01:33,360 --> 00:01:36,660
+<i>Diğer taraftaki ufuk...</i>
+
+34
+00:01:33,360 --> 00:01:36,660
+<i>{\an8}{\fs10}suiheisen no mukougawa</i>
+
+35
+00:01:39,250 --> 00:01:40,950
+<i>... benim hedeflediğim şey!</i>
+
+36
+00:01:39,250 --> 00:01:40,950
+<i>{\an8}{\fs10}mezashite</i>
+
+37
+00:01:41,050 --> 00:01:44,080
+<i>Bir su patlamasıyla,</i>
+
+38
+00:01:41,050 --> 00:01:44,080
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+39
+00:01:44,170 --> 00:01:46,630
+<i>Arayışıma başladım,</i>
+
+40
+00:01:44,170 --> 00:01:46,630
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+41
+00:01:46,710 --> 00:01:49,800
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+42
+00:01:46,710 --> 00:01:49,800
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+43
+00:01:51,210 --> 00:01:54,130
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+44
+00:01:51,210 --> 00:01:54,130
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+45
+00:01:54,220 --> 00:01:56,350
+<i>Heryere gideceğim</i>
+
+46
+00:01:54,220 --> 00:01:56,350
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+47
+00:01:56,470 --> 00:02:03,020
+<i>Hiç görmediğim ışığı arayarak</i>
+
+48
+00:01:56,470 --> 00:02:03,020
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+49
+00:02:13,250 --> 00:02:15,908
+O ikisini al ve gözümden kaybol!
+
+50
+00:02:15,909 --> 00:02:18,722
+Hala hayatlarınız varken! Sizi güçsüzler!
+
+51
+00:02:22,850 --> 00:02:25,118
+Gökyüzü Adası var.
+
+52
+00:02:27,150 --> 00:02:27,950
+Zoro!
+
+53
+00:02:29,050 --> 00:02:30,050
+Luffy!
+
+54
+00:02:33,150 --> 00:02:36,850
+Bahsettikleri "Yeni Çağ" saçmalık.
+
+55
+00:02:38,250 --> 00:02:41,702
+Korsanların hayal kurduğu devir kapandı mı?
+
+56
+00:02:41,703 --> 00:02:42,250
+Eh?
+
+57
+00:02:42,251 --> 00:02:43,150
+Hey!
+
+58
+00:02:47,650 --> 00:02:49,978
+İNSANLARIN HAYALLERİ...
+
+59
+00:02:50,850 --> 00:02:52,950
+...ASLA BİTMEZ!
+
+60
+00:02:56,502 --> 00:03:02,592
+Efsanevi Aile!
+Yalancı Norland
+
+61
+00:03:04,010 --> 00:03:05,011
+Kahretsin.
+
+62
+00:03:05,219 --> 00:03:06,095
+Kahretsin.
+
+63
+00:03:06,220 --> 00:03:06,929
+Kahretsin.
+
+64
+00:03:07,388 --> 00:03:08,298
+Kahretsin.
+
+65
+00:03:08,298 --> 00:03:09,098
+O.
+
+66
+00:03:09,098 --> 00:03:10,641
+Orangutan.
+
+67
+00:03:10,641 --> 00:03:14,186
+Gemiye daha fazla delik açtı.
+
+68
+00:03:14,186 --> 00:03:17,189
+Onu hiç böyle kötü durumda görmemiştim.
+
+69
+00:03:17,189 --> 00:03:18,107
+Yenisinin vakti gelmedi mi?
+
+70
+00:03:18,107 --> 00:03:20,902
+GÖRÜŞÜNÜ SORMADIM, LANET OLASI!
+
+71
+00:03:20,902 --> 00:03:22,028
+LANET OLASI!
+
+72
+00:03:22,028 --> 00:03:26,365
+En başında bu gemiyi nasıl
+aldığımızı biliyorsun, değil mi?!
+
+73
+00:03:26,365 --> 00:03:28,068
+DEĞİL Mİ?!
+
+74
+00:03:28,068 --> 00:03:29,827
+Biliyoruz Usopp.
+
+75
+00:03:29,827 --> 00:03:31,203
+Ama şikayet etmenin hiçbir yararı yok.
+
+76
+00:03:31,704 --> 00:03:35,166
+Going Merry bizim için önemli bir arkadaş.
+
+77
+00:03:33,372 --> 00:03:34,575
+LANET OLASI!
+
+78
+00:03:34,575 --> 00:03:36,334
+LANET-! LANET-!
+
+79
+00:03:35,166 --> 00:03:37,576
+Bu yüzden sıkı çalışalım ve
+onu kendimiz tamir edelim.
+
+80
+00:03:37,575 --> 00:03:38,085
+BİLİYOR-!
+
+81
+00:03:38,336 --> 00:03:41,422
+Luffy... sen tam bir...
+
+82
+00:03:39,462 --> 00:03:41,422
+BİL-! BİL-! BİLİYORUM!
+
+83
+00:03:42,632 --> 00:03:43,382
+Aah.
+
+84
+00:03:43,966 --> 00:03:45,927
+...PİSLİKSİN!!
+
+85
+00:03:45,927 --> 00:03:48,679
+ONU TAMİR ETMEYE Mİ YOKSA
+PARÇALAMAYA MI ÇALIŞIYORSUN?!
+
+86
+00:03:48,679 --> 00:03:50,640
+Şey, gerçekten tamir etmek istiyorum.
+
+87
+00:03:50,890 --> 00:03:52,141
+Ah, yine kırdım.
+
+88
+00:03:52,141 --> 00:03:53,851
+LUFFY!!
+
+89
+00:03:55,102 --> 00:03:58,731
+Alayşehir'den ayrıldıktan
+sonra, dolaşıp doğuya geldik.
+
+90
+00:03:59,315 --> 00:04:01,400
+Birazdan haritadaki yerde olmamız lazım.
+
+91
+00:04:01,400 --> 00:04:02,777
+Demek görüşeceğimiz bu adam...
+
+92
+00:04:02,777 --> 00:04:03,778
+Neydi adı?
+
+93
+00:04:03,778 --> 00:04:06,030
+Montblanc Cricket.
+
+94
+00:04:06,030 --> 00:04:09,075
+Bu hayallerden bahseden adam
+orada yaşıyor, değil mi?
+
+95
+00:04:09,825 --> 00:04:12,036
+MÜ-MÜTHİŞ!
+
+96
+00:04:12,912 --> 00:04:14,789
+Bu onun evi mi?!
+
+97
+00:04:14,789 --> 00:04:16,207
+Bu bir saray!
+
+98
+00:04:16,207 --> 00:04:21,003
+Bu Montblanc Cricket zengin falan mı?!
+
+99
+00:04:21,003 --> 00:04:23,089
+Aptallar, iyi bakın.
+
+100
+00:04:23,089 --> 00:04:24,999
+Hayaller kuran adam, ha?
+
+101
+00:04:24,999 --> 00:04:27,885
+Daha çok büyük bir gösteriş gibi.
+
+102
+00:04:29,220 --> 00:04:30,096
+Ne demek istiyorsun?
+
+103
+00:04:34,809 --> 00:04:36,727
+Sadece tahta mı?
+
+104
+00:04:36,727 --> 00:04:38,479
+NE?!
+
+105
+00:04:38,479 --> 00:04:41,816
+Sadece yarım evi var. Diğer yarısı ise uydurma.
+
+106
+00:04:41,816 --> 00:04:43,985
+Demek adam cimri.
+
+107
+00:04:44,569 --> 00:04:47,822
+Şehirden kovulmasını sağlayacak ne
+tür bir hayalden bahsediyordu acaba?
+
+108
+00:04:47,822 --> 00:04:49,949
+Detayları bilmiyorum, ama...
+
+109
+00:04:50,408 --> 00:04:54,912
+Görünüşe bakılırsa Jaya Adası'nda bir
+yerde, bir altın dağı olduğunu iddia etmiş.
+
+110
+00:04:54,912 --> 00:04:56,122
+Altın?!
+
+111
+00:04:56,122 --> 00:04:58,374
+Korsan hazinesi falan gibi
+bir şeyi mi kastediyorsun?!
+
+112
+00:04:58,374 --> 00:05:00,543
+Kim bilir.
+
+113
+00:05:01,043 --> 00:05:03,129
+ALTIN!
+
+114
+00:05:03,129 --> 00:05:04,714
+Kaz, Chopper!
+
+115
+00:05:04,714 --> 00:05:05,798
+Altın bulacağız!
+
+116
+00:05:05,798 --> 00:05:07,091
+Sadece yeri kazmam gerekiyor,
+bu sayede bulacak mıyız?
+
+117
+00:05:07,091 --> 00:05:09,760
+Bu kadar nimet içinde yalnız yaşıyor, ha?
+
+118
+00:05:09,760 --> 00:05:10,595
+Merhaba.
+
+119
+00:05:10,595 --> 00:05:11,422
+Evde kimse var mı?
+
+120
+00:05:11,422 --> 00:05:12,680
+ÖYLECE İÇERİ Mİ GİRECEKSİN?!
+
+121
+00:05:13,598 --> 00:05:14,265
+Ne?
+
+122
+00:05:14,265 --> 00:05:15,349
+Burada kimse yok.
+
+123
+00:05:15,349 --> 00:05:16,809
+MERHABA!
+
+124
+00:05:17,852 --> 00:05:18,644
+Cevap yok.
+
+125
+00:05:18,644 --> 00:05:19,562
+Bekle, seni aptal!
+
+126
+00:05:19,562 --> 00:05:21,397
+Ya gerçekten çok tehlikeli bir adam içerideyse?
+
+127
+00:05:21,814 --> 00:05:23,149
+Hey, çocuklar!
+
+128
+00:05:23,149 --> 00:05:24,275
+Burada değil!
+
+129
+00:05:26,110 --> 00:05:27,236
+Şuna bakın.
+
+130
+00:05:28,404 --> 00:05:29,655
+Resimli bir kitap.
+
+131
+00:05:30,406 --> 00:05:32,617
+Epey eski.
+
+132
+00:05:33,242 --> 00:05:35,077
+"Yalancı Norland" diyor.
+
+133
+00:05:36,829 --> 00:05:38,448
+Harika bir isim!
+
+134
+00:05:38,448 --> 00:05:39,616
+Tarzını sevdim!
+
+135
+00:05:39,616 --> 00:05:41,626
+"Yalancı Norland"?
+
+136
+00:05:41,626 --> 00:05:43,044
+Biliyor musun, Sanji-kun?
+
+137
+00:05:43,044 --> 00:05:46,339
+Ama bu kitabın North Blue'da
+yayınlandığını söylüyor.
+
+138
+00:05:46,339 --> 00:05:49,592
+Ah, ben North Blue'da doğdum.
+
+139
+00:05:49,592 --> 00:05:51,302
+Size söylememiş miydim?
+
+140
+00:05:51,302 --> 00:05:52,678
+Ben yeni duyuyorum.
+
+141
+00:05:52,678 --> 00:05:54,513
+Geri kalanımız gibi Doğu'dan olduğunu sanmıştım.
+
+142
+00:05:54,513 --> 00:05:55,598
+Orası büyüdüğüm yer.
+
+143
+00:05:55,598 --> 00:05:56,766
+Kapa çeneni, Chopper!
+
+144
+00:05:56,766 --> 00:05:57,808
+Ne yapıyorsun sen?!
+
+145
+00:05:59,602 --> 00:06:02,188
+Bu Kuzey'de epey ünlü bir hikayedir.
+
+146
+00:06:02,605 --> 00:06:08,611
+Artık çocuklar için sadece bir masal, ama
+Norland denen adamın gerçek olduğunu duymuştum.
+
+147
+00:06:10,863 --> 00:06:13,366
+<i>Bir zamanlar, uzun, uzun zaman önce...</i>
+
+148
+00:06:13,824 --> 00:06:17,370
+<i>Belki de 400 yıldan fazla bir süre önce,...</i>
+
+149
+00:06:18,579 --> 00:06:23,793
+<i>...Kuzey Denizi'ndeki bir ülkede, Montblanc
+Norland adında bir adam yaşardı.</i>
+
+150
+00:06:24,835 --> 00:06:30,299
+<i>Norland her zaman, kulağa yalan gibi gelen
+büyük maceralardan bahseden bir kaşifti.</i>
+
+151
+00:06:30,299 --> 00:06:35,137
+<i>Ama köylüler, o hikayelerin gerçek
+olup olmadığını asla söyleyemedi.</i>
+
+152
+00:06:36,305 --> 00:06:41,102
+<i>Bir gün, Norland uzun bir yolculuktan
+döndü ve krala rapor vermeye gitti.</i>
+
+153
+00:06:42,061 --> 00:06:46,941
+<i>"Büyük Deniz'deki bir adada altın dağı gördüm."</i>
+
+154
+00:06:47,441 --> 00:06:50,486
+<i>Cesur kral bunu kendisi görmek istediğinden,...</i>
+
+155
+00:06:51,112 --> 00:06:56,275
+<i>...2000 askeriyle birlikte,
+Büyük Deniz'e doğru yola çıktı.</i>
+
+156
+00:06:56,275 --> 00:06:59,912
+<i>Büyük fırtınalar atlatıp, korkunç
+canavarlarla dövüştükten sonra,...</i>
+
+157
+00:06:59,912 --> 00:07:07,211
+<i>...adaya ulaşabilenler sadece
+Norland, Kral ve 100 askeriydi.</i>
+
+158
+00:07:07,837 --> 00:07:12,341
+<i>Ama Kral ve adamları, orada
+sadece boş bir orman buldular.</i>
+
+159
+00:07:13,301 --> 00:07:17,597
+<i>Norland yalanlarından ötürü ölüme mahkum edildi.</i>
+
+160
+00:07:18,055 --> 00:07:20,850
+<i>Ve bunlar Norland'ın son sözleriydi:...</i>
+
+161
+00:07:21,809 --> 00:07:25,313
+<i>"Tabi ya! Altın dağı denize batmış olmalı!"</i>
+
+162
+00:07:25,897 --> 00:07:28,733
+<i>Kral ve buyruğu altındakiler şok oldu.</i>
+
+163
+00:07:28,733 --> 00:07:31,861
+<i>Artık Norland'a kimse inanmıyordu.</i>
+
+164
+00:07:31,861 --> 00:07:36,616
+<i>Ama öldüğü güne kadar, Norland
+yalan söylemeyi bırakmadı.</i>
+
+165
+00:07:37,116 --> 00:07:40,286
+<i>- Kuzey Denizi'nden Hikayeler, "Yalancı Norland".</i>
+
+166
+00:07:43,748 --> 00:07:48,711
+Montblanc Cricket, Montblanc Norland'ın torunu mu?
+
+167
+00:07:48,711 --> 00:07:51,631
+Çocukken o hikayeyi çok duydum.
+
+168
+00:07:51,631 --> 00:07:54,842
+North Blue'da o hikayeyi bilmeyen yoktur.
+
+169
+00:07:55,259 --> 00:07:59,430
+Hepimiz North Blue'dan olduğumuz için biliyoruz.
+
+170
+00:07:59,430 --> 00:08:03,476
+Hep "Yalan söylemeyi bırakmazsanız,
+Norland gibi infaz edilirsiniz!" denirdi.
+
+171
+00:08:05,728 --> 00:08:08,564
+Bu gittikçe daha da iyileşiyor!
+
+172
+00:08:08,564 --> 00:08:12,109
+O hikayenin çıkış yerinin Jaya
+olduğunu hiç düşünmemiştim!
+
+173
+00:08:12,109 --> 00:08:19,158
+Şimdiyse Yalancı Norland'ın torunu, ölümünden
+400 yıl sonra aynı altını aramak için buraya geldi.
+
+174
+00:08:19,617 --> 00:08:23,955
+Utanç verici bir yalanla ölen
+atasının adını temize çıkarmak için.
+
+175
+00:08:28,251 --> 00:08:30,670
+Ne neşeli bir aile!
+
+176
+00:08:33,047 --> 00:08:39,554
+Gerçekten 400 yıllık utancın birazcık altın
+çıkarılarak silinebileceğini mi düşünüyor?!
+
+177
+00:08:41,764 --> 00:08:43,975
+Ne basit bir dünyada yaşıyor!
+
+178
+00:08:52,984 --> 00:08:55,152
+<i>Böylece zavallı yalancı...</i>
+
+179
+00:08:55,152 --> 00:08:57,530
+<i>...asla...</i>
+
+180
+00:08:59,115 --> 00:09:03,244
+<i>...denizin cesur savaşçısı olamadan öldü.</i>
+
+181
+00:09:03,869 --> 00:09:05,746
+BANA BAKMA!
+
+182
+00:09:05,746 --> 00:09:08,249
+AYRICA ÖYLE ACI VERİCİ BİR CÜMLE EKLEME!
+
+183
+00:09:09,417 --> 00:09:10,710
+Luffy denize düştü!
+
+184
+00:09:11,085 --> 00:09:12,545
+Ne yapıyorsun?!
+
+185
+00:09:13,462 --> 00:09:15,339
+SİZ DE KİMSİNİZ?!
+
+186
+00:09:15,339 --> 00:09:18,926
+Başkasının evinde rahatlayacak cesaretiniz var!
+
+187
+00:09:18,926 --> 00:09:21,053
+Denizin bu uzantısı benim bölgem.
+
+188
+00:09:21,053 --> 00:09:23,139
+Hey, Usopp! Gidip Luffy'yi al!
+
+189
+00:09:23,139 --> 00:09:23,598
+Tamam!
+
+190
+00:09:23,598 --> 00:09:25,558
+Altının peşindesiniz, değil mi?
+
+191
+00:09:25,558 --> 00:09:26,475
+ÖYLEYSE GEBERİN!
+
+192
+00:09:35,109 --> 00:09:36,485
+SANJI!
+
+193
+00:09:36,068 --> 00:09:36,986
+Sanji-kun!
+
+194
+00:09:37,486 --> 00:09:40,156
+Endişelenmeyin! Kaçırdı!
+
+195
+00:09:41,741 --> 00:09:43,117
+D-Dur biraz!
+
+196
+00:09:43,117 --> 00:09:45,578
+Aptal, onu hafife alırsan olucağı budur.
+
+197
+00:09:46,996 --> 00:09:47,865
+Geri dur!
+
+198
+00:09:47,865 --> 00:09:48,623
+Ben hallederim!
+
+199
+00:09:57,423 --> 00:09:59,717
+Hey, ne yapıyordun sen?!
+
+200
+00:09:59,717 --> 00:10:00,551
+Denizin üstüne...
+
+201
+00:10:01,052 --> 00:10:02,720
+...baloncuklar çıkıyordu!
+
+202
+00:10:03,596 --> 00:10:06,599
+Onlara bakıyordum ve bir kestane ortaya çıktı!
+
+203
+00:10:06,599 --> 00:10:08,684
+Ama kestane aslında bir amcaymış!
+
+204
+00:10:08,684 --> 00:10:11,062
+Sonra da beni suya çekti!
+
+205
+00:10:11,896 --> 00:10:13,147
+Amca!
+
+206
+00:10:15,358 --> 00:10:17,568
+Biraz daha havlu soğut!
+
+207
+00:10:17,568 --> 00:10:19,153
+Bütün pencereleri açın!
+
+208
+00:10:20,529 --> 00:10:21,697
+Dekompresyon hastalığı mı?
+
+209
+00:10:21,697 --> 00:10:23,658
+Yani bu amca hasta mı?
+
+210
+00:10:23,658 --> 00:10:24,242
+Evet.
+
+211
+00:10:24,242 --> 00:10:26,535
+Bazen dalıcıları etkileyen bir hastalık.
+
+212
+00:10:27,328 --> 00:10:30,831
+Kalıcı bir durum değil.
+
+213
+00:10:30,831 --> 00:10:34,877
+Okyanus tabanından yüzeye
+çıkarken azalan basınç...
+
+214
+00:10:34,877 --> 00:10:39,882
+...vücuttaki azotun çözünüp bozulmasına
+ve baloncuklar çıkarmasına sebep olur.
+
+215
+00:10:40,508 --> 00:10:47,390
+Baloncuklar kan damarlarını ve çevresindeki dokuyu
+geriyor; kan akışını, kasları ve eklemleri engelliyor.
+
+216
+00:10:47,390 --> 00:10:49,600
+Evet, Gizemli Etkiler.
+
+217
+00:10:50,309 --> 00:10:58,317
+Kabarcıkların yeniden emilmesine vakit ayırmadan,
+kendisini her gün dalmaya zorluyor olmalı.
+
+218
+00:10:58,693 --> 00:11:00,645
+Ama niye?
+
+219
+00:11:00,645 --> 00:11:01,904
+Bilmiyorum...
+
+220
+00:11:02,488 --> 00:11:03,823
+...ama bu onun için tehlikeli.
+
+221
+00:11:04,282 --> 00:11:06,701
+Koşullara bağlı olarak dekompresyon hastalığı...
+
+222
+00:11:07,326 --> 00:11:09,036
+...ölüme yol açabilir.
+
+223
+00:11:21,257 --> 00:11:23,301
+Oh! Bu Masira değil mi?!
+
+224
+00:11:23,301 --> 00:11:24,510
+Yaşıyor musun?
+
+225
+00:11:24,510 --> 00:11:26,637
+Niye yaşamayayım?
+
+226
+00:11:26,178 --> 00:11:27,179
+Boşver, boşver.
+
+227
+00:11:27,179 --> 00:11:29,515
+Neyse, deminki duyduğum silah sesi miydi?
+
+228
+00:11:29,515 --> 00:11:30,558
+Öyleydi kardeşim!
+
+229
+00:11:30,558 --> 00:11:32,810
+Oyassan'a bir şey olmuş olabilir!
+
+230
+00:11:32,435 --> 00:11:34,520
+Çabuk! Kalbim tamamen pitter-patter!
+
+231
+00:11:37,273 --> 00:11:39,400
+OYASSAN, İYİ MİSİN?!
+
+232
+00:11:41,652 --> 00:11:43,863
+BİZİ ÖLDÜRMEYE GELDİLER!
+
+233
+00:11:43,863 --> 00:11:45,982
+Siz burada ne yapıyorsunuz?!
+
+234
+00:11:45,982 --> 00:11:48,242
+Oyassan'ımıza ne yaptınız?!
+
+235
+00:11:48,242 --> 00:11:49,619
+Neden bahsediyorsunuz?
+
+236
+00:11:49,619 --> 00:11:52,663
+Amcayla ilgileniyoruz. Kaybolun.
+
+237
+00:11:52,663 --> 00:11:53,414
+APTAL!
+
+238
+00:11:53,414 --> 00:11:55,666
+Gerçekten bunu dinleyeceklerini mi sanıyorsun?!
+
+239
+00:11:55,666 --> 00:11:57,001
+Onlar vahşi ve saldırgan maymunlar!
+
+240
+00:11:57,001 --> 00:11:58,085
+Vahşi ve saldırgan!
+
+241
+00:11:57,293 --> 00:11:59,712
+Onları görmüyor musun?!
+
+242
+00:12:01,005 --> 00:12:02,965
+Çok iyisiniz.
+
+243
+00:12:01,464 --> 00:12:03,292
+Pencereden kaçın!
+
+244
+00:12:03,292 --> 00:12:04,926
+GERÇEKTEN DİNLEDİLER.
+
+245
+00:12:04,926 --> 00:12:08,763
+..:: One Person Subs ::..
+Altyazı çeviri ve düzenleme:
+Kazasker - Zübeyir Ayvalık
+
+246
+00:12:11,974 --> 00:12:16,270
+http://kazaskerinyeri.blogspot.com
+
+247
+00:12:19,941 --> 00:12:22,568
+Yani siz de mi burada yaşıyorsunuz?
+
+248
+00:12:22,568 --> 00:12:27,782
+<i>{\an8}Saruyama - Maymun Dağı</i>
+
+249
+00:12:22,568 --> 00:12:27,782
+Evet, Oyassan'ın evi aynı zamanda Saruyama
+Müttefik Kuvvetleri'nin de üssüdür.
+
+250
+00:12:27,782 --> 00:12:30,493
+Genelde kendi gemilerimizde uyuruz,...
+
+251
+00:12:30,868 --> 00:12:33,704
+...çünkü bu ev bizim kalamayacağımız kadar küçük.
+
+252
+00:12:34,288 --> 00:12:36,582
+Siz çok büyüksünüz!
+
+253
+00:12:36,582 --> 00:12:40,461
+Gerçi Dev Amcalarla mukayese edildiğinde
+kulak kiri gibi görünüyorsunuz!
+
+254
+00:12:41,629 --> 00:12:44,298
+Nasıl bu kadar çabuk arkadaş olabilirler?
+
+255
+00:12:44,298 --> 00:12:46,425
+Çok fazla ortak yanları olmalı.
+
+256
+00:12:46,425 --> 00:12:52,098
+Ama siz küçük adamların bu herifi o kadar
+yükseğe tekmeleyebilmenize şaşırdım!
+
+257
+00:12:52,098 --> 00:12:52,848
+Öyle mi?
+
+258
+00:12:52,848 --> 00:12:53,933
+Bunu sen de yapabilirdin.
+
+259
+00:12:53,933 --> 00:12:54,809
+Öyle mi?
+
+260
+00:12:54,809 --> 00:12:56,686
+Elbette yapabilirdin. Sonuçta bir maymunsun.
+
+261
+00:12:57,061 --> 00:12:58,688
+Luffy! Uyandı!
+
+262
+00:12:59,021 --> 00:13:00,064
+Uyandı mı?
+
+263
+00:13:03,609 --> 00:13:05,736
+Ah, haklıymışsın. Gerçekten uçuyor.
+
+264
+00:13:07,947 --> 00:13:09,240
+Elmas Başlı Amca!
+
+265
+00:13:09,240 --> 00:13:10,616
+Sana soracağımız bir şey var!
+
+266
+00:13:15,413 --> 00:13:17,540
+Sıkıntı için üzgünüm.
+
+267
+00:13:17,540 --> 00:13:21,168
+Diğer aptallar gibi altınımın
+peşinde olduğunuzu sanmıştım.
+
+268
+00:13:21,168 --> 00:13:21,627
+Eh?!
+
+269
+00:13:21,627 --> 00:13:23,045
+Altının mı var?!
+
+270
+00:13:23,045 --> 00:13:24,130
+Kes şunu. Hemen kes şunu.
+
+271
+00:13:24,547 --> 00:13:26,882
+Peki bana sormak istediğiniz nedir?
+
+272
+00:13:26,882 --> 00:13:29,302
+Amca, Gökyüzü Adası'na gitmek istiyoruz!
+
+273
+00:13:29,302 --> 00:13:30,344
+Oraya nasıl gideceğimizi söyle!
+
+274
+00:13:31,053 --> 00:13:32,722
+Gökyüzü Adası?
+
+275
+00:13:36,851 --> 00:13:39,228
+Gökyüzü Adası'na inanıyor musunuz?!
+
+276
+00:13:40,521 --> 00:13:42,189
+Yapma! O hasta!
+
+277
+00:13:42,565 --> 00:13:45,067
+Gökyüzü Adası yok mu demek istiyorsun, Amca?!
+
+278
+00:13:48,070 --> 00:13:49,530
+Pekala...
+
+279
+00:13:50,907 --> 00:13:54,035
+Onun var olduğunu söyleyen
+bir adam tanıyorum, ama...
+
+280
+00:13:54,660 --> 00:13:58,080
+...o büyük bir yalancı olmakla ünlü.
+
+281
+00:13:58,080 --> 00:14:00,499
+Ayrıca o zamandan beri ailesi
+gülme malzemesi oluyor.
+
+282
+00:14:01,792 --> 00:14:03,377
+BEN DEĞİLİM!
+
+283
+00:14:04,086 --> 00:14:07,715
+North Blue'daki herkesin duyduğu eski bir hikaye.
+
+284
+00:14:07,715 --> 00:14:10,384
+"Yalancı Norland".
+
+285
+00:14:11,510 --> 00:14:13,137
+Ben değilim demiştim!
+
+286
+00:14:13,137 --> 00:14:14,180
+Duyduğun gibi isim farklı!
+
+287
+00:14:14,889 --> 00:14:19,518
+Sahi, tam adının Montblanc
+Norland olduğunu hatırlıyorum.
+
+288
+00:14:19,518 --> 00:14:21,555
+Norland'la akraba mısın?
+
+289
+00:14:21,555 --> 00:14:22,855
+Torunu musun?!
+
+290
+00:14:22,855 --> 00:14:25,483
+Burası da o hikayenin çıkış yeri mi?
+
+291
+00:14:26,609 --> 00:14:30,279
+Büyükbabamın büyükbabasının
+büyükbabası falan gibi bir şey.
+
+292
+00:14:30,279 --> 00:14:32,281
+Çok uzak bir ata.
+
+293
+00:14:32,281 --> 00:14:34,116
+Hikayesi bana çok sorun çıkartıyor.
+
+294
+00:14:34,116 --> 00:14:37,995
+Sivrisinek bile onun bir damla
+kanını içimde bulamaz.
+
+295
+00:14:39,205 --> 00:14:43,209
+Zamanla Montblanc ailesi şehirden kovuldu
+ve utanç içinde yaşamaya zorlandı.
+
+296
+00:14:43,209 --> 00:14:45,878
+İnsanların ettiği küfürler
+bugün bile sürüp gidiyor.
+
+297
+00:14:46,712 --> 00:14:51,092
+Ama, ailemizdeki hiç kimse ondan nefret etmiyor.
+
+298
+00:14:51,092 --> 00:14:52,218
+Niye?
+
+299
+00:14:52,218 --> 00:14:56,514
+Çünkü Norland dürüst adamların en nadiriydi.
+
+300
+00:14:56,514 --> 00:14:58,599
+Ama, resimli kitap...
+
+301
+00:14:59,016 --> 00:15:02,645
+Resimli kitaptaki Norland'ın son sözleri:...
+
+302
+00:15:02,645 --> 00:15:07,191
+..."Tabi ya! Altın dağı okyanusa gömülmüş olmalı!"
+
+303
+00:15:07,191 --> 00:15:09,977
+Resimde onu aptal bir sırıtışla çizmişler,...
+
+304
+00:15:10,695 --> 00:15:15,866
+...ama pişmanlık içinde
+yüzünden akan yaşlarla öldü.
+
+305
+00:15:15,866 --> 00:15:21,497
+Karaya çıktıkları ada, Norland'ın Altın Şehri
+ilk keşfettiği adayla aynı olan Jaya'ydı.
+
+306
+00:15:21,497 --> 00:15:24,584
+Bunun bir illüzyon olduğu fikrini kabullenemiyorum.
+
+307
+00:15:26,085 --> 00:15:29,839
+Norland, yerkabuğundaki değişikliklerin şehri
+okyanusun dibine göndermiş olabileceğini öne sürdü.
+
+308
+00:15:29,839 --> 00:15:34,760
+Ama başkalarına göre, sadece kendisini
+haklı çıkarmaya çalışan üzgün eziğin tekiydi.
+
+309
+00:15:35,553 --> 00:15:39,932
+Norland, kahkahalarla gülen büyük
+bir kalabalığın önünde infaz edildi.
+
+310
+00:15:39,932 --> 00:15:42,518
+Sadece "Yalancı" adı kaldı.
+
+311
+00:15:42,518 --> 00:15:48,733
+Anlıyorum! Demek sen Montblanc
+ailesinin adını temize çıkarmak için
+okyanusta Altın Şehri'ni arıyorsun!
+
+312
+00:15:48,733 --> 00:15:50,234
+BANA BU SAÇMALIĞI UYDURMA!
+
+313
+00:15:50,860 --> 00:15:52,236
+USOPP!
+
+314
+00:15:52,236 --> 00:15:53,779
+Kahretsin.
+
+315
+00:15:54,280 --> 00:15:57,408
+Uzak atam dürüst bir adam olsun veya olmasın,...
+
+316
+00:15:57,408 --> 00:16:00,786
+...büyük bir kaşif olsun veya
+olmasın, benimle bir alakası yok!
+
+317
+00:16:01,203 --> 00:16:03,530
+Küçük bir çocuk için,...
+
+318
+00:16:03,530 --> 00:16:08,336
+...sırf damarlarında bir aptalın kanı akıyor diye
+alay edilmenin ne demek olduğunu bilir misiniz?
+
+319
+00:16:08,336 --> 00:16:10,004
+Ben bunu yaşayarak büyüdüm!
+
+320
+00:16:13,382 --> 00:16:14,467
+Ama...
+
+321
+00:16:14,467 --> 00:16:17,428
+Evet. Geçen 400 yıl boyunca,...
+
+322
+00:16:17,428 --> 00:16:22,516
+...sayısız aile üyemiz, onurumuzu
+kurtarmaya çalışmak için bu okyanusa geldi.
+
+323
+00:16:22,516 --> 00:16:25,311
+Ve hepsini yitirdik.
+
+324
+00:16:26,354 --> 00:16:28,981
+Ailemden utanır hale geldim.
+
+325
+00:16:28,981 --> 00:16:31,901
+Bu yüzden evimden kaçtım ve korsan oldum.
+
+326
+00:16:32,652 --> 00:16:34,695
+Amca, demek sen de bir korsansın?
+
+327
+00:16:34,695 --> 00:16:37,031
+Olmak istediğimden değil.
+
+328
+00:16:37,031 --> 00:16:40,034
+Sadece Norland'ın lanetinden kurtulmak istedim.
+
+329
+00:16:40,493 --> 00:16:44,914
+Çok sürmeden, kendi korsan tayfamı topladım.
+
+330
+00:16:44,914 --> 00:16:49,543
+Grand Line'a girdikten sonra,
+hayatım maceralarla doluydu.
+
+331
+00:16:50,127 --> 00:16:56,217
+Ama 10 yıl önce, gemim tesadüfenmiş
+gibi bu adaya denk geldi.
+
+332
+00:16:57,552 --> 00:17:04,383
+Norland'dan ve Montblanc ailesinden en çok nefret
+eden kişinin sonuçta buraya gelmesi ne kadar ironik.
+
+333
+00:17:04,383 --> 00:17:09,522
+Aynı hikaye kitabındaki gibi, altın şehri olmayan
+bu adanın burnunda dikilirken düşündüm ki:...
+
+334
+00:17:09,522 --> 00:17:12,483
+..."Bu kader".
+
+335
+00:17:12,483 --> 00:17:14,694
+Kaçacak bir yer kalmadı.
+
+336
+00:17:15,228 --> 00:17:18,899
+Öyleyse bu işi bitirelim, Norland.
+
+337
+00:17:18,899 --> 00:17:20,316
+Şaka yapıyor olmalısın!
+
+338
+00:17:20,316 --> 00:17:23,862
+Kaptan! Aile sorunlarınla
+ilgili bir şey istemiyoruz!
+
+339
+00:17:23,862 --> 00:17:27,365
+Altın Şehri'ni bulman gerekiyorsa, bunu kendin yap.
+
+340
+00:17:27,365 --> 00:17:29,303
+Öyleyse burada ayrılıyoruz.
+
+341
+00:17:29,303 --> 00:17:31,201
+Elveda Kaptan.
+
+342
+00:17:35,339 --> 00:17:37,508
+Eğer varsa, sorun değil.
+
+343
+00:17:37,508 --> 00:17:39,919
+Ama yoksa, yine sorun değil.
+
+344
+00:17:39,919 --> 00:17:43,306
+Bu onun masumiyetini kanıtlamakla ilgili değil.
+
+345
+00:17:44,056 --> 00:17:49,770
+Bu hayatımı mahveden
+adamla aramdaki bir mücadele.
+
+346
+00:17:50,521 --> 00:17:55,443
+Sadece, ölmeden önce onunla aramda
+olan meseleleri çözmek istiyorum.
+
+347
+00:17:59,780 --> 00:18:01,782
+Se-Sen tam bir erkeksin.
+
+348
+00:18:02,742 --> 00:18:04,777
+Peki ya o ikisi?
+
+349
+00:18:04,777 --> 00:18:07,121
+Maymunlar niye burada?
+
+350
+00:18:07,121 --> 00:18:10,291
+Bu da yumruklarıyla okyanusun
+derinlikleri karşısında...
+
+351
+00:18:10,291 --> 00:18:14,211
+...çabalayan erkeklerin bir
+başka inanılmaz draması olmalı.
+
+352
+00:18:14,211 --> 00:18:16,213
+Onlar kitabın hayranları.
+
+353
+00:18:16,213 --> 00:18:17,465
+HAYRANLARI MI?!
+
+354
+00:18:17,465 --> 00:18:19,967
+Epey basit bir ilişkiniz var.
+
+355
+00:18:19,967 --> 00:18:22,011
+Beş ya da altı yıl önceydi.
+
+356
+00:18:22,011 --> 00:18:24,972
+Buraya geldiler ve benimle ilgili söylentiler
+duyduktan sonra arazime dalıp girdiler.
+
+357
+00:18:24,972 --> 00:18:29,644
+"Norland'ın altınının gerçekten var
+olduğunu düşünüyoruz!" dediler.
+
+358
+00:18:31,062 --> 00:18:32,230
+SHOJO!
+
+359
+00:18:32,897 --> 00:18:36,108
+Beni öyle tekmelediğin için
+ölmeye hazır olsan iyi olur!!
+
+360
+00:18:35,316 --> 00:18:37,475
+Öyle vahşi suçlamaları bırak, Masira!
+
+361
+00:18:37,485 --> 00:18:39,445
+Beni kızgın görmek istemezsin!
+
+362
+00:18:40,947 --> 00:18:43,074
+Okyanus burada derin.
+
+363
+00:18:43,074 --> 00:18:47,912
+Beni usandıran bu yalnız his, denizin karanlık
+ve soğuk dibinde daha da kötüleşiyor.
+
+364
+00:18:48,913 --> 00:18:54,377
+Her gün tek başıma dalıyor ve arıyorum.
+
+365
+00:18:54,752 --> 00:18:57,755
+Onlar öylece hayatıma girdiler,...
+
+366
+00:18:57,755 --> 00:19:02,051
+...kendilerini takipçim ilan ettiler ve
+etrafı yakıp yıkmaya başladılar.
+
+367
+00:19:02,051 --> 00:19:04,554
+Böyle basit kalpli aptalları izlemek...
+
+368
+00:19:05,096 --> 00:19:07,974
+Açıkçası hayatımı kurtardılar.
+
+369
+00:19:08,724 --> 00:19:10,017
+Demek istediğimi anlıyor musunuz?
+
+370
+00:19:10,017 --> 00:19:12,186
+Anlıyorum. Demek böyle.
+
+371
+00:19:12,687 --> 00:19:16,774
+Öyle gerçek arkadaşları olan bir
+adam için çok şey ifade ediyor.
+
+372
+00:19:16,774 --> 00:19:19,485
+Evet, maymunlar konusu yeter.
+
+373
+00:19:19,485 --> 00:19:20,486
+ÖYLEYSE ONLARLA İLGİLİ SORU SORMA!
+
+374
+00:19:20,486 --> 00:19:22,530
+KONUYU SEN AÇTIN!
+
+375
+00:19:23,447 --> 00:19:24,323
+Dediğim gibi!
+
+376
+00:19:24,782 --> 00:19:27,159
+Biz Gökyüzü Adası'na gitmek istiyoruz, Amca!
+
+377
+00:19:29,620 --> 00:19:31,372
+Epey sabırsız bir adamsın.
+
+378
+00:19:31,372 --> 00:19:33,624
+Demin dediğimi duymadın mı?
+
+379
+00:19:33,624 --> 00:19:36,870
+Gökyüzü Adası'yla ilgili tek
+kanıt, Yalancı Norland'dan.
+
+380
+00:19:36,870 --> 00:19:40,381
+Onunla uğraşırsan, onun gibi
+kahkaha malzemesi olursun.
+
+381
+00:19:40,381 --> 00:19:43,175
+Ha? Yani o da mı Gökyüzü Adası'na gitmiş?
+
+382
+00:19:43,175 --> 00:19:46,137
+Ne yazık ki, hiç oraya
+gitmekle ilgili bir şey yazmadı.
+
+383
+00:19:46,137 --> 00:19:47,763
+Seyir defteri?
+
+384
+00:19:47,763 --> 00:19:49,557
+O Norland'ın mı?
+
+385
+00:19:49,557 --> 00:19:50,600
+Evet.
+
+386
+00:19:51,392 --> 00:19:52,810
+O bölümü oku.
+
+387
+00:19:53,603 --> 00:19:56,856
+Müthiş. 400 yıl önce yazılmış bir seyir defteri.
+
+388
+00:19:57,481 --> 00:20:02,278
+"Deniz Yılı 1120, Haziran'ın 21'i, hava açık."
+
+389
+00:20:02,278 --> 00:20:04,572
+"Neşeli Villa şehrinden ayrıldık."
+
+390
+00:20:04,572 --> 00:20:10,069
+"Seyir Belirleyici'ye bakıp limandan
+ayrıldık ve kuzeydoğuya gittik."
+
+391
+00:20:10,069 --> 00:20:14,540
+"Öğleden sonra, geçmekte olan bir
+tüccardan epey tuhaf bir araç aldık."
+
+392
+00:20:14,540 --> 00:20:18,294
+"Waver denen bu araç, tek kişilik küçük
+bir gemi ve kayak gibi görünüyor."
+
+393
+00:20:19,045 --> 00:20:23,418
+"Denizde hiç rüzgar olmasa bile,
+kendi rüzgarıyla güçlendirilmiş."
+
+394
+00:20:23,418 --> 00:20:26,427
+"İyi kontrol edemedim. Olağanüstü
+miktarda yetenek gerektriyor."
+
+395
+00:20:26,427 --> 00:20:30,014
+"Tayfanın en sevdiği eğlence
+aktivitesi haline geldi."
+
+396
+00:20:30,014 --> 00:20:32,300
+Olamaz! Bunlardan birini istiyorum!
+
+397
+00:20:31,724 --> 00:20:33,226
+BOŞVER! OKUMAYA DEVAM ET!
+
+398
+00:20:33,976 --> 00:20:37,313
+"Bana bu tür bir makinenin olduğu tek
+yerin Gökyüzü Adası olduğu söylendi."
+
+399
+00:20:37,313 --> 00:20:40,691
+"Görünüşe göre orada bir sürü tuhaf şey var."
+
+400
+00:20:40,691 --> 00:20:46,155
+"Gökyüzü Adası'ndan bahsetmişken,
+bir keresinde kaşif arkadaşlarımdan
+biri canlı bir Gökbalığı göstermişti."
+
+401
+00:20:46,572 --> 00:20:49,075
+"Öyle bir balık görmekten ötürü
+nasıl şaşırdığımı size anlatamam."
+
+402
+00:20:49,075 --> 00:20:50,076
+Gökbalığı?
+
+403
+00:20:50,076 --> 00:20:56,999
+"Gemilerimizin hiç keşfetmediği bir yer,
+ama bir denizci olarak, bir gün gökteki
+bu denizi ziyaret etmek isterim."
+
+404
+00:20:56,999 --> 00:20:59,543
+"- Motblanc Norland."
+
+405
+00:20:59,543 --> 00:21:01,246
+Gökte bir deniz!
+
+406
+00:21:01,246 --> 00:21:03,172
+Robin'in dediği gibi!
+
+407
+00:21:03,172 --> 00:21:06,759
+Üstelik o sırada, herkesin Gökyüzü
+Adası'ndan haberi varmış gibi bahsediyordu.
+
+408
+00:21:07,176 --> 00:21:08,511
+Demek gerçekten var!
+
+409
+00:21:12,223 --> 00:21:14,892
+Oh, Oyassan! Kendini nasıl hissediyorsun?
+
+410
+00:21:14,892 --> 00:21:15,768
+Daha iyi olamazdı!
+
+411
+00:21:16,227 --> 00:21:17,687
+Hele şükür.
+
+412
+00:21:18,271 --> 00:21:20,481
+Oyassan... bu herif...
+
+413
+00:21:19,647 --> 00:21:21,274
+Beni dinleyin.
+
+414
+00:21:21,274 --> 00:21:22,441
+Onlardan hoşlanıyor musunuz?
+
+415
+00:21:23,192 --> 00:21:25,027
+Bunu sormana neden olan ne?
+
+416
+00:21:25,027 --> 00:21:28,990
+Görünüşe göre gerçekten
+Gökyüzü Adası'na gitmek istiyorlar.
+
+417
+00:21:28,990 --> 00:21:31,117
+Gökyüzü Adası?
+
+418
+00:21:31,117 --> 00:21:33,744
+Eğer gideceklerse, oraya ulaşmanın tek yolu var.
+
+419
+00:21:34,120 --> 00:21:37,081
+Yalnız denemeye kalkışırlarsa, bu
+onlar için ani bir ölüm olur, Oyassan!
+
+420
+00:21:37,498 --> 00:21:39,458
+Bu yüzden size sordum.
+
+421
+00:21:39,458 --> 00:21:43,546
+Onlara yardım etme konusunda ne diyorsunuz?
+
+422
+00:22:05,850 --> 00:22:09,021
+Devam edecek...
+
+423
+00:22:09,122 --> 00:22:17,172
+<i>Ah, sonsuz göğün ötesine bakarken...</i>
+
+424
+00:22:17,296 --> 00:22:26,760
+<i>...birgün yaşayacağım bir
+yarını hayal etmeye başlıyorum.</i>
+
+425
+00:22:35,649 --> 00:22:42,697
+<i>Kendimi kaybedeceğimi hissettiğim günler vardı.</i>
+
+426
+00:22:42,990 --> 00:22:50,706
+<i>Ama her zaman gidebileceğim sıcak bir yer vardı.</i>
+
+427
+00:22:51,469 --> 00:22:57,295
+<i>Gurur duyabileceğim insanlar hep oradaydı.</i>
+
+428
+00:22:57,463 --> 00:23:07,306
+<i>Ellerini sırtıma koyuyor ve
+beni ilerlemeye zorluyorlardı.</i>
+
+429
+00:23:08,681 --> 00:23:15,950
+<i>Ah, yıldızlar göğün altında akıyorlar.</i>
+
+430
+00:23:16,814 --> 00:23:18,359
+<i>Bu sadece bir kez olur...</i>

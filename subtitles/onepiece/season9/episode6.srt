@@ -1,0 +1,2019 @@
+﻿1
+00:00:15,550 --> 00:23:20,750
+<i>{\1a&HFF&}{\an7}{\fs9}Kazasker</i>
+
+2
+00:00:15,551 --> 00:00:18,113
+..:: One Person Subs ::..
+Sunar
+
+3
+00:00:18,114 --> 00:00:21,970
+Altyazı çeviri ve düzenleme:
+Kazasker - Zübeyir Ayvalık
+
+4
+00:00:22,170 --> 00:00:23,420
+<i>Dünya...</i>
+
+5
+00:00:24,130 --> 00:00:25,380
+<i>Evet!</i>
+
+6
+00:00:25,800 --> 00:00:27,350
+<i>Özgürlüğü arayın,...</i>
+
+7
+00:00:27,380 --> 00:00:31,550
+<i>...ve dünyanız gözlerinizin önünde uzanmış duracak.</i>
+
+8
+00:00:31,970 --> 00:00:35,390
+<i>Eğer sonsuz bir hayal
+ruhlarınıza rehberlik ediyorsa,...</i>
+
+9
+00:00:35,890 --> 00:00:37,310
+<i>...onu fethedin!</i>
+
+10
+00:00:37,560 --> 00:00:40,390
+<i>Bayrağınızın arkasından inancınızı taşıyın!</i>
+
+11
+00:00:45,190 --> 00:00:48,280
+<i>Bir su patlamasıyla,</i>
+
+12
+00:00:45,190 --> 00:00:48,280
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+13
+00:00:48,360 --> 00:00:50,780
+<i>Arayışıma başladım,</i>
+
+14
+00:00:48,360 --> 00:00:50,780
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+15
+00:00:50,820 --> 00:00:54,200
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+16
+00:00:50,820 --> 00:00:54,200
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+17
+00:00:55,330 --> 00:00:58,330
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+18
+00:00:55,330 --> 00:00:58,330
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+19
+00:00:58,410 --> 00:01:00,370
+<i>Heryere gideceğim</i>
+
+20
+00:00:58,410 --> 00:01:00,370
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+21
+00:01:00,550 --> 00:01:08,630
+<i>Hiç görmediğim ışığı arayarak</i>
+
+22
+00:01:00,550 --> 00:01:08,630
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+23
+00:01:08,710 --> 00:01:14,260
+<i>Yaz renkli güneş, kalbimin
+yelkenini salladığı zaman,</i>
+
+24
+00:01:08,710 --> 00:01:14,260
+<i>{\an8}{\fs10}natsu-iro taiyou ga kokoro no ho o yuraseba</i>
+
+25
+00:01:14,261 --> 00:01:18,810
+<i>uçup git kasvetli mavi deniz...</i>
+
+26
+00:01:14,261 --> 00:01:18,810
+<i>{\an8}{\fs10}fly away glum blue sea...</i>
+
+27
+00:01:18,810 --> 00:01:24,450
+<i>Bu, yeni dünyaya bir kapının açıldığını işaretidir</i>
+
+28
+00:01:18,810 --> 00:01:24,450
+<i>{\an8}{\fs10}atarashii sekai e no tobira o hiraku aizu</i>
+
+29
+00:01:24,451 --> 00:01:28,320
+<i>uçup git kasvetli mavi gökyüzü...</i>
+
+30
+00:01:24,451 --> 00:01:28,320
+<i>{\an8}{\fs10}fly away glum blue sky...</i>
+
+31
+00:01:28,320 --> 00:01:33,320
+<i>Dalgalar arasında sallanırken,
+umutsuzluktan kaçabilirim,</i>
+
+32
+00:01:28,320 --> 00:01:33,320
+<i>{\an8}{\fs10}namima ni yureteru zetsubou o nukete</i>
+
+33
+00:01:33,360 --> 00:01:36,660
+<i>Diğer taraftaki ufuk...</i>
+
+34
+00:01:33,360 --> 00:01:36,660
+<i>{\an8}{\fs10}suiheisen no mukougawa</i>
+
+35
+00:01:39,250 --> 00:01:40,950
+<i>... benim hedeflediğim şey!</i>
+
+36
+00:01:39,250 --> 00:01:40,950
+<i>{\an8}{\fs10}mezashite</i>
+
+37
+00:01:41,050 --> 00:01:44,080
+<i>Bir su patlamasıyla,</i>
+
+38
+00:01:41,050 --> 00:01:44,080
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+39
+00:01:44,170 --> 00:01:46,630
+<i>Arayışıma başladım,</i>
+
+40
+00:01:44,170 --> 00:01:46,630
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+41
+00:01:46,710 --> 00:01:49,800
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+42
+00:01:46,710 --> 00:01:49,800
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+43
+00:01:51,210 --> 00:01:54,130
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+44
+00:01:51,210 --> 00:01:54,130
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+45
+00:01:54,220 --> 00:01:56,350
+<i>Heryere gideceğim</i>
+
+46
+00:01:54,220 --> 00:01:56,350
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+47
+00:01:56,470 --> 00:02:03,020
+<i>Hiç görmediğim ışığı arayarak</i>
+
+48
+00:01:56,470 --> 00:02:03,020
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+49
+00:02:04,992 --> 00:02:14,001
+Rotayı Bulutlara Çevirin!
+Güneykuşu'nu Bul!
+
+50
+00:02:15,753 --> 00:02:17,380
+Bize ne söylemek istedin, Amca?
+
+51
+00:02:18,339 --> 00:02:19,298
+Dinleyin çocuklar.
+
+52
+00:02:19,298 --> 00:02:24,554
+Önce size Gökyüzü Adası'yla ilgili
+bildiğim her şeyi anlatacağım.
+
+53
+00:02:24,554 --> 00:02:26,681
+Doğru olup olmadığını bilmiyorum,...
+
+54
+00:02:26,681 --> 00:02:28,975
+...bu yüzden inanıp inanmamak size kalmış.
+
+55
+00:02:29,183 --> 00:02:30,518
+Tamam, sana inanıyorum.
+
+56
+00:02:30,518 --> 00:02:31,435
+Bu çok çabuk oldu!
+
+57
+00:02:31,644 --> 00:02:35,223
+Denizin bu bölümüne özgü olan bir şey var.
+
+58
+00:02:35,223 --> 00:02:39,402
+Bazen gün ortasında bile, okyanusun belli bir
+bölümü aniden gece gibi karanlık hale gelir.
+
+59
+00:02:39,902 --> 00:02:40,820
+Bu oldu!
+
+60
+00:02:40,820 --> 00:02:42,321
+Bu bize oldu!
+
+61
+00:02:42,321 --> 00:02:42,989
+Değil mi?
+
+62
+00:02:42,989 --> 00:02:43,614
+Evet!
+
+63
+00:02:43,614 --> 00:02:44,865
+Gece oldu...
+
+64
+00:02:44,865 --> 00:02:47,743
+...ve sonra bir grup canavar ortaya çıktı!
+
+65
+00:02:49,370 --> 00:02:50,663
+Devleri mi kastediyorsunuz?
+
+66
+00:02:50,663 --> 00:02:53,624
+Nereden geldiklerine dair bir hikaye var.
+
+67
+00:02:53,624 --> 00:02:55,209
+Ama şimdilik onları unutalım.
+
+68
+00:02:55,376 --> 00:02:57,920
+Aniden gece olmasının gerçek doğası...
+
+69
+00:03:00,881 --> 00:03:04,218
+...devasa yoğunluktaki
+bulutların gölgesiyle alakalı.
+
+70
+00:03:04,218 --> 00:03:06,012
+Kümülonimbus bulutlarını mı kastediyorsunuz?
+
+71
+00:03:06,012 --> 00:03:08,556
+Sadece tepemizdeki bulutun
+yapabileceğinden çok daha fazla karanlıktı.
+
+72
+00:03:09,599 --> 00:03:11,100
+Amca, çok aptalsın!
+
+73
+00:03:11,100 --> 00:03:13,436
+Çok fazla bulut olduğu günlerde, hava bulutu olur!
+
+74
+00:03:13,436 --> 00:03:14,812
+Evet, bulutlu.
+
+75
+00:03:14,812 --> 00:03:15,521
+Bulutlu!
+
+76
+00:03:15,521 --> 00:03:16,814
+KAPAYIN ÇENENİZİ VE DİNLEYİN!
+
+77
+00:03:17,857 --> 00:03:21,402
+Kümüloregalis. Bu tür bulutun adı bu.
+
+78
+00:03:21,402 --> 00:03:26,908
+Göğün yukarısında ve içinde şekillenir. Hava
+akımları oluşmaz ve asla yağmura dönüşmez.
+
+79
+00:03:26,908 --> 00:03:29,785
+Bunlardan biri gökteyken,...
+
+80
+00:03:29,994 --> 00:03:34,457
+...güneş ışınları bile delip geçemez ve
+altındaki bölgede gündüz gece olur.
+
+81
+00:03:34,874 --> 00:03:37,209
+Başka bir duyum ise Kümüloregalis bulutlarının...
+
+82
+00:03:37,209 --> 00:03:41,165
+...binlerce veya on binlerce yıl değişmeden
+kalarak, gökyüzünde dolaştığını bildiriyor.
+
+83
+00:03:41,165 --> 00:03:42,924
+Aynı taşlaşmış bir bulut gibi.
+
+84
+00:03:42,924 --> 00:03:44,759
+Bu imkansız!
+
+85
+00:03:44,759 --> 00:03:47,386
+Hiçbir bulut hava akımları
+oluşturmadan şekillenemez!
+
+86
+00:03:47,803 --> 00:03:50,348
+Var olmadığını düşünmekte özgürsün.
+
+87
+00:03:50,348 --> 00:03:52,850
+Bana inanmanızı istemedim.
+
+88
+00:03:53,309 --> 00:03:55,061
+Demek bu Gizemli Bulut.
+
+89
+00:03:55,519 --> 00:03:56,270
+Aynen öyle.
+
+90
+00:03:56,270 --> 00:03:58,522
+Varlığının bir açıklaması yok.
+
+91
+00:03:58,522 --> 00:03:59,941
+Luffy, bu müthiş!
+
+92
+00:04:00,107 --> 00:04:04,153
+Anladınız mı? Gökyüzü adası gerçekten varsa,...
+
+93
+00:04:04,153 --> 00:04:05,947
+...bu olabileceği tek yer!
+
+94
+00:04:06,197 --> 00:04:07,490
+Ah, tamam!
+
+95
+00:04:07,490 --> 00:04:09,116
+O bulutun üstüne çıkalım!
+
+96
+00:04:09,116 --> 00:04:10,910
+Zoro, uyan!
+
+97
+00:04:10,409 --> 00:04:11,244
+Sabah mı oldu?
+
+98
+00:04:11,244 --> 00:04:13,287
+Rotayı bulutlara çevirin!
+
+99
+00:04:11,244 --> 00:04:12,821
+Hey, herkes hazır olsun!
+
+100
+00:04:12,821 --> 00:04:13,913
+Rotayı bulutlara çevirin!
+
+101
+00:04:13,287 --> 00:04:13,913
+Çevirin!
+
+102
+00:04:14,288 --> 00:04:15,206
+Çevirin!
+
+103
+00:04:14,288 --> 00:04:17,124
+Amca, anlattığın için sağol!
+
+104
+00:04:15,206 --> 00:04:17,124
+Rotayı bulutlara çevirin!
+
+105
+00:04:17,124 --> 00:04:19,835
+Çevirin! Çevirin! Çevirin!
+
+106
+00:04:17,583 --> 00:04:19,835
+ORAYA NASIL GİDİLECEĞİNİ BİLMEDİĞİMİZİ
+SİZE KAÇ KERE SÖYLEMELİYİM?!
+
+107
+00:04:21,837 --> 00:04:23,339
+Şimdi asıl sorun.
+
+108
+00:04:23,339 --> 00:04:25,258
+Ve sizi uyarmalıyım.
+Hayatınızı tehlikeye atacaksınız!
+
+109
+00:04:25,258 --> 00:04:26,842
+Zaten yarı ölü sayılırız.
+
+110
+00:04:27,134 --> 00:04:31,013
+Dikey yöndeki akıntı, Fırlatan Akıntı.
+
+111
+00:04:31,013 --> 00:04:33,341
+O akıntıyı tutturabilirseniz, Gökyüzü
+Adası'na ulaşmayı başarabilirsiniz.
+
+112
+00:04:33,341 --> 00:04:35,142
+Teori böyle. Anlaşıldı mı?
+
+113
+00:04:35,351 --> 00:04:39,021
+Gemimizi havaya fırlatacak olan akıntı, değil mi?
+
+114
+00:04:39,021 --> 00:04:41,857
+Oh! Demek sadece bulutlara fırlatılmamız gerekiyor!
+
+115
+00:04:45,570 --> 00:04:47,071
+Bir okyanus akıntısı üstünde mi?
+
+116
+00:04:47,071 --> 00:04:51,492
+Ama onunla karşılaşan gemilerin dosdoğru
+okyanusa geri düştüğünü duymuştuk.
+
+117
+00:04:51,492 --> 00:04:53,119
+Genelde, evet.
+
+118
+00:04:53,119 --> 00:04:54,996
+Doğru zamanlamayı yapmalısınız.
+
+119
+00:04:54,996 --> 00:05:00,251
+Öncelikle, deniz akıntısı tarafından gökyüzüne
+fırlatılmakla ilgili konuşması kolay,...
+
+120
+00:05:00,251 --> 00:05:04,630
+...ama sizin düşünmüş olabileceğiniz
+gibi güzel ve rahat bir yolculuk değil.
+
+121
+00:05:06,674 --> 00:05:10,052
+Fırlatan Akıntı'yla karşılaşmak felakettir.
+
+122
+00:05:10,052 --> 00:05:13,180
+Doğası itibariyle, her pahasına kaçınılmalı.
+
+123
+00:05:14,891 --> 00:05:18,227
+Ama onun göğe ulaşmasına izin veren prensip nedir?
+
+124
+00:05:18,227 --> 00:05:22,023
+Daha önce hiç böyle bir şey duymamıştık.
+
+125
+00:05:22,899 --> 00:05:23,733
+Evet.
+
+126
+00:05:25,693 --> 00:05:30,907
+O canavar akıntının arkasındaki
+prensip mantığın ötesinde değil.
+
+127
+00:05:30,907 --> 00:05:34,201
+Ama hiç kimse onu araştırmaya yetecek
+derecede derine dalacak kadar aptal olmadı.
+
+128
+00:05:34,827 --> 00:05:36,162
+Teorisi ise şu şekilde:...
+
+129
+00:05:40,458 --> 00:05:43,952
+...Okyanusun altında mağara
+benzeri hava cepleri var.
+
+130
+00:05:43,952 --> 00:05:47,173
+Bazen soğuk deniz suyu
+o ceplerden birine sızıyor.
+
+131
+00:05:47,173 --> 00:05:51,010
+Altta bulunan jeotermal enerji, bu
+suyu, sualtı patlamaları oluşturan...
+
+132
+00:05:51,010 --> 00:05:54,388
+...yüksek basınçlı buhara dönüştürüyor.
+
+133
+00:05:54,388 --> 00:06:00,394
+Patlama okyanus suyunu kabartıyor
+ve göğe doğru bir akıntı oluşturuyor.
+
+134
+00:06:02,813 --> 00:06:07,610
+Yaklaşık olarak bir dakikalığına,
+deniz gökyüzüne bağlanıyor.
+
+135
+00:06:07,610 --> 00:06:09,153
+Bir dakika mı?!
+
+136
+00:06:09,153 --> 00:06:12,281
+Nasıl çılgın bir patlama
+suyu o şekilde fırlatabilir?!
+
+137
+00:06:12,490 --> 00:06:14,825
+Patlamanın yeri her seferinde farklıdır...
+
+138
+00:06:14,825 --> 00:06:16,285
+...ve ayda beş kez falan olur.
+
+139
+00:06:17,161 --> 00:06:19,830
+Parçalara ayrılırız.
+
+140
+00:06:20,289 --> 00:06:23,709
+Evet, neyse, bu şahane bir doğal fenomen.
+
+141
+00:06:23,709 --> 00:06:27,213
+Bunu teorilerle açıklamaya ve
+konuşmaya çalışmak manasız.
+
+142
+00:06:27,213 --> 00:06:29,006
+Yani...
+
+143
+00:06:29,006 --> 00:06:33,295
+...ayda beş kez ortaya çıkan bu okyanus akıntısı...
+
+144
+00:06:33,295 --> 00:06:35,179
+...Gökyüzü Adası'na ulaşmanın tek yolu mu?
+
+145
+00:06:35,596 --> 00:06:37,557
+Evet ve avantajlı olan siz değilsiniz.
+
+146
+00:06:37,890 --> 00:06:40,726
+Üzerine çıkabileceğiniz bir şey yoksa,...
+
+147
+00:06:40,726 --> 00:06:44,313
+...düşüp okyanus yüzeyine çarpacaksınız...
+
+148
+00:06:44,313 --> 00:06:46,983
+...ve su yosunu parçaları olacaksınız.
+
+149
+00:06:48,568 --> 00:06:49,610
+Ta-Tamam!
+
+150
+00:06:49,610 --> 00:06:50,987
+Gökyüzü Adası'ndan vazgeçelim!
+
+151
+00:06:53,739 --> 00:06:54,774
+Bu delilik!
+
+152
+00:06:54,774 --> 00:06:55,575
+Beni dinle!
+
+153
+00:06:55,575 --> 00:07:00,913
+Başarmak için şanslının en şanslısının, en
+şanslısının, en şanslısının, en şanslısı olmalıyız!
+
+154
+00:07:03,249 --> 00:07:04,458
+Bir şey olmayacak!
+
+155
+00:07:04,458 --> 00:07:05,285
+Gidelim!
+
+156
+00:07:05,285 --> 00:07:06,085
+Biliyordum.
+
+157
+00:07:06,752 --> 00:07:10,590
+Bir şey olmayacak mı? Böyle desteksizce
+şeyler söylemeye nasıl devam edebilirsin?
+
+158
+00:07:10,590 --> 00:07:13,593
+Demek istediğim, Going Merry'ye bir bak!
+
+159
+00:07:13,593 --> 00:07:15,595
+Ne kadar acı içerisinde olduğuna bak!
+
+160
+00:07:16,220 --> 00:07:20,016
+Bu durumda öyle bir felaket
+karşısında dayanamayacak!
+
+161
+00:07:20,016 --> 00:07:24,353
+Haklı. O gemi yeni olsaydı bile asla başaramazdı!
+
+162
+00:07:24,645 --> 00:07:25,771
+NE?!
+
+163
+00:07:25,771 --> 00:07:28,024
+Hız, ağırlık, güç...
+
+164
+00:07:28,024 --> 00:07:31,235
+O gemi patlamayla birlikte parçalara ayrılırdı.
+
+165
+00:07:31,235 --> 00:07:32,945
+A... Ama...
+
+166
+00:07:33,946 --> 00:07:34,780
+Gördün mü?
+
+167
+00:07:34,780 --> 00:07:36,198
+Dediğim gibi, delilik.
+
+168
+00:07:36,198 --> 00:07:38,902
+Ama bu konuda endişelenmenize gerek yok.
+
+169
+00:07:38,902 --> 00:07:42,246
+Masira ve Shoji'ye geminizi
+yeniden donattıracağım.
+
+170
+00:07:42,246 --> 00:07:45,207
+Elbette geminin kasasını da güçlendirecekler.
+
+171
+00:07:45,207 --> 00:07:47,826
+Evet! Bize bırakın çocuklar!
+
+172
+00:07:47,826 --> 00:07:49,295
+Sağolun!
+
+173
+00:07:49,295 --> 00:07:51,672
+<i>Bunu yapmana gerek yok.</i>
+
+174
+00:07:53,049 --> 00:07:55,009
+Ne yaptığını biliyor musun?
+
+175
+00:07:55,009 --> 00:07:55,551
+Ne?
+
+176
+00:07:55,551 --> 00:07:56,802
+Evet, başlangıç olarak...
+
+177
+00:07:56,802 --> 00:07:57,595
+Sahi!
+
+178
+00:07:57,595 --> 00:08:02,225
+Bu adada en fazla bir gün daha kalabiliriz.
+
+179
+00:08:02,225 --> 00:08:06,771
+Ondan sonra, Seyir Belirleyici bir sonraki
+adanın manyetik alanına ayarlanacak.
+
+180
+00:08:06,771 --> 00:08:08,564
+Evet! Evet!
+
+181
+00:08:08,564 --> 00:08:09,690
+Zamanında başaramayacağız!
+
+182
+00:08:10,024 --> 00:08:11,275
+Hey, Amca!
+
+183
+00:08:11,275 --> 00:08:14,146
+Psişik olmadığını biliyorum ve
+büyük ihtimalle bilmiyorsun, ama...
+
+184
+00:08:14,146 --> 00:08:19,867
+...bir sonraki Fırlatan Akıntı'dan
+önce kaç günümüz var?
+
+185
+00:08:19,867 --> 00:08:22,027
+Ya da, ya da, ya da, ya da, ya da, yada kaç ay?
+
+186
+00:08:22,027 --> 00:08:24,830
+Hayır, kaç yıl?
+
+187
+00:08:24,830 --> 00:08:28,167
+Yarın öğleden sonra. Gidecekseniz
+hazır olsanız iyi olur.
+
+188
+00:08:28,167 --> 00:08:30,211
+BAŞARACAK MIYIZ DEMEK İSTİYORSUN?!
+
+189
+00:08:30,211 --> 00:08:31,254
+Ne?
+
+190
+00:08:31,254 --> 00:08:33,130
+Gitmek istemiyorsanız, gitmeyin.
+
+191
+00:08:35,299 --> 00:08:36,342
+Yalan söylüyorsun!
+
+192
+00:08:37,093 --> 00:08:38,719
+Bu işte bir bit yeniği var!
+
+193
+00:08:38,719 --> 00:08:40,596
+Seninle daha bugün tanıştık!
+
+194
+00:08:40,596 --> 00:08:42,265
+Biraz fazla iyi davranmıyor musun?!
+
+195
+00:08:42,557 --> 00:08:44,058
+Ü-Üstelik...
+
+196
+00:08:44,308 --> 00:08:45,393
+Hey, Usopp!
+
+197
+00:08:45,393 --> 00:08:46,644
+Sen çeneni kapa!
+
+198
+00:08:47,186 --> 00:08:49,063
+Gökyüzü Adası...
+
+199
+00:08:49,063 --> 00:08:52,567
+...yerini bile bilmediğimiz efsanevi bir
+adaya gitmek için en iyi fırsatımız...
+
+200
+00:08:53,067 --> 00:08:54,277
+...yarın mı?
+
+201
+00:08:54,527 --> 00:08:58,698
+Oraya ulaşmamıza yardım etmek için gemimizi
+yeniden donatacak ve güçlendirecek misin?!
+
+202
+00:08:58,698 --> 00:09:00,408
+Bu doğru olamayacak kadar iyi!
+
+203
+00:09:00,408 --> 00:09:02,326
+Neler planlıyorsun?!
+
+204
+00:09:02,702 --> 00:09:05,788
+Yalancı Norland'ın torunusun, değil mi?!
+
+205
+00:09:06,247 --> 00:09:07,790
+Sana güvenemeyiz!
+
+206
+00:09:11,210 --> 00:09:12,461
+OYASSAN!
+
+207
+00:09:12,461 --> 00:09:14,505
+Yemek hazır!
+
+208
+00:09:14,505 --> 00:09:15,581
+Çekilin.
+
+209
+00:09:15,581 --> 00:09:16,799
+Nami-swan~!
+
+210
+00:09:16,799 --> 00:09:17,925
+Yemek hazır!
+
+211
+00:09:20,761 --> 00:09:22,054
+N-Ne var?!
+
+212
+00:09:22,054 --> 00:09:23,180
+D-Dövüşmek mi istiyorsun?
+
+213
+00:09:24,015 --> 00:09:25,600
+Masira,...
+
+214
+00:09:25,600 --> 00:09:29,854
+...bölgesinde aniden gece olduğunda,...
+
+215
+00:09:29,854 --> 00:09:32,732
+...ertesi gün güney tarafında hep
+Kümüloregalis bulutu gördüğünü söylüyor.
+
+216
+00:09:32,982 --> 00:09:35,109
+Ayrıca, ayda beş seferlik dönüşümüne dayanarak...
+
+217
+00:09:35,109 --> 00:09:38,779
+...Fırlatan Akıntı'nın büyük ihtimalle
+yarın gerçekleşeceğini tahmin ediyorum.
+
+218
+00:09:39,614 --> 00:09:42,533
+Orası aynı zamanda buranın da güneyi.
+
+219
+00:09:42,533 --> 00:09:44,660
+%100 emin değilim,...
+
+220
+00:09:44,660 --> 00:09:47,622
+...ama o iki olayın kesişme ihtimali kuvvetli.
+
+221
+00:09:54,170 --> 00:09:58,132
+Sizin gibi bir grup aptalla
+tanışmaktan ötürü mutluyum.
+
+222
+00:10:00,343 --> 00:10:02,803
+Şimdi, yemek yiyelim.
+
+223
+00:10:02,803 --> 00:10:05,598
+Evimde rahatınıza bakmanızı istiyorum,...
+
+224
+00:10:05,598 --> 00:10:06,515
+...yoldaşlarım.
+
+225
+00:10:10,436 --> 00:10:12,480
+Yemek! Acele et, amca!
+
+226
+00:10:12,480 --> 00:10:13,648
+Evet, gelin!
+
+227
+00:10:13,648 --> 00:10:15,524
+Chopper, Robin-chan'ı çağır!
+
+228
+00:10:15,524 --> 00:10:16,234
+Tamam!
+
+229
+00:10:18,527 --> 00:10:21,072
+Göğe ulaşmak istiyorsak,
+yapabileceğimizin en iyisi...
+
+230
+00:10:21,072 --> 00:10:23,074
+...onunla arkadaş olmaya çalışmak.
+
+231
+00:10:23,074 --> 00:10:25,117
+Ama sonuçta her şey şansa bağlı.
+
+232
+00:10:25,326 --> 00:10:26,494
+Nami...
+
+233
+00:10:26,494 --> 00:10:28,496
+...ben çok mu korkağım?
+
+234
+00:10:28,788 --> 00:10:30,574
+Hem de aptalsın.
+
+235
+00:10:30,573 --> 00:10:32,450
+Nasıl hissettiğini biliyorum.
+
+236
+00:10:32,450 --> 00:10:34,293
+Şimdi gidip özür dile.
+
+237
+00:10:36,921 --> 00:10:40,216
+OYASSAN, ÜZGÜNÜM~!
+
+238
+00:10:38,798 --> 00:10:40,216
+N-N-Neden bahsediyorsun?
+
+239
+00:10:40,216 --> 00:10:41,133
+Ah, iğrenç!
+
+240
+00:10:41,133 --> 00:10:42,468
+Sümüklerin bulaşıyor!
+
+241
+00:10:42,468 --> 00:10:43,219
+Sersem!
+
+242
+00:10:49,267 --> 00:10:52,144
+Kahretsin, romun tadı bugün harika!
+
+243
+00:10:52,353 --> 00:10:53,646
+Hey, yiyin! Yiyin!
+
+244
+00:10:53,646 --> 00:10:55,856
+Bütün bir turnabalığı var ve dahası geliyor!
+
+245
+00:10:55,856 --> 00:10:56,440
+Al bakalım!
+
+246
+00:10:57,358 --> 00:10:58,685
+Yuttun işte, seni gemi çıkarma delisi!
+
+247
+00:10:58,685 --> 00:11:00,278
+O benim Tabasco Bombacı'mdı!
+
+248
+00:11:00,987 --> 00:11:03,114
+BURAYA GEL, UZUN BURUN!
+
+249
+00:11:04,782 --> 00:11:06,826
+Hey, Nee-chan, gel yanıma otur!
+
+250
+00:11:06,826 --> 00:11:10,454
+Pislik! Nami-san'a vurulman
+için 100 yıl uğraşman lazım!
+
+251
+00:11:19,213 --> 00:11:21,382
+Kafatasının sağ gözü...
+
+252
+00:11:22,466 --> 00:11:24,176
+...altını gördüğüm yer.
+
+253
+00:11:24,176 --> 00:11:24,677
+Altın?
+
+254
+00:11:28,180 --> 00:11:32,894
+Gözyaşlarıyla lekelenmiş, bunlar
+Norland'ın yazdığı son sözlerdi.
+
+255
+00:11:33,519 --> 00:11:36,939
+"Kafatasının sağ gözü altını gördüğüm yerdi."
+
+256
+00:11:37,732 --> 00:11:40,484
+Aynı gün, Norland infaz edildi.
+
+257
+00:11:40,818 --> 00:11:44,822
+Jaya'ya geldikten sonra bile, hala bu
+sözle ne demek istediğini anlamıyorum.
+
+258
+00:11:44,822 --> 00:11:46,657
+Kafatasının sağ gözü...
+
+259
+00:11:46,657 --> 00:11:49,869
+Belki de önceden burada olan şehrin adıdır.
+
+260
+00:11:49,869 --> 00:11:52,413
+Ya da kendi kaçınılmaz ölümüne ilişkin bir mecazdı.
+
+261
+00:11:52,413 --> 00:11:56,125
+Sonraki boş sayfalar bize hiçbir şey anlatmıyor.
+
+262
+00:11:56,792 --> 00:11:58,794
+Bu yüzden dalıyoruz!
+
+263
+00:11:58,794 --> 00:12:00,254
+Bir hayal görüyoruz!
+
+264
+00:12:00,254 --> 00:12:01,464
+Okyanusun tabanında!
+
+265
+00:12:02,506 --> 00:12:03,458
+Evet!
+
+266
+00:12:06,385 --> 00:12:08,221
+Uçacağız!
+
+267
+00:12:09,639 --> 00:12:12,099
+O kadar yemeye devam edersen, asla uçamayacağız!
+
+268
+00:12:17,021 --> 00:12:18,689
+Hava gittikçe kararıyor.
+
+269
+00:12:18,689 --> 00:12:20,608
+Ama görüş açısındayız, Bellamy.
+
+270
+00:12:20,608 --> 00:12:22,318
+Karaya çıkmaya hazırlanın.
+
+271
+00:12:23,027 --> 00:12:26,822
+Kaliteli mallar, hayaller peşinde
+koşan aptallar üzerinde heba oluyor.
+
+272
+00:12:28,032 --> 00:12:31,869
+..:: One Person Subs ::..
+Altyazı çeviri ve düzenleme:
+Kazasker - Zübeyir Ayvalık
+
+273
+00:12:34,997 --> 00:12:39,377
+http://kazaskerinyeri.blogspot.com
+
+274
+00:12:43,047 --> 00:12:44,799
+"Bugün Jaya'ya geldim."
+
+275
+00:12:44,799 --> 00:12:49,003
+"21 Mayıs, 1122."
+
+276
+00:12:49,003 --> 00:12:51,097
+Norland! Norland!
+
+277
+00:12:51,097 --> 00:12:57,311
+"Adaya çıktıktan sonra, ormandan
+gelen acayip bir kuş sesini..."
+
+278
+00:12:57,311 --> 00:13:00,856
+"...ve çok, çok büyük bir
+çanın vuruşlarını duyduk."
+
+279
+00:13:00,856 --> 00:13:03,776
+"O büyük, altın çanın sesi..."
+
+280
+00:13:03,776 --> 00:13:06,320
+"...uzaklara yayıldı,..."
+
+281
+00:13:06,320 --> 00:13:11,492
+"...geçmişin büyük şehrinin refahını
+haber verirmişçesine."
+
+282
+00:13:11,492 --> 00:13:16,831
+"Bu engin denizin üzerinde uçup giden
+sesle, zengin bir uygarlık ortaya çıktı."
+
+283
+00:13:16,831 --> 00:13:19,417
+Norland! Norland!
+
+284
+00:13:19,584 --> 00:13:23,621
+"Sadece onlarca yıl yaşayan bizim gibiler için,..."
+
+285
+00:13:23,621 --> 00:13:26,841
+"...onu tarif etmeye yetecek kelimeler yoktu!"
+
+286
+00:13:26,841 --> 00:13:30,761
+"O çanın çalışıyla büyülendik!"
+
+287
+00:13:33,514 --> 00:13:35,433
+Büyük demişsin, Norland!
+
+288
+00:13:36,684 --> 00:13:39,554
+Ne mükemmel! Altın bir çan!
+
+289
+00:13:39,554 --> 00:13:41,224
+Ossan, neler oluyor?
+
+290
+00:13:41,224 --> 00:13:43,107
+Demek Norland'ı seviyorsun!
+
+291
+00:13:45,234 --> 00:13:46,402
+Şuna bakın!
+
+292
+00:13:46,402 --> 00:13:48,613
+Vay canına! Altın bir çan!
+
+293
+00:13:49,155 --> 00:13:51,532
+Peki, "çok büyük" olan ne?
+
+294
+00:13:52,491 --> 00:13:55,578
+Bu onun yazmış olduğu çan değil.
+
+295
+00:13:55,578 --> 00:13:57,079
+Bunlar sadece çan şeklindeki külçeler.
+
+296
+00:13:57,079 --> 00:13:58,998
+Bu üçünü okyanus tabanında buldum.
+
+297
+00:13:58,998 --> 00:13:59,999
+Külçeler mi?
+
+298
+00:13:59,999 --> 00:14:02,460
+Oh, demek Altın Şehri var!
+
+299
+00:14:02,460 --> 00:14:05,004
+Gerçi bu olduğunu kanıtlamaz.
+
+300
+00:14:05,004 --> 00:14:08,966
+Öyle bir şeyi herhangi bir harabede bulabilirsin.
+
+301
+00:14:09,383 --> 00:14:12,929
+Ama burada bir uygarlık olduğunu kanıtlar.
+
+302
+00:14:13,262 --> 00:14:16,891
+Külçeler altını gramlara
+ayırmak için dizayn edilmiştir.
+
+303
+00:14:17,308 --> 00:14:19,769
+Bu da burada ticaret yapıldığı anlamına gelir.
+
+304
+00:14:19,977 --> 00:14:23,814
+Evet ve o tuhaf kuş sesi...
+
+305
+00:14:23,814 --> 00:14:24,690
+Hey, Masira.
+
+306
+00:14:27,026 --> 00:14:28,653
+Vay canına, dahası var!
+
+307
+00:14:28,653 --> 00:14:29,695
+Bu da büyük!
+
+308
+00:14:29,904 --> 00:14:30,898
+Hepsi bu.
+
+309
+00:14:30,898 --> 00:14:33,074
+Ah, çok güzel.
+
+310
+00:14:33,366 --> 00:14:35,451
+Altın çanlar ve kuşlar.
+
+311
+00:14:35,451 --> 00:14:38,412
+Onlar antik Jaya'nın sembolleri olabilir.
+
+312
+00:14:39,622 --> 00:14:43,417
+Emin değilim, ama bu antik bir
+şekillendirmenin parçası olabilir.
+
+313
+00:14:43,709 --> 00:14:48,464
+Bu Güneykuşu ve tam bu adada yaşıyor.
+
+314
+00:14:49,048 --> 00:14:50,633
+Ve öttüğü zaman kulağa tuhaf mı geliyor?
+
+315
+00:14:50,633 --> 00:14:52,552
+Evet, aynı seyir defterinde bahsettiği gibi.
+
+316
+00:14:52,802 --> 00:14:56,639
+Güneykuşları eski zamanlardan
+beri gemilerde kullanılmıştır.
+
+317
+00:14:59,600 --> 00:15:01,394
+KAHRETSİN!!
+
+318
+00:15:01,394 --> 00:15:02,848
+N-Ne?! Sorun nedir?!
+
+319
+00:15:02,848 --> 00:15:03,813
+Bu çok kötü!
+
+320
+00:15:03,813 --> 00:15:05,314
+Ormana gitmelisiniz!
+
+321
+00:15:05,314 --> 00:15:06,482
+Güneydeki ormana!
+
+322
+00:15:07,692 --> 00:15:09,193
+Neden bahsediyorsun, Amca? Kafayı mı yedin?
+
+323
+00:15:09,443 --> 00:15:11,070
+Bu kuşlardan birini yakalamalısınız!
+
+324
+00:15:11,070 --> 00:15:12,363
+Hemen!
+
+325
+00:15:12,363 --> 00:15:13,739
+Niye? Ne oldu ki?
+
+326
+00:15:13,739 --> 00:15:15,199
+Bu kuş mu? Niye?
+
+327
+00:15:15,199 --> 00:15:16,867
+İyi dinleyin.
+
+328
+00:15:16,867 --> 00:15:20,371
+Yarın Fırlatan Akıntı'ya doğru yola çıkacaksınız!
+
+329
+00:15:20,371 --> 00:15:23,332
+Bu burnun tam güneyinde.
+
+330
+00:15:23,332 --> 00:15:25,126
+Oraya nasıl gieceksiniz?!
+
+331
+00:15:25,585 --> 00:15:27,712
+Gemimizle doğruca oraya gideceğiz.
+
+332
+00:15:27,712 --> 00:15:29,839
+Burası Grand Line!
+
+333
+00:15:29,839 --> 00:15:33,293
+Rotanızdan ayrılır ayrılmaz, hangi tarafın
+ne taraf olduğunu bilemeyeceksiniz!
+
+334
+00:15:33,293 --> 00:15:37,680
+Anlıyorum, ada yerine bir su
+bölgesine gideceğimiz için,...
+
+335
+00:15:37,680 --> 00:15:39,307
+...bize doğru yönü gösterecek
+hiçbir şeyimiz olmayacak.
+
+336
+00:15:39,765 --> 00:15:42,594
+Peki hangi yöne gideceğimizi nasıl bileceğiz?
+
+337
+00:15:42,594 --> 00:15:45,813
+Bu kuşun özelliğini kullanmalısınız.
+
+338
+00:15:46,314 --> 00:15:49,775
+Belirli hayvan türlerinin, tam olarak
+doğru, dahili yön duyguları vardır.
+
+339
+00:15:49,775 --> 00:15:52,069
+Kendi konumunuzu belirlemek
+için onu kullanabilirsiniz.
+
+340
+00:15:53,154 --> 00:15:55,323
+Öyleyse bu Zoro'yu bir hayvandan
+daha az gelişmiş yapıyor!
+
+341
+00:15:55,781 --> 00:15:58,034
+Bana bunu söyleyebilecek son kişi sensin!
+
+342
+00:15:58,367 --> 00:16:01,370
+Güneykuşu bunun en uç örneklerinden biridir.
+
+343
+00:16:03,414 --> 00:16:06,626
+Kara uzantısı ne kadar geniş olursa olsun,
+veya deniz nereden nereye dönerse dönsün,...
+
+344
+00:16:06,626 --> 00:16:10,504
+...bedeni tek bir yönü gösterir şekilde kalacaktır.
+
+345
+00:16:12,214 --> 00:16:15,418
+Neyse, o kuş olmadan,
+buradan asla gidemeyeceksiniz.
+
+346
+00:16:15,418 --> 00:16:18,930
+Gökyüzü Adası içinse, oraya ulaşmak için
+sahip olduğunuz tek şansı kaybedeceksiniz.
+
+347
+00:16:20,306 --> 00:16:22,516
+BUNU NİYE BİZE ŞİMDİ SÖYLÜYORSUN?!
+
+348
+00:16:23,226 --> 00:16:24,227
+Yakınıp durmayın!
+
+349
+00:16:25,478 --> 00:16:28,314
+Hiç vakit yok! Gitmelisiniz!
+
+350
+00:16:28,314 --> 00:16:31,275
+Gecenin bir yarısı ve sen ağaçların
+arasında dolaşmamızı mı istiyorsun?!
+
+351
+00:16:31,275 --> 00:16:32,526
+Bunları unuttunuz!
+
+352
+00:16:34,445 --> 00:16:38,074
+Biz harabeye dönmüş geminiz
+üzerinde işe koyulacağız.
+
+353
+00:16:38,074 --> 00:16:41,285
+Geriye dönüp bakarsak,
+o partiyi hiç yapmamalıydık!
+
+354
+00:16:41,494 --> 00:16:43,454
+Bunu nasıl şimdi söyleyebilirsin?!
+
+355
+00:16:43,621 --> 00:16:44,455
+Dinleyin.
+
+356
+00:16:44,455 --> 00:16:48,626
+Sabaha kadar o Güneykuşu'nu
+yakalayıp buraya getirmelisiniz!
+
+357
+00:16:49,835 --> 00:16:51,379
+Oh, zifiri karanlık!
+
+358
+00:16:51,379 --> 00:16:53,297
+Çekil üzerimden, seni aptal!
+
+359
+00:16:54,340 --> 00:16:56,384
+E-Evet, biliyorum, ama...
+
+360
+00:16:56,384 --> 00:16:58,010
+Ellerim... bırakmıyor.
+
+361
+00:16:58,261 --> 00:17:00,012
+Midem o kadar dolu ki yürüyemiyorum.
+
+362
+00:17:00,012 --> 00:17:02,965
+Kuşu yakalayamayabilirim.
+
+363
+00:17:02,965 --> 00:17:05,685
+Şu tuhaf kuş nerede? Tuhaf kuş...
+
+364
+00:17:05,685 --> 00:17:08,312
+Bir an önce yakalayalım ki
+içmeye geri dönebiliriz.
+
+365
+00:17:08,604 --> 00:17:10,815
+İşler nasıl bu kadar kontrolden çıktı?
+
+366
+00:17:11,566 --> 00:17:12,650
+Çek ellerini!
+
+367
+00:17:12,650 --> 00:17:15,278
+Kahretsin, bunu gün ışığında yapamaz mıydık?
+
+368
+00:17:15,861 --> 00:17:17,154
+Hey, kuş nerede?
+
+369
+00:17:17,154 --> 00:17:20,575
+Nerede olduğunu bilseydik, hepimiz
+buraya gelmek zorunda kalmazdık!
+
+370
+00:17:20,866 --> 00:17:23,369
+Elimizdeki tek ipucu tuhaf ötüşü.
+
+371
+00:17:23,369 --> 00:17:26,330
+Aynen demin gördüğümüz
+altın heykele benziyor.
+
+372
+00:17:26,330 --> 00:17:29,792
+Gerçekten o kadar berbat görünen bir kuş var mı?
+
+373
+00:17:29,792 --> 00:17:32,878
+Ayrıca tuhaf bir ötüşü
+olduğunu söylemek çok belirsiz!
+
+374
+00:17:32,878 --> 00:17:33,796
+Nasıl anlamamız gerekiyor?
+
+375
+00:17:33,963 --> 00:17:36,048
+Bir kez ormana girdik mi,
+anlayabileceğimizi söylemişti.
+
+376
+00:17:36,048 --> 00:17:37,258
+Şu Amca...
+
+377
+00:17:39,343 --> 00:17:41,596
+Vay canına! Ne tuhaf bir ötüş!
+
+378
+00:17:41,596 --> 00:17:42,555
+İşte bu.
+
+379
+00:17:42,722 --> 00:17:43,639
+Tamam!
+
+380
+00:17:43,890 --> 00:17:46,100
+Burada olduğumuza göre, sanırım yapmalıyız.
+
+381
+00:17:46,100 --> 00:17:47,310
+Üç tane ağımız var.
+
+382
+00:17:47,310 --> 00:17:48,853
+Üçe bölünüp arayacağız.
+
+383
+00:17:48,853 --> 00:17:49,846
+TAMAM!
+
+384
+00:17:49,846 --> 00:17:50,980
+Gidelim!
+
+385
+00:17:50,980 --> 00:17:53,691
+O tuhaf kuşu mahvedeceğiz!
+
+386
+00:17:54,191 --> 00:17:55,985
+Hayır, sadece onu yakalamak istiyoruz!
+
+387
+00:18:02,408 --> 00:18:03,326
+Endişelenmeyin.
+
+388
+00:18:03,326 --> 00:18:05,995
+Bize ne saldırırsa saldırsın,
+Nami-san'ı koruyacağım!
+
+389
+00:18:05,995 --> 00:18:07,364
+Sanji-kun, ya ben?
+
+390
+00:18:07,364 --> 00:18:08,497
+Sen umrumda bile değilsin!
+
+391
+00:18:08,497 --> 00:18:09,874
+Ödleklik etmeyi bırak!
+
+392
+00:18:09,874 --> 00:18:13,252
+Neyse, şu kuşlardan birini
+yakalayalım ve ormandan çıkalım.
+
+393
+00:18:13,836 --> 00:18:18,299
+Önce dikkat kesileceğiz ve
+kuşun ötüşünü dinleyeceğiz.
+
+394
+00:18:18,299 --> 00:18:20,419
+Jiyo~!
+
+395
+00:18:20,419 --> 00:18:21,427
+Bu ötüş!
+
+396
+00:18:21,427 --> 00:18:24,722
+Jiyo~! Çık ortaya! Jiyo~!
+
+397
+00:18:24,180 --> 00:18:24,722
+Sersem!
+
+398
+00:18:24,722 --> 00:18:26,349
+Jiyo~!
+
+399
+00:18:26,933 --> 00:18:28,768
+Niye beni yakalıyorsun?
+
+400
+00:18:28,768 --> 00:18:31,354
+Oh, Nami! Güzel bir aksesuar takmışsın!
+
+401
+00:18:31,354 --> 00:18:32,104
+Nereden aldın?
+
+402
+00:18:32,396 --> 00:18:33,314
+Ne almışım?
+
+403
+00:18:36,984 --> 00:18:38,486
+ÖRÜMCEK!
+
+404
+00:18:38,694 --> 00:18:40,404
+Ne, sadece bir örümcek.
+
+405
+00:18:40,404 --> 00:18:41,781
+Zavallı şey. Gel bakalım.
+
+406
+00:18:41,948 --> 00:18:44,067
+ÖRÜMCEKLERDEN NEFRET EDERİM, SERSEM!
+
+407
+00:18:44,067 --> 00:18:45,576
+O ŞEYİ AT HEMEN!
+
+408
+00:18:46,118 --> 00:18:47,245
+Ondan uzaklaş, Usopp!
+
+409
+00:18:47,245 --> 00:18:48,579
+O şey zehirli olmalı-
+
+410
+00:18:49,622 --> 00:18:50,831
+Ağaçlardan düşüyorlar!
+
+411
+00:18:51,666 --> 00:18:53,251
+BU ÇOK İĞRENÇ!
+
+412
+00:18:53,584 --> 00:18:55,920
+Sen tarantula türündensin, değil mi?
+
+413
+00:18:55,920 --> 00:18:57,088
+Endişelenmeyin!
+
+414
+00:18:57,088 --> 00:18:59,882
+Onu kızdırmadığım sürece, beni ısırmaz!
+
+415
+00:18:59,882 --> 00:19:02,009
+Ben sürekli örümceklerle dövüşürdüm!
+
+416
+00:19:02,635 --> 00:19:05,680
+Öyle kıllı böcekler beni tiksindiriyor!
+
+417
+00:19:06,305 --> 00:19:08,182
+Beni de! Gerçekten! Onlardan nefret ediyorum!
+
+418
+00:19:08,182 --> 00:19:09,934
+At şunu! Hemen! Çabuk!
+
+419
+00:19:10,851 --> 00:19:14,313
+Ama arkanızdaki güveleri ve
+kırkayakları umursamıyor musunuz?
+
+420
+00:19:23,406 --> 00:19:25,074
+KIRKAYAKLARDAN VE
+GÜVELERDEN DE NEFRET EDERİM!
+
+421
+00:19:26,909 --> 00:19:28,286
+BENİ BURADA YALNIZ BIRAKMAYIN!
+
+422
+00:19:30,663 --> 00:19:32,081
+Çığlık sesi duyuyorum.
+
+423
+00:19:32,081 --> 00:19:33,040
+Boşver onları.
+
+424
+00:19:37,962 --> 00:19:39,164
+Bir kırkayak.
+
+425
+00:19:39,162 --> 00:19:40,464
+Acayip büyük.
+
+426
+00:19:40,923 --> 00:19:43,092
+Karşılaştığımız her şeyi öldürüp durmamalısın.
+
+427
+00:19:43,092 --> 00:19:44,176
+Zavallı şeyler.
+
+428
+00:19:44,677 --> 00:19:47,013
+Peşimden gelmesi onun hatası.
+
+429
+00:19:48,097 --> 00:19:48,882
+Ama...
+
+430
+00:19:48,882 --> 00:19:50,016
+Ne?
+
+431
+00:19:50,016 --> 00:19:51,851
+Orası şimdi geldiğimiz yön.
+
+432
+00:19:55,229 --> 00:19:56,147
+Kuş ötüşü.
+
+433
+00:19:56,480 --> 00:19:57,607
+Bu taraftan!
+
+434
+00:19:58,649 --> 00:20:00,526
+O bataklığa dikkat et.
+
+435
+00:20:02,653 --> 00:20:03,237
+Hey!
+
+436
+00:20:03,654 --> 00:20:04,322
+Dur-
+
+437
+00:20:09,035 --> 00:20:10,202
+Yakaladım!
+
+438
+00:20:10,202 --> 00:20:11,454
+Bak, Chopper!
+
+439
+00:20:11,454 --> 00:20:12,705
+Bu Atlas!
+
+440
+00:20:12,705 --> 00:20:13,748
+Atlas?
+
+441
+00:20:13,748 --> 00:20:14,749
+Evet!
+
+442
+00:20:14,749 --> 00:20:18,669
+Atlas ve Hercules dünyanın her yerinde
+insanlar tarafından takdir edilir!
+
+443
+00:20:19,795 --> 00:20:21,123
+Kabuto böcekleri?
+
+444
+00:20:21,123 --> 00:20:22,256
+Bilmiyor musun?
+
+445
+00:20:22,256 --> 00:20:24,043
+Kafasından yakalayamazsın!
+
+446
+00:20:24,043 --> 00:20:26,427
+One Piece mi, o mu, hangisi daha süper?
+
+447
+00:20:26,427 --> 00:20:28,512
+Ahhh... Bu çok zor!
+
+448
+00:20:28,512 --> 00:20:31,098
+Luffy! Burada da bir şey var.
+
+449
+00:20:32,058 --> 00:20:33,226
+Miyama!
+
+450
+00:20:33,643 --> 00:20:34,810
+YAKALA ONU!
+
+451
+00:20:36,479 --> 00:20:37,730
+Uçup kaçtı!
+
+452
+00:20:41,275 --> 00:20:42,109
+Peşinden!
+
+453
+00:20:42,109 --> 00:20:43,736
+Kaçmasına izin verme!
+
+454
+00:20:45,112 --> 00:20:47,281
+Arı kovanı! Kaç!
+
+455
+00:21:00,503 --> 00:21:02,630
+BU ORMANIN NESİ VAR?!
+
+456
+00:21:03,798 --> 00:21:04,590
+Luffy, yukarı bak!
+
+457
+00:21:05,132 --> 00:21:06,300
+Kuş o!
+
+458
+00:21:06,300 --> 00:21:08,010
+Kovanı üzerimize düşürdü!
+
+459
+00:21:10,304 --> 00:21:10,680
+Eh?!
+
+460
+00:21:10,680 --> 00:21:12,640
+N-Ne dedi?!
+
+461
+00:21:14,308 --> 00:21:17,728
+"Bu ormanı rahatsız eden herkesi öldüreceğim."
+
+462
+00:21:29,240 --> 00:21:33,327
+Hey, Nii-chan, Nii-chan, bizi kızdırma.
+
+463
+00:21:33,327 --> 00:21:37,164
+Gecenin bir yarısı geldiniz ve altını size
+teslim etmemizi mi bekliyorsunuz, bücürler?
+
+464
+00:21:38,332 --> 00:21:39,375
+Evinize gidin.
+
+465
+00:21:39,375 --> 00:21:41,669
+Yapacak işimiz var.
+
+466
+00:21:43,629 --> 00:21:45,381
+Siz badigard mısınız?
+
+467
+00:21:45,381 --> 00:21:48,676
+Ah evet, Cricket denen bir korsan vardı.
+
+468
+00:21:48,843 --> 00:21:52,680
+Barda Montblanc Ailesi'nin yürek
+yaralayan küçük hikayesini duydum.
+
+469
+00:21:52,680 --> 00:21:54,140
+Beni gözyaşlarına boğdu.
+
+470
+00:21:54,515 --> 00:21:57,602
+Başka bir adamın emeğinin meyvelerinde...
+
+471
+00:21:56,475 --> 00:21:58,352
+<i>Asla vazgeçmeyeceğim!</i>
+
+472
+00:21:57,602 --> 00:22:00,021
+...olağanüstü bir tat buluyorum.
+
+473
+00:21:58,978 --> 00:22:02,857
+<i>Birgün, senden bile daha iyi bir aşçı olacağım!</i>
+
+474
+00:22:00,313 --> 00:22:03,900
+İnsanların bana ne dediğini söylememe izin ver.
+
+475
+00:22:03,900 --> 00:22:05,192
+Sırtlan!
+
+476
+00:22:05,850 --> 00:22:09,021
+Devam edecek...
+
+477
+00:22:09,122 --> 00:22:17,172
+<i>Ah, sonsuz göğün ötesine bakarken...</i>
+
+478
+00:22:17,296 --> 00:22:26,760
+<i>...birgün yaşayacağım bir
+yarını hayal etmeye başlıyorum.</i>
+
+479
+00:22:35,649 --> 00:22:42,697
+<i>Kendimi kaybedeceğimi hissettiğim günler vardı.</i>
+
+480
+00:22:42,990 --> 00:22:50,706
+<i>Ama her zaman gidebileceğim sıcak bir yer vardı.</i>
+
+481
+00:22:51,469 --> 00:22:57,295
+<i>Gurur duyabileceğim insanlar hep oradaydı.</i>
+
+482
+00:22:57,463 --> 00:23:07,306
+<i>Ellerini sırtıma koyuyor ve
+beni ilerlemeye zorluyorlardı.</i>
+
+483
+00:23:08,681 --> 00:23:15,950
+<i>Ah, yıldızlar göğün altında akıyorlar.</i>
+
+484
+00:23:16,814 --> 00:23:18,359
+<i>Bu sadece bir kez olur...</i>

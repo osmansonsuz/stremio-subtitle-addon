@@ -1,0 +1,1391 @@
+﻿1
+00:00:22,170 --> 00:00:23,420
+<i>Dünya...</i>
+
+2
+00:00:24,130 --> 00:00:25,380
+<i>Evet!</i>
+
+3
+00:00:25,800 --> 00:00:27,350
+<i>Özgürlüğü arayın,...</i>
+
+4
+00:00:27,380 --> 00:00:31,550
+<i>...ve dünyanız gözlerinizin önünde uzanmış duracak.</i>
+
+5
+00:00:31,970 --> 00:00:35,390
+<i>Eğer sonsuz bir hayal
+ruhlarınıza rehberlik ediyorsa,...</i>
+
+6
+00:00:35,890 --> 00:00:37,310
+<i>...onu fethedin!</i>
+
+7
+00:00:37,560 --> 00:00:40,390
+<i>Bayrağınızın arkasından inancınızı taşıyın!</i>
+
+8
+00:00:45,190 --> 00:00:48,280
+<i>Bir su patlamasıyla,</i>
+
+9
+00:00:45,190 --> 00:00:48,280
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+10
+00:00:48,360 --> 00:00:50,780
+<i>Arayışıma başladım,</i>
+
+11
+00:00:48,360 --> 00:00:50,780
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+12
+00:00:50,820 --> 00:00:54,200
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+13
+00:00:50,820 --> 00:00:54,200
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+14
+00:00:55,330 --> 00:00:58,330
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+15
+00:00:55,330 --> 00:00:58,330
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+16
+00:00:58,410 --> 00:01:00,370
+<i>Heryere gideceğim</i>
+
+17
+00:00:58,410 --> 00:01:00,370
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+18
+00:01:00,550 --> 00:01:08,630
+<i>Hiç görmediğim ışığı arayarak</i>
+
+19
+00:01:00,550 --> 00:01:08,630
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+20
+00:01:08,710 --> 00:01:14,260
+<i>Yaz renkli güneş, kalbimin
+yelkenini salladığı zaman,</i>
+
+21
+00:01:08,710 --> 00:01:14,260
+<i>{\an8}{\fs10}natsu-iro taiyou ga kokoro no ho o yuraseba</i>
+
+22
+00:01:14,261 --> 00:01:18,810
+<i>uçup git kasvetli mavi deniz...</i>
+
+23
+00:01:14,261 --> 00:01:18,810
+<i>{\an8}{\fs10}fly away glum blue sea...</i>
+
+24
+00:01:18,810 --> 00:01:24,450
+<i>Bu, yeni dünyaya bir kapının açıldığını işaretidir</i>
+
+25
+00:01:18,810 --> 00:01:24,450
+<i>{\an8}{\fs10}atarashii sekai e no tobira o hiraku aizu</i>
+
+26
+00:01:24,451 --> 00:01:28,320
+<i>uçup git kasvetli mavi gökyüzü...</i>
+
+27
+00:01:24,451 --> 00:01:28,320
+<i>{\an8}{\fs10}fly away glum blue sky...</i>
+
+28
+00:01:28,320 --> 00:01:33,320
+<i>Dalgalar arasında sallanırken,
+umutsuzluktan kaçabilirim,</i>
+
+29
+00:01:28,320 --> 00:01:33,320
+<i>{\an8}{\fs10}namima ni yureteru zetsubou o nukete</i>
+
+30
+00:01:33,360 --> 00:01:36,660
+<i>Diğer taraftaki ufuk...</i>
+
+31
+00:01:33,360 --> 00:01:36,660
+<i>{\an8}{\fs10}suiheisen no mukougawa</i>
+
+32
+00:01:39,250 --> 00:01:40,950
+<i>... benim hedeflediğim şey!</i>
+
+33
+00:01:39,250 --> 00:01:40,950
+<i>{\an8}{\fs10}mezashite</i>
+
+34
+00:01:41,050 --> 00:01:44,080
+<i>Bir su patlamasıyla,</i>
+
+35
+00:01:41,050 --> 00:01:44,080
+<i>{\an8}{\fs10}boku wa ima sagashi hajimeta</i>
+
+36
+00:01:44,170 --> 00:01:46,630
+<i>Arayışıma başladım,</i>
+
+37
+00:01:44,170 --> 00:01:46,630
+<i>{\an8}{\fs10}mizushibuki agete</i>
+
+38
+00:01:46,710 --> 00:01:49,800
+<i>Sınırsız, sonsuz bir dünyaya doğru</i>
+
+39
+00:01:46,710 --> 00:01:49,800
+<i>{\an8}{\fs10}Hatashinaku tsuzuku sekai e</i>
+
+40
+00:01:51,210 --> 00:01:54,130
+<i>Göğsümdeki taşan tutkuyla birlikte,</i>
+
+41
+00:01:51,210 --> 00:01:54,130
+<i>{\an8}{\fs10}afuredasu jyounetsu o mune ni</i>
+
+42
+00:01:54,220 --> 00:01:56,350
+<i>Heryere gideceğim</i>
+
+43
+00:01:54,220 --> 00:01:56,350
+<i>{\an8}{\fs10}doko made mo yuku yo</i>
+
+44
+00:01:56,470 --> 00:02:03,020
+<i>Hiç görmediğim ışığı arayarak</i>
+
+45
+00:01:56,470 --> 00:02:03,020
+<i>{\an8}{\fs10}mada minu hikari motome</i>
+
+46
+00:02:04,850 --> 00:02:11,221
+{\an8}Orta Sol: Üst Bahçe, Orta Sağ: Melek Adası
+
+47
+00:02:12,325 --> 00:02:12,842
+Laki!
+
+48
+00:02:14,470 --> 00:02:16,030
+Ne yapıyorsun?
+
+49
+00:02:16,390 --> 00:02:19,550
+Orada asılı beklersen, öleceksin.
+
+50
+00:02:21,150 --> 00:02:24,190
+Uğruna ölmeye değecek şey bu mu?
+
+51
+00:02:31,830 --> 00:02:32,510
+Laki!
+
+52
+00:02:36,750 --> 00:02:37,750
+Kamakiri!
+
+53
+00:02:41,870 --> 00:02:47,070
+Evet, yarın gemiyi tamir edebilmek için
+bu ağaçları geminin yanına götürecektim.
+
+54
+00:02:47,110 --> 00:02:48,510
+Karşıya yüzerek mi geçmeyi planlıyordun?
+
+55
+00:02:48,550 --> 00:02:49,550
+Ha? Evet.
+
+56
+00:02:50,030 --> 00:02:52,550
+Şu koca köpekbalıkları hala
+sinsi sinsi orada dolaşıyor.
+
+57
+00:02:56,030 --> 00:02:57,110
+Şuna bakın.
+
+58
+00:02:57,150 --> 00:02:59,830
+Bu, 400 yıl önceki Jaya'nın topoğrafyası.
+
+59
+00:03:01,510 --> 00:03:02,870
+Vay canına, bir kurukafa!
+
+60
+00:03:02,910 --> 00:03:04,150
+Kurukafa gibi görünüyor!
+
+61
+00:03:05,710 --> 00:03:06,710
+Evet?
+
+62
+00:03:07,150 --> 00:03:08,390
+Kamakiri.
+
+63
+00:03:08,550 --> 00:03:09,910
+Yaraların?
+
+64
+00:03:10,110 --> 00:03:11,230
+Hala dövüşebilirim!
+
+65
+00:03:12,590 --> 00:03:14,710
+Hala dövüşebilirim...
+
+66
+00:03:16,990 --> 00:03:20,030
+Haklısın. Üst Bahçe'ye çıkacak
+bir zaman varsa, o şimdidir.
+
+67
+00:03:23,430 --> 00:03:27,670
+Bugünkü dövüşte, Satori'nin
+yokluğunun etkileri açıktı.
+
+68
+00:03:28,350 --> 00:03:31,670
+Yarın sabah yeniden saldırmalıyız, Wiper!
+
+69
+00:03:32,350 --> 00:03:40,190
+Kami Enel Ortaya Çıkıyor!!
+Hayatta Kalanlara Sabah Şarkısı
+
+70
+00:03:40,710 --> 00:03:42,750
+Hadi ama Zoro, lütfen.
+
+71
+00:03:42,790 --> 00:03:43,710
+Sadece biraz.
+
+72
+00:03:43,750 --> 00:03:45,590
+Niye seninle gitmek zorundayım?
+
+73
+00:03:45,630 --> 00:03:47,190
+Kaç yaşındasın sen?
+
+74
+00:03:47,230 --> 00:03:50,070
+Korkuyorsan, sabaha kadar bekle.
+
+75
+00:03:50,110 --> 00:03:52,990
+Bekleyebilseydim, senden istemezdim!
+
+76
+00:03:53,030 --> 00:03:55,590
+Kendi başına işeyebilirsin, değil mi?
+
+77
+00:03:57,470 --> 00:04:00,030
+Ah, çok soğuksun, Zoro!
+
+78
+00:04:04,230 --> 00:04:05,630
+Aptal...
+
+79
+00:04:15,390 --> 00:04:16,510
+Ah, üfff...
+
+80
+00:04:21,510 --> 00:04:23,030
+<i>O ses de ne?</i>
+
+81
+00:04:43,910 --> 00:04:47,190
+<i>Gemide kimse olamaz.</i>
+
+82
+00:04:49,030 --> 00:04:51,590
+Sis çok yoğun, göremiyorum.
+
+83
+00:05:38,590 --> 00:05:41,070
+Ha-Ha-Haya...
+
+84
+00:05:43,390 --> 00:05:45,510
+Bunun neyi var?
+
+85
+00:05:46,030 --> 00:05:49,070
+İşemeye gideceğini söyledi ve
+şimdiyse burada mı uyuyor?
+
+86
+00:05:49,110 --> 00:05:50,910
+Ümitsiz biri.
+
+87
+00:05:52,190 --> 00:05:53,710
+Ha-Haya...
+
+88
+00:05:53,910 --> 00:05:55,110
+Ha-Haya...
+
+89
+00:05:55,990 --> 00:05:57,750
+Hayal görmeyi bırak!
+
+90
+00:05:58,310 --> 00:06:00,590
+Ha-Haya-Hayalet!
+
+91
+00:06:01,830 --> 00:06:05,390
+Haya... let!
+
+92
+00:06:07,950 --> 00:06:09,350
+Biz...
+
+93
+00:06:13,030 --> 00:06:13,750
+Hey.
+
+94
+00:06:20,390 --> 00:06:22,590
+Alt dudağın ağzının içindeyken...
+
+95
+00:06:23,270 --> 00:06:25,470
+...konuşması zor olmalı!
+
+96
+00:06:29,590 --> 00:06:31,270
+Ne dikkatsizce...
+
+97
+00:06:33,270 --> 00:06:34,830
+Sana söylemedim mi?
+
+98
+00:06:34,870 --> 00:06:37,910
+Wiper kaçmasına izin verdiğin için,...
+
+99
+00:06:37,950 --> 00:06:40,510
+...Enel-sama bizi buraya çağırdı.
+
+100
+00:06:40,710 --> 00:06:43,070
+Panikleyecek bir şey yok.
+
+101
+00:06:43,110 --> 00:06:44,790
+Ne kadar çabalarlarsa çabalasınlar,...
+
+102
+00:06:44,830 --> 00:06:49,110
+...bir daha hiçbir Shandian
+benden kaçamayacak.
+
+103
+00:06:49,150 --> 00:06:51,790
+Onların kaderi bu!
+
+104
+00:06:52,190 --> 00:06:55,230
+Heh, bu ucuz bir mazeretten
+başka bir şey değil!
+
+105
+00:06:55,790 --> 00:06:58,550
+Enel-sama...
+
+106
+00:06:58,590 --> 00:07:01,870
+...bütün görevleri bana bıraksaydı,...
+
+107
+00:07:01,910 --> 00:07:05,510
+...bu güne kadar zafere ulaşırdık!
+
+108
+00:07:05,550 --> 00:07:09,470
+Onun karşısına çıkmak zorunda kalmazdık!
+
+109
+00:07:10,750 --> 00:07:12,030
+Gedatsu.
+
+110
+00:07:12,870 --> 00:07:15,750
+Senin gibi bir aptal bunu asla yapamazdı.
+
+111
+00:07:16,030 --> 00:07:17,430
+NE?!
+
+112
+00:07:18,470 --> 00:07:21,430
+İkinizi uyarayım.
+
+113
+00:07:21,390 --> 00:07:23,390
+Biraz tevazu göstermeyi öğrenmelisiniz.
+
+114
+00:07:23,430 --> 00:07:25,590
+Yoksa Mantra'nızın kontrolünü kaybedecek...
+
+115
+00:07:25,630 --> 00:07:28,190
+...ve Satori'nin hatasını tekrarlayacaksınız.
+
+116
+00:07:28,230 --> 00:07:31,510
+Tevazuyu öğrenmesi gereken sensin, Ohm!
+
+117
+00:07:37,470 --> 00:07:41,870
+Gan Fall'u yenmek ukalalık
+edecek bir konu değil, Shura!
+
+118
+00:07:42,710 --> 00:07:43,470
+Bu eğlenceli görünüyor!
+
+119
+00:07:49,190 --> 00:07:52,990
+Kami, rahipler geldi.
+
+120
+00:07:53,950 --> 00:07:55,870
+Kapıyı aç.
+
+121
+00:08:07,350 --> 00:08:08,630
+Yine mi?
+
+122
+00:08:08,670 --> 00:08:11,510
+Ne yapıyorsunuz?
+
+123
+00:08:12,830 --> 00:08:14,670
+Kesinlikle utanç vericisiniz.
+
+124
+00:08:14,710 --> 00:08:16,230
+Kapa çeneni!
+
+125
+00:08:16,270 --> 00:08:19,630
+Bu iki ahmak sürekli bana engel olurken,...
+
+126
+00:08:19,670 --> 00:08:21,910
+...asla tam gücümü kullanamayacağım!
+
+127
+00:08:24,230 --> 00:08:28,230
+Adayı tek başıma korumama izin verilseydi,...
+
+128
+00:08:28,270 --> 00:08:29,390
+...daha iyi çalışabilirdim!
+
+129
+00:08:30,390 --> 00:08:33,150
+Çok büyük konuşuyorsun!
+
+130
+00:08:33,790 --> 00:08:38,710
+Tam gücünün sınırlarıyla ilgili
+sana bir ders vermeliyim!
+
+131
+00:08:43,710 --> 00:08:45,990
+Acı Hakikat,...
+
+132
+00:08:46,510 --> 00:08:48,230
+...Demir Sınavı'yla!
+
+133
+00:08:50,110 --> 00:08:53,430
+Saçmalık! Sınavın hiçbir şey ifade etmez!
+
+134
+00:08:55,950 --> 00:08:58,870
+Bataklığım en büyük sınavı sunuyor!
+
+135
+00:08:59,430 --> 00:09:01,110
+Denemek ister misin?
+
+136
+00:09:02,030 --> 00:09:02,990
+Gedatsu-sama.
+
+137
+00:09:03,030 --> 00:09:05,350
+Bunu yapmakta ısrar ederseniz,
+kendinizi yoracaksınız.
+
+138
+00:09:05,390 --> 00:09:08,950
+Lütfen kollarınızı bağlayın.
+
+139
+00:09:09,910 --> 00:09:10,510
+Ne dikkatsizce!
+
+140
+00:09:11,950 --> 00:09:13,510
+Yeter!
+
+141
+00:09:14,070 --> 00:09:16,270
+Karşınızda Kami var!
+
+142
+00:09:16,310 --> 00:09:17,550
+Karşımızda?
+
+143
+00:09:18,430 --> 00:09:21,190
+Öyleyse tam olarak nerede?
+
+144
+00:09:22,230 --> 00:09:24,950
+Bizi buraya çağırmadı mı?!
+
+145
+00:09:25,550 --> 00:09:27,710
+Enel-sama nerede?!
+
+146
+00:09:32,750 --> 00:09:34,110
+Sizi hazırlıksız yakaladım!
+
+147
+00:09:50,910 --> 00:09:56,830
+<i>{\an8}"Ware ga Kaminari", "Ben Kami'yim." veya
+"Ben yıldırımım." anlamına gelebilir.</i>
+
+148
+00:09:50,910 --> 00:09:53,470
+Ben Kami.
+
+149
+00:09:53,910 --> 00:09:56,110
+Tam buradayım.
+
+150
+00:09:56,830 --> 00:09:59,350
+Daha fazla çalışmanız gerek.
+
+151
+00:09:59,390 --> 00:10:01,190
+Bu acınası bir görüntüydü.
+
+152
+00:10:01,230 --> 00:10:04,390
+Satori'nin başına gelen, benzer
+başarısızlıklardan daha fazla istemiyorum.
+
+153
+00:10:05,470 --> 00:10:06,950
+Bu ne içindi?
+
+154
+00:10:07,590 --> 00:10:08,990
+Kesinlikle.
+
+155
+00:10:09,030 --> 00:10:10,070
+Üzerimizde yıldırım oyunu yapıyor.
+
+156
+00:10:10,470 --> 00:10:13,910
+Bu yüzden mi buraya çağırıldık?
+
+157
+00:10:14,270 --> 00:10:16,270
+Sıkılmıştım.
+
+158
+00:10:17,950 --> 00:10:19,150
+Ama oturun.
+
+159
+00:10:19,950 --> 00:10:24,790
+Mavi Deniz sakinleri tarafından
+meşgul edilmemiş gibisiniz.
+
+160
+00:10:24,830 --> 00:10:27,910
+Enel-sama, bu Satori hakkındaysa,...
+
+161
+00:10:27,950 --> 00:10:30,670
+...o henüz deneyimsizdi.
+
+162
+00:10:30,710 --> 00:10:32,550
+Saçma Toplar Sınavı'yla.
+
+163
+00:10:33,950 --> 00:10:37,310
+İşte bu yüzden acıklısınız dedim, Shura.
+
+164
+00:10:38,470 --> 00:10:41,310
+Gan Fall yaşıyor.
+
+165
+00:10:41,910 --> 00:10:42,710
+İmkansız!
+
+166
+00:10:42,750 --> 00:10:45,070
+Gan Fall'un işini kendim bitirdim!
+
+167
+00:10:46,030 --> 00:10:48,910
+Henüz tam olarak iyileşmedi.
+
+168
+00:10:50,670 --> 00:10:54,550
+O ve Mavi Deniz sakinleri,
+epey iyi anlaşıyor gibiler.
+
+169
+00:10:54,590 --> 00:10:56,390
+Kesinlikle inatçı bir adam.
+
+170
+00:10:57,830 --> 00:11:01,430
+Ama o Mavi Deniz sakinleri ne istiyor?
+
+171
+00:11:04,030 --> 00:11:06,630
+İstedikleri şey...
+
+172
+00:11:06,670 --> 00:11:08,070
+...altın.
+
+173
+00:11:08,750 --> 00:11:09,630
+Altın?
+
+174
+00:11:10,230 --> 00:11:12,990
+Bunu nasıl öğrenmişler?
+
+175
+00:11:13,750 --> 00:11:17,190
+Bu ada eskiden Mavi Deniz'deydi.
+
+176
+00:11:17,230 --> 00:11:20,870
+Bunu bilmeleri anormal bir şey sayılmaz.
+
+177
+00:11:23,750 --> 00:11:26,470
+Elbette yarın harekete geçecekler.
+
+178
+00:11:26,510 --> 00:11:28,430
+Ve Shandianlar, saldırılarını yenileyecek.
+
+179
+00:11:29,350 --> 00:11:33,350
+Üst Bahçe'de, her birinizin
+koruması gereken bir bölge var.
+
+180
+00:11:33,390 --> 00:11:37,230
+Birbirinize karışmamanız
+gerektiğini bildiren bir kural da var.
+
+181
+00:11:37,270 --> 00:11:40,510
+Yarın bütün toprakları size açacağım.
+
+182
+00:11:41,510 --> 00:11:44,470
+Sınavlarınızı istediğiniz
+yerde yapabilirsiniz.
+
+183
+00:11:45,230 --> 00:11:48,310
+Kuralı önemsemeyerek, uygun gördüğünüz
+kadar sert bir tavırla hareket edebilirsiniz.
+
+184
+00:11:50,070 --> 00:11:52,430
+Niye aniden bize bu kadar güç bahşediyorsun?
+
+185
+00:11:52,750 --> 00:11:56,310
+Çünkü Maksim çoktan...
+
+186
+00:11:56,350 --> 00:11:58,070
+...tamamlandı.
+
+187
+00:11:58,110 --> 00:12:02,510
+Bu adanın işini bitirip,
+Hayaller Dünyası'na doğru...
+
+188
+00:12:02,550 --> 00:12:05,030
+...yola çıkma vaktimiz geldi.
+
+189
+00:12:05,030 --> 00:12:08,930
+Altyazı çeviri ve düzenleme: Kazasker
+
+190
+00:12:12,010 --> 00:12:16,370
+http://kazaskerinyeri.blogspot.com
+
+191
+00:12:23,470 --> 00:12:27,390
+<i>Bu çocukların Satori'yi
+yendiğini düşününce,...</i>
+
+192
+00:12:27,430 --> 00:12:31,190
+<i>Bu onları Enel'in düşmanı yapacak.</i>
+
+193
+00:12:32,030 --> 00:12:37,150
+<i>Ve Shandia bu fırsatı kaçırmayacak.</i>
+
+194
+00:12:39,030 --> 00:12:40,630
+<i>Enel,...</i>
+
+195
+00:12:40,670 --> 00:12:43,910
+<i>...istediğin nedir?</i>
+
+196
+00:12:58,310 --> 00:13:01,430
+<i>Etkileri kesinlikle belliydi.</i>
+
+197
+00:13:02,070 --> 00:13:05,950
+<i>Bugün Kami'nin Tapınağı'na saldıracağız!</i>
+
+198
+00:13:12,270 --> 00:13:15,350
+<i>Ve sonra Enel...</i>
+
+199
+00:13:21,350 --> 00:13:23,790
+Bakın! Aynen dediğim gibi!
+
+200
+00:13:23,830 --> 00:13:25,350
+Burada biri varmış!
+
+201
+00:13:34,030 --> 00:13:36,310
+Going Merry...
+
+202
+00:13:36,350 --> 00:13:37,830
+...tamir edilmiş!
+
+203
+00:13:43,150 --> 00:13:45,150
+Görmüştüm!
+
+204
+00:13:45,790 --> 00:13:48,310
+Rüya olmadığını biliyordum!
+
+205
+00:13:51,190 --> 00:13:52,430
+Haklısın.
+
+206
+00:13:52,790 --> 00:13:56,470
+Kırık direk bile tamir edilmiş!
+
+207
+00:13:58,070 --> 00:13:59,110
+Kesinlikle.
+
+208
+00:14:00,430 --> 00:14:04,190
+Bu kadar ağır bir şeyi, öylece
+dikmek bile çok zor bir iş olmalı.
+
+209
+00:14:05,430 --> 00:14:07,630
+Bunu söylediğim için üzgünüm ama...
+
+210
+00:14:08,630 --> 00:14:10,190
+...epey kötü bir işçilik çıkarmış.
+
+211
+00:14:10,230 --> 00:14:12,190
+Bir yerlerde iyi bir adam var!
+
+212
+00:14:13,630 --> 00:14:15,630
+Burada biri vardı.
+
+213
+00:14:15,670 --> 00:14:16,750
+Onu gördüm!
+
+214
+00:14:17,590 --> 00:14:22,270
+Ama gemimizi tamir etmek
+için buraya kadar kim gelir?
+
+215
+00:14:23,630 --> 00:14:28,110
+Üst Bahçe'de sadece biz
+ve düşmanlarımız var.
+
+216
+00:14:29,310 --> 00:14:33,470
+Ama uçan modeli iptal etmiş, Usopp.
+
+217
+00:14:36,390 --> 00:14:37,590
+Evet.
+
+218
+00:14:37,630 --> 00:14:39,390
+Daha da tuhaf olan bu zaten.
+
+219
+00:14:43,310 --> 00:14:46,910
+Hey, onu tamir eden adam,...
+
+220
+00:14:46,950 --> 00:14:50,630
+...Merry'nin nasıl görünmesi
+gerektiğini nereden biliyordu?
+
+221
+00:14:50,670 --> 00:14:54,110
+İbiğinin, kuyruğunun veya
+kanatlarının olmadığını biliyormuş
+
+222
+00:14:55,110 --> 00:14:57,990
+Kimi gördün, Usopp?
+
+223
+00:14:58,350 --> 00:15:01,230
+Rüyaydı. Başka bir şey
+olabilmesi mümkün değil.
+
+224
+00:15:03,270 --> 00:15:03,910
+Hey, hey!
+
+225
+00:15:04,790 --> 00:15:06,830
+Ne diye tembellik ediyorsunuz?
+
+226
+00:15:08,270 --> 00:15:10,910
+Yapacak çok iş var.
+
+227
+00:15:12,310 --> 00:15:14,670
+Bu seni rahatsız etmiyor mu, Nami?
+
+228
+00:15:15,310 --> 00:15:16,270
+Ne?
+
+229
+00:15:16,990 --> 00:15:20,030
+Going Merry'yi birinin tamir etmiş olması.
+
+230
+00:15:20,550 --> 00:15:22,470
+Yok edilmiş olsaydı korkunç olurdu...
+
+231
+00:15:22,510 --> 00:15:24,990
+...ama tamir edildiğine göre, sorun nedir?
+
+232
+00:15:25,030 --> 00:15:28,510
+Bu adamı bulup teşekkür etme
+zahmetine mi katlanacaksın?
+
+233
+00:15:29,310 --> 00:15:31,790
+Şey, hayır ama...
+
+234
+00:15:34,550 --> 00:15:36,550
+Nereden biliyordu?
+
+235
+00:15:42,030 --> 00:15:43,990
+Hey, Merry.
+
+236
+00:15:44,030 --> 00:15:46,310
+Kimdi o?
+
+237
+00:15:56,430 --> 00:15:58,110
+Dinle.
+
+238
+00:15:58,150 --> 00:16:03,230
+Merry'yi Kurban Sunağı'ndan İndirme
+Oparasyonu şefi Usopp-sama'nın,
+sahneye çıkma vakti geldi!
+
+239
+00:16:03,270 --> 00:16:04,750
+Beni iyi izle!
+
+240
+00:16:05,630 --> 00:16:10,590
+<i>Ben de, Merry'yi Kurban Sunağı'ndan
+İndirme Oparasyonu yardımcı şefiyim.</i>
+
+241
+00:16:10,630 --> 00:16:13,150
+<i>Bana güveniyor olacaklar!</i>
+
+242
+00:16:15,870 --> 00:16:19,550
+Ne yapacaksın, Usopp?
+
+243
+00:16:22,510 --> 00:16:23,310
+Tamam!
+
+244
+00:16:27,150 --> 00:16:28,070
+Chopper!
+
+245
+00:16:28,310 --> 00:16:29,190
+Emredersiniz!
+
+246
+00:16:35,150 --> 00:16:36,190
+Ateş!
+
+247
+00:16:36,950 --> 00:16:38,230
+GİT!
+
+248
+00:16:43,430 --> 00:16:44,950
+Evet! Başardı!
+
+249
+00:16:46,990 --> 00:16:48,590
+Chopper, indirelim şunu!
+
+250
+00:16:48,790 --> 00:16:49,470
+Müthiş!
+
+251
+00:16:49,510 --> 00:16:50,830
+Müthişsin, Usopp!
+
+252
+00:17:04,750 --> 00:17:06,310
+Usopp...
+
+253
+00:17:06,350 --> 00:17:07,750
+...işe yaramadı.
+
+254
+00:17:07,790 --> 00:17:09,550
+Endişelenme, Chopper.
+
+255
+00:17:09,590 --> 00:17:13,910
+Ayrıca bu gibi durumlar için,
+gizli bir plan hazırladım!
+
+256
+00:17:15,110 --> 00:17:17,150
+Öyle mi? Nasıl bir plan?
+
+257
+00:17:17,710 --> 00:17:20,950
+Buralarda yüzen dev Gök
+Köpekbalıkları var, değil mi?
+
+258
+00:17:22,110 --> 00:17:23,270
+Evet, evet!
+
+259
+00:17:23,310 --> 00:17:25,070
+Bir sürü var!
+
+260
+00:17:26,390 --> 00:17:29,410
+Ya onların gücünü kullanmış olsaydık?
+
+261
+00:17:29,830 --> 00:17:31,350
+Gök Köpekbalıkları'nın gücü?
+
+262
+00:17:31,350 --> 00:17:32,430
+Evet!
+
+263
+00:17:32,470 --> 00:17:34,430
+Gerçekten güçlüler!
+
+264
+00:17:34,470 --> 00:17:35,790
+Bunu konuşabilirim!
+
+265
+00:17:35,830 --> 00:17:36,810
+Ve şimdi Chopper,...
+
+266
+00:17:36,810 --> 00:17:39,390
+...yapmanı istediğim bir şey var.
+
+267
+00:17:41,710 --> 00:17:43,030
+Tabi, her ne istersen!
+
+268
+00:17:43,070 --> 00:17:45,030
+Bana güvenebilirsin!
+
+269
+00:17:45,510 --> 00:17:46,550
+Her şeyi yaparım.
+
+270
+00:17:46,750 --> 00:17:47,910
+Öyle mi?
+
+271
+00:17:49,390 --> 00:17:50,510
+İyi dedin!
+
+272
+00:17:59,790 --> 00:18:01,510
+Usopp!
+
+273
+00:18:01,790 --> 00:18:04,670
+Yoksa... bu... benim...
+
+274
+00:18:05,270 --> 00:18:08,990
+Aç Gök Köpekbalıkları seni yemeye çalışacak!
+
+275
+00:18:09,270 --> 00:18:10,790
+Ben yem miyim?!
+
+276
+00:18:11,110 --> 00:18:12,070
+Hayır, hayır!
+
+277
+00:18:12,110 --> 00:18:13,150
+Yem olmak istemiyorum!
+
+278
+00:18:13,190 --> 00:18:14,750
+Yenilmek istemiyorum!!
+
+279
+00:18:22,710 --> 00:18:25,390
+YARDIM EDİN!!
+
+280
+00:18:25,630 --> 00:18:26,950
+Şimdi, Sanji!
+
+281
+00:18:43,030 --> 00:18:43,750
+Evet!
+
+282
+00:18:49,510 --> 00:18:51,590
+Gel ve al, Gök Köpekbalığı.
+
+283
+00:19:01,350 --> 00:19:04,590
+HAYIR!!
+
+284
+00:19:04,630 --> 00:19:06,430
+KIPIRDAMA!!
+
+285
+00:19:06,950 --> 00:19:08,030
+KIPIRDA!
+
+286
+00:19:27,710 --> 00:19:29,790
+Evet!
+
+287
+00:19:30,110 --> 00:19:32,790
+Evet! Evet! Usopp, yaşasın!
+
+288
+00:19:33,750 --> 00:19:36,350
+Evet, önemli değil!
+
+289
+00:19:48,550 --> 00:19:52,150
+HAYIR!!
+
+290
+00:19:55,430 --> 00:19:57,710
+Tamam, haritaya bakın.
+
+291
+00:19:57,750 --> 00:19:59,990
+Keşif Takımı'nın gideceği rota...
+
+292
+00:20:00,030 --> 00:20:01,410
+...doğruca güney.
+
+293
+00:20:02,190 --> 00:20:05,230
+Tam şurada birkaç harabe olmalı.
+
+294
+00:20:05,310 --> 00:20:08,430
+Yol boyunca bütün düşmanlardan
+sakının ve altını getirin!
+
+295
+00:20:08,470 --> 00:20:10,510
+Kolaymış gibi konuşuyorsun.
+
+296
+00:20:10,550 --> 00:20:12,830
+Harabeleri araştırma işini de
+içeriyorsa, seve seve yaparım.
+
+297
+00:20:12,990 --> 00:20:14,190
+Ya sen?
+
+298
+00:20:14,230 --> 00:20:16,950
+Daha fazla altından bahsediyorsun
+ama bizimle gelmeyecek misin?
+
+299
+00:20:16,990 --> 00:20:17,790
+Elbette hayır!
+
+300
+00:20:17,830 --> 00:20:19,230
+Orası korkunç bir yer.
+
+301
+00:20:19,270 --> 00:20:22,350
+<i>Altın istiyor ama onu almak için
+hiçbir şeyi riske atmak istemiyor!</i>
+
+302
+00:20:22,390 --> 00:20:24,790
+<i>Nami çok tuhaf! Gerçekten tuhaf!</i>
+
+303
+00:20:24,830 --> 00:20:26,030
+Bir şey mi diyorsun?
+
+304
+00:20:30,990 --> 00:20:35,030
+Bu arada, biz Merry'yi adadan geçireceğiz.
+
+305
+00:20:35,070 --> 00:20:36,550
+Bizim için de tehlikeli olacak.
+
+306
+00:20:37,070 --> 00:20:40,310
+En hızlı biçimde kıyıya
+doğru gidiyor olacağız.
+
+307
+00:20:42,350 --> 00:20:44,150
+Burada buluşalım!
+
+308
+00:20:44,190 --> 00:20:46,510
+Sonra da Gökyüzü Adası'ndan kaçacağız!
+
+309
+00:20:47,390 --> 00:20:50,710
+Zengin korsan tayfası olacağız!
+
+310
+00:20:50,750 --> 00:20:52,190
+Ne istersek alabiliriz!
+
+311
+00:20:52,230 --> 00:20:53,230
+Yaşasın!
+
+312
+00:20:53,830 --> 00:20:55,350
+Yiyebileceğim kadar et!
+
+313
+00:20:55,390 --> 00:20:56,990
+Kaçmak...
+
+314
+00:20:57,030 --> 00:20:58,390
+...kulağa harika geliyor!
+
+315
+00:20:58,430 --> 00:21:00,230
+BENİ YEM YAPMAYIN!
+
+316
+00:21:01,110 --> 00:21:02,090
+Bakın!
+
+317
+00:21:02,110 --> 00:21:03,470
+Hava mükemmel!
+
+318
+00:21:03,510 --> 00:21:04,910
+Bulutların üzerinde olduğumuz için öyle.
+
+319
+00:21:04,950 --> 00:21:07,710
+Öyleyse, güvenli bir biçimde
+doğu kıyısında buluşacağız!
+
+320
+00:21:07,750 --> 00:21:08,710
+Tamam!
+
+321
+00:21:08,750 --> 00:21:09,990
+Gidelim öyleyse!
+
+322
+00:21:10,030 --> 00:21:11,190
+Tamam!
+
+323
+00:21:42,030 --> 00:21:45,190
+<i>İp Sınavı'mla kim yüzleşecek?</i>
+
+324
+00:21:45,230 --> 00:21:46,790
+<i>Shandianlar mı?</i>
+
+325
+00:21:46,830 --> 00:21:49,030
+<i>Yoksa Mavi Deniz sakinleri mi?</i>
+
+326
+00:21:54,190 --> 00:21:57,510
+<i>Festival başlıyor.</i>
+
+327
+00:21:57,550 --> 00:21:59,590
+<i>Fevkalade olacak.</i>
+
+328
+00:21:59,590 --> 00:22:02,090
+<i>Bugün harika bir gün.</i>
+
+329
+00:22:05,850 --> 00:22:09,021
+Devam edecek...
+
+330
+00:22:15,780 --> 00:22:22,446
+<i>Birbirimizden uzakta bile olsak,...</i>
+
+331
+00:22:22,446 --> 00:22:28,911
+<i>...her zaman hatırlayacağını umuyorum.</i>
+
+332
+00:22:28,911 --> 00:22:35,833
+<i>Ağladığın günlerde her zaman...</i>
+
+333
+00:22:35,833 --> 00:22:43,091
+<i>...acını paylaşmak için burada biri olduğunu.</i>
+
+334
+00:22:45,802 --> 00:22:52,685
+<i>Asla teslim olmayan bizler,
+uzak düşüncelerimizin...</i>
+
+335
+00:22:52,685 --> 00:22:59,233
+<i>...hayaller olarak son
+bulmasına izin vermeyeceğiz.</i>
+
+336
+00:22:59,233 --> 00:23:05,905
+<i>Herkesin aradığı sonsuzluğun parıltısı...</i>
+
+337
+00:23:05,905 --> 00:23:13,672
+<i>...bizim ellerimizde olacak.</i>

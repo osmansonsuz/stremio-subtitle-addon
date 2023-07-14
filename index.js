@@ -34,7 +34,7 @@ builder.defineSubtitlesHandler(async function(args) {
 async function fetchSubtitles(season, episode) {
   const subtitles = 
     {
-      url: `https://www.sonsuzanime.com/subtitles/onepiece/season${season}/episode${episode}.srt`,
+      url: `https://fdfa3f0d051a-one-piece-turkce-altyazi.baby-beamup.club/subtitles/onepiece/season${season}/episode${episode}.srt`,
       lang: "Türkçe",
     };
 
