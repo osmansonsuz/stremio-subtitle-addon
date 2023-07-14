@@ -8,7 +8,7 @@ const builder = new addonBuilder({
   name: 'One Piece Turkce Altyazi(SonsuzAnime)',
   description: 'One Piece Turkce Altyazilari',
   
-  types: ['"movie", "series"'],
+  types: ['series'],
   catalogs: [],
   resources: ['subtitles']
 })
