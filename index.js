@@ -6,7 +6,7 @@ const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.0',
   name: 'One Piece Turkce Altyazi(SonsuzAnime)',
-  description: 'One Piece Turkce Altyazilari',
+  description: 'One Piece Turkce Altyazilari Senkron Sorunu İçin infinity@sonsuzanime.com',
   
   types: ['series'],
   catalogs: [],
