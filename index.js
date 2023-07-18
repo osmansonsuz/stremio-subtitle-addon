@@ -23,7 +23,7 @@ builder.defineSubtitlesHandler(async function(args) {
 
 
 
-    const subtitle = await fetchSubtitles(season, episode); // await kullanmayı unutmayın
+    const subtitle = await fetchSubtitles(season, episode);
     return Promise.resolve({ subtitles: [subtitle]})
   } else {
     return Promise.resolve({ subtitles: [] })
@@ -49,7 +49,7 @@ function parseId(id) {
     const [, , season, episode] = match;
     return { season: Number(season), episode: Number(episode) };
   }
-  return { season: 0, episode: 0 }; // Eğer eşleşme bulunamazsa varsayılan değerler
+  return { season: 0, episode: 0 };
 }
 publishToCentral("https://fdfa3f0d051a-one-piece-turkce-altyazi.baby-beamup.club/manifest.json")
 
