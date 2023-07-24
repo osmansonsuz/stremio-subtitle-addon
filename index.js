@@ -5,8 +5,8 @@ var addon = express()
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.0',
-  name: 'One Piece Turkce Altyazi(SonsuzAnime)',
-  description: 'One Piece Turkce Altyazilari Senkron Sorunu İçin infinity@sonsuzanime.com',
+  name: 'Anime Turkce Altyazi(SonsuzAnime)',
+  description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
   types: ['series'],
   catalogs: [],
@@ -16,25 +16,37 @@ const builder = new addonBuilder({
 builder.defineSubtitlesHandler(async function(args) {
   const { id } = args;
   console.log("id", id);
-
+  //one piece
   if (id.startsWith("tt0388629")) {
     const { season, episode } = parseId(id);
     console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
 
 
 
-    const subtitle = await fetchSubtitles(season, episode);
+    const subtitle = await fetchSubtitles("onepiece",season, episode);
     return Promise.resolve({ subtitles: [subtitle]})
-  } else {
+  }
+
+  //the big bang theory
+  else if(id.startsWith("tt0898266")){
+    const { season, episode } = parseId(id);
+    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+
+
+
+    const subtitle = await fetchSubtitles("thebigbangtheory",season, episode);
+    return Promise.resolve({ subtitles: [subtitle]})
+  }
+  else {
     return Promise.resolve({ subtitles: [] })
   }
 });
 
 
-async function fetchSubtitles(season, episode) {
+async function fetchSubtitles(anime,season, episode) {
   const subtitles = 
     {
-      url: `https://www.sonsuzanime.com/subtitles/onepiece/season${season}/episode${episode}.srt`,
+      url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}.srt`,
       lang: "Türkçe",
     };
 
