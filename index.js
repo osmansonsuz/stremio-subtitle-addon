@@ -37,6 +37,17 @@ builder.defineSubtitlesHandler(async function(args) {
     const subtitle = await fetchSubtitles("thebigbangtheory",season, episode);
     return Promise.resolve({ subtitles: [subtitle]})
   }
+
+  //spy x family
+  else if(id.startsWith("tt13706018")){
+    const { season, episode } = parseId(id);
+    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+
+
+
+    const subtitle = await fetchSubtitles("spyxfamily",season, episode);
+    return Promise.resolve({ subtitles: [subtitle]})
+  }
   else {
     return Promise.resolve({ subtitles: [] })
   }
