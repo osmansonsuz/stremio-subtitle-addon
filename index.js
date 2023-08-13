@@ -1,11 +1,6 @@
 const { addonBuilder, serveHTTP, publishToCentral } = require('stremio-addon-sdk');
 var express = require("express")
 var addon = express()
-const https = require('https')
-
-setInterval(() => {
-	https.get('https://my-project.glitch.me/manifest.json')
-}, 299000)
 
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
