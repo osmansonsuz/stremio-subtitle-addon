@@ -48,6 +48,23 @@ builder.defineSubtitlesHandler(async function(args) {
     const subtitle = await fetchSubtitles("spyxfamily",season, episode);
     return Promise.resolve({ subtitles: [subtitle]})
   }
+  //bleachsennen2.sezon
+  else if(id.startsWith("kitsu:46903")){
+    const parts = id.split(':');
+    let episode = null
+    if (parts.length >= 3) {
+        episode = parts[2];
+
+    } else {
+        console.log('Geçersiz ID formatı.');
+    }
+    console.log("Gelen bölüm: Sezon", 1, "Bölüm", episode);
+
+
+
+    const subtitle = await fetchSubtitles("bleachsennen2",1, episode);
+    return Promise.resolve({ subtitles: [subtitle]})
+  }
   else {
     return Promise.resolve({ subtitles: [] })
   }
