@@ -8,7 +8,7 @@ const builder = new addonBuilder({
   name: 'Anime Turkce Altyazi(SonsuzAnime)',
   description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
-  types: ['series'],
+  types: ['series','anime','movie'],
   catalogs: [],
   resources: ['subtitles']
 })
