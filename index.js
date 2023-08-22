@@ -3,7 +3,7 @@ var express = require("express")
 var addon = express()
 var mysql = require('mysql');
 var http = require("https");
-const apiKey = process.env.apiKey;
+const apiKey = "apikey "+process.env.apiKey;
 
 
 var con = mysql.createConnection({
