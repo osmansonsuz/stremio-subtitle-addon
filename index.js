@@ -3,18 +3,14 @@ var express = require("express")
 var addon = express()
 var mysql = require('mysql');
 var http = require("https");
-const config = require('./config.json');
-const apiKey = config.apiKey;
-const host = config.host;
-const user = config.user;
-const password = config.password;
-const database = config.database;
+const apiKey = process.env.apiKey;
+
 
 var con = mysql.createConnection({
-  host: host,
-  user: user,
-  password: password,
-  database: database
+  host: process.env.host,
+  user: process.env.user,
+  password: process.env.password,
+  database: process.env.database
 });
 
 const builder = new addonBuilder({
