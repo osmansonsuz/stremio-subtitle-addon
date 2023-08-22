@@ -78,19 +78,19 @@ builder.defineSubtitlesHandler(async function(args) {
   }
   else {
     if (id != null) {
-      const checkQuery = `SELECT * FROM series WHERE series_imdbid = ?`;
+      const checkQuery = `SELECT * FROM requests WHERE series_imdbid = ?`;
 
       con.query(checkQuery, [id], function (err, results) {
         if (err) throw err;
     
         if (results.length === 0) {
-          const insertQuery = `INSERT INTO series (series_imdbid, count) VALUES (?, 1)`;
+          const insertQuery = `INSERT INTO requests (series_imdbid, count) VALUES (?, 1)`;
           con.query(insertQuery, [id], function (err, result) {
             if (err) throw err;
             console.log("Seri veritabanına eklendi.");
           });
         } else {
-          const updateQuery = `UPDATE series SET count = count + 1 WHERE series_imdbid = ?`;
+          const updateQuery = `UPDATE requests SET count = count + 1 WHERE series_imdbid = ?`;
           con.query(updateQuery, [id], function (err, result) {
             if (err) throw err;
             console.log("Seri sayısı güncellendi.");
