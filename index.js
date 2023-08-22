@@ -77,21 +77,53 @@ builder.defineSubtitlesHandler(async function(args) {
     return Promise.resolve({ subtitles: [subtitle]})
   }
   else {
-    if (id != null) {
+    let imdbid=null;
+    if(id.startsWith("tt")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = parts[0];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("kitsu")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = "kitsu:"+parts[1];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("pt")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = "pt:"+parts[1];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("anime4up_id")||id.startsWith("consumet")||id.startsWith("wecima_id")||id.startsWith("akwam")){
+      imdbid=null;
+    }
+    
+    if (imdbid != null) {
       const checkQuery = `SELECT * FROM requests WHERE series_imdbid = ?`;
 
-      con.query(checkQuery, [id], function (err, results) {
+      con.query(checkQuery, [imdbid], function (err, results) {
         if (err) throw err;
     
         if (results.length === 0) {
           const insertQuery = `INSERT INTO requests (series_imdbid, count) VALUES (?, 1)`;
-          con.query(insertQuery, [id], function (err, result) {
+          con.query(insertQuery, [imdbid], function (err, result) {
             if (err) throw err;
             console.log("Seri veritabanına eklendi.");
           });
         } else {
           const updateQuery = `UPDATE requests SET count = count + 1 WHERE series_imdbid = ?`;
-          con.query(updateQuery, [id], function (err, result) {
+          con.query(updateQuery, [imdbid], function (err, result) {
             if (err) throw err;
             console.log("Seri sayısı güncellendi.");
           });
