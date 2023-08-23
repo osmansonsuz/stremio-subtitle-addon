@@ -1,7 +1,17 @@
 const { addonBuilder, serveHTTP, publishToCentral } = require('stremio-addon-sdk');
 var express = require("express")
 var addon = express()
+var mysql = require('mysql');
+var http = require("https");
 
+
+
+var con = mysql.createConnection({
+  host: process.env.host,
+  user: process.env.user,
+  password: process.env.password,
+  database: process.env.database
+});
 
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
@@ -67,7 +77,60 @@ builder.defineSubtitlesHandler(async function(args) {
     return Promise.resolve({ subtitles: [subtitle]})
   }
   else {
+    let imdbid=null;
+    if(id.startsWith("tt")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = parts[0];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("kitsu")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = "kitsu:"+parts[1];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("pt")){
+      const parts = id.split(':');
+      if (parts.length >= 1) {
+        imdbid = "pt:"+parts[1];
+
+      } else {
+          console.log('Geçersiz ID formatı.');
+      }
+    }
+    else if(id.startsWith("anime4up_id")||id.startsWith("consumet")||id.startsWith("wecima_id")||id.startsWith("akwam")){
+      imdbid=null;
+    }
     
+    if (imdbid != null) {
+      const checkQuery = `SELECT * FROM requests WHERE series_imdbid = ?`;
+
+      con.query(checkQuery, [imdbid], function (err, results) {
+        if (err) throw err;
+    
+        if (results.length === 0) {
+          const insertQuery = `INSERT INTO requests (series_imdbid, count) VALUES (?, 1)`;
+          con.query(insertQuery, [imdbid], function (err, result) {
+            if (err) throw err;
+            console.log("Seri veritabanına eklendi.");
+          });
+        } else {
+          const updateQuery = `UPDATE requests SET count = count + 1 WHERE series_imdbid = ?`;
+          con.query(updateQuery, [imdbid], function (err, result) {
+            if (err) throw err;
+            console.log("Seri sayısı güncellendi.");
+          });
+        }
+        
+      });
+    }
     return Promise.resolve({ subtitles: [] });
   }
 });
