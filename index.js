@@ -4,8 +4,6 @@ var addon = express()
 var mysql = require('mysql');
 var http = require("https");
 
-
-
 var con = mysql.createConnection({
   host: process.env.host,
   user: process.env.user,
@@ -27,134 +25,111 @@ const builder = new addonBuilder({
 builder.defineSubtitlesHandler(async function(args) {
   const { id } = args;
   console.log("id", id);
-  //one piece
-  if (id.startsWith("tt0388629")) {
-    const { season, episode } = parseId(id);
-    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+  let imdbid = null;
+  
 
-
-
-    const subtitle = await fetchSubtitles("onepiece",season, episode);
-    return Promise.resolve({ subtitles: [subtitle]})
-  }
-
-  //the big bang theory
-  else if(id.startsWith("tt0898266")){
-    const { season, episode } = parseId(id);
-    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
-
-
-
-    const subtitle = await fetchSubtitles("thebigbangtheory",season, episode);
-    return Promise.resolve({ subtitles: [subtitle]})
-  }
-
-  //spy x family
-  else if(id.startsWith("tt13706018")){
-    const { season, episode } = parseId(id);
-    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
-
-
-
-    const subtitle = await fetchSubtitles("spyxfamily",season, episode);
-    return Promise.resolve({ subtitles: [subtitle]})
-  }
-  //bleachsennen2.sezon
-  else if(id.startsWith("kitsu:46903")){
-    const parts = id.split(':');
-    let episode = null
-    if (parts.length >= 3) {
-        episode = parts[2];
-
-    } else {
-        console.log('Geçersiz ID formatı.');
-    }
-    console.log("Gelen bölüm: Sezon", 1, "Bölüm", episode);
-
-
-
-    const subtitle = await fetchSubtitles("bleachsennen2",1, episode);
-    return Promise.resolve({ subtitles: [subtitle]})
-  }
-  //Ahsoka
-  else if(id.startsWith("tt13622776")){
-    const { season, episode } = parseId(id);
-    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
-
-
-
-    const subtitle = await fetchSubtitles("ahsoka",season, episode);
-    return Promise.resolve({ subtitles: [subtitle]})
-  }
-  else {
-    let imdbid=null;
-    if(id.startsWith("tt")){
+  if(id.startsWith("tt") ||id.startsWith("kitsu") ||id.startsWith("pt")){
+    
+    if (id.startsWith("tt")) {
       const parts = id.split(':');
       if (parts.length >= 1) {
         imdbid = parts[0];
-
       } else {
-          console.log('Geçersiz ID formatı.');
+        console.log('Geçersiz ID formatı.');
       }
-    }
-    else if(id.startsWith("kitsu")){
+    } else if (id.startsWith("kitsu")) {
       const parts = id.split(':');
       if (parts.length >= 1) {
-        imdbid = "kitsu:"+parts[1];
-
+        imdbid = "kitsu:" + parts[1];
       } else {
-          console.log('Geçersiz ID formatı.');
+        console.log('Geçersiz ID formatı.');
       }
-    }
-    else if(id.startsWith("pt")){
+    } else if (id.startsWith("pt")) {
       const parts = id.split(':');
       if (parts.length >= 1) {
-        imdbid = "pt:"+parts[1];
-
+        imdbid = "pt:" + parts[1];
       } else {
-          console.log('Geçersiz ID formatı.');
+        console.log('Geçersiz ID formatı.');
       }
     }
-    else if(id.startsWith("anime4up_id")||id.startsWith("consumet")||id.startsWith("wecima_id")||id.startsWith("akwam")){
-      imdbid=null;
+    else{
+      imdbid = null;
     }
-    
-    if (imdbid != null) {
-      const checkQuery = `SELECT * FROM requests WHERE series_imdbid = ?`;
-    
-      con.query(checkQuery, [imdbid], function (err, results) {
-        if (err) {
-          console.error("Veritabanı hatası:", err);
-          // Devam et veya gerekirse özel bir işlem yap
-          return;
-        }
-    
-        if (results.length === 0) {
-          const insertQuery = `INSERT INTO requests (series_imdbid, count) VALUES (?, 1)`;
-          con.query(insertQuery, [imdbid], function (err, result) {
-            if (err) {
-              console.error("Veritabanı hatası:", err);
-              // Devam et veya gerekirse özel bir işlem yap
-              return;
-            }
-            console.log("Seri veritabanına eklendi.");
-          });
-        } else {
-          const updateQuery = `UPDATE requests SET count = count + 1 WHERE series_imdbid = ?`;
-          con.query(updateQuery, [imdbid], function (err, result) {
-            if (err) {
-              console.error("Veritabanı hatası:", err);
-              // Devam et veya gerekirse özel bir işlem yap
-              return;
-            }
-            console.log("Seri sayısı güncellendi.");
-          });
-        }
-      });
-    }
-    
-    return Promise.resolve({ subtitles: [] });
   }
+  //tt,pt,kitsudan birisiyse burası çalışacak
+  if (imdbid != null) {
+    const query = `SELECT * FROM series WHERE series_imdbid = ?`;
+  
+    try {
+      const results = await new Promise((resolve, reject) => {
+        con.query(query, [imdbid], function (err, results) {
+          if (err) {
+            console.error("Veritabanı hatası:", err);
+            reject(err);
+          } else {
+            resolve(results);
+          }
+        });
+      });
+  
+      if (results.length > 0) {
+        const seriesName = results[0].series_path;
+        const { season, episode } = parseId(id);
+        console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+        
+        try {
+          subtitle = await fetchSubtitles(seriesName, season, episode);
+          
+          if (subtitle !== null) {
+            return Promise.resolve({ subtitles: [subtitle] });
+          } else {
+            console.log("Altyazı alınamadı.");
+            return Promise.resolve({ subtitles: [] });
+          }
+        } catch (fetchError) {
+          console.error("Altyazı alınamadı:", fetchError);
+          return Promise.resolve({ subtitles: [] });
+        }
+      }
+      else {
+        console.log("Seri bulunamadı.");
+  
+        try {
+          const insertQuery = `
+            INSERT INTO requests (series_imdbid, count)
+            VALUES (?, 1)
+            ON DUPLICATE KEY UPDATE count = count + 1
+          `;
+  
+          const result = await new Promise((resolve, reject) => {
+            con.query(insertQuery, [imdbid], function (err, result) {
+              if (err) {
+                console.error("Veritabanı hatası:", err);
+                reject(err);
+              } else {
+                resolve(result);
+              }
+            });
+          });
+  
+          if (result.insertId) {
+            console.log("Seri veritabanına eklendi.");
+          } else {
+            console.log("Seri sayısı güncellendi.");
+          }
+        } catch (insertError) {
+          console.error("Seri ekleme/güncelleme hatası:", insertError);
+        }
+      }
+  
+      
+    } catch (error) {
+      console.error("Hata:", error);
+    }
+  }
+  
+  
+
 });
 
 
