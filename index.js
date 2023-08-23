@@ -121,26 +121,38 @@ builder.defineSubtitlesHandler(async function(args) {
     
     if (imdbid != null) {
       const checkQuery = `SELECT * FROM requests WHERE series_imdbid = ?`;
-
+    
       con.query(checkQuery, [imdbid], function (err, results) {
-        if (err) throw err;
+        if (err) {
+          console.error("Veritabanı hatası:", err);
+          // Devam et veya gerekirse özel bir işlem yap
+          return;
+        }
     
         if (results.length === 0) {
           const insertQuery = `INSERT INTO requests (series_imdbid, count) VALUES (?, 1)`;
           con.query(insertQuery, [imdbid], function (err, result) {
-            if (err) throw err;
+            if (err) {
+              console.error("Veritabanı hatası:", err);
+              // Devam et veya gerekirse özel bir işlem yap
+              return;
+            }
             console.log("Seri veritabanına eklendi.");
           });
         } else {
           const updateQuery = `UPDATE requests SET count = count + 1 WHERE series_imdbid = ?`;
           con.query(updateQuery, [imdbid], function (err, result) {
-            if (err) throw err;
+            if (err) {
+              console.error("Veritabanı hatası:", err);
+              // Devam et veya gerekirse özel bir işlem yap
+              return;
+            }
             console.log("Seri sayısı güncellendi.");
           });
         }
-        
       });
     }
+    
     return Promise.resolve({ subtitles: [] });
   }
 });
