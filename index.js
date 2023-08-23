@@ -76,6 +76,16 @@ builder.defineSubtitlesHandler(async function(args) {
     const subtitle = await fetchSubtitles("bleachsennen2",1, episode);
     return Promise.resolve({ subtitles: [subtitle]})
   }
+  //Ahsoka
+  else if(id.startsWith("tt13622776")){
+    const { season, episode } = parseId(id);
+    console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+
+
+
+    const subtitle = await fetchSubtitles("ahsoka",season, episode);
+    return Promise.resolve({ subtitles: [subtitle]})
+  }
   else {
     let imdbid=null;
     if(id.startsWith("tt")){
