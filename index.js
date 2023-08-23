@@ -14,7 +14,7 @@ var con = mysql.createConnection({
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.0',
-  name: 'Anime Turkce Altyazi(SonsuzAnime)',
+  name: 'Turkce Altyazi(SonsuzAnime)',
   description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
   types: ['series','anime','movie'],
@@ -96,9 +96,9 @@ builder.defineSubtitlesHandler(async function(args) {
   
         try {
           const insertQuery = `
-            INSERT INTO requests (series_imdbid, count)
+            INSERT INTO requests (request_imdbid, request_count)
             VALUES (?, 1)
-            ON DUPLICATE KEY UPDATE count = count + 1
+            ON DUPLICATE KEY UPDATE request_count = request_count + 1
           `;
   
           const result = await new Promise((resolve, reject) => {
