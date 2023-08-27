@@ -146,10 +146,18 @@ async function fetchSubtitles(anime,season, episode) {
 
 
 function parseId(id) {
-  const match = id.match(/tt(\d+):(\d+):(\d+)/);
-  if (match) {
-    const [, , season, episode] = match;
-    return { season: Number(season), episode: Number(episode) };
+  if (id.startsWith("tt")) {
+    const match = id.match(/tt(\d+):(\d+):(\d+)/);
+    if (match) {
+      const [, , season, episode] = match;
+      return { season: Number(season), episode: Number(episode) };
+    }
+  } else if (id.startsWith("kitsu")) {
+    const parts = id.split(':');
+    if (parts.length >= 3) {
+      const [, , episode] = parts;
+      return { season: 1, episode: Number(episode) };
+    }
   }
   return { season: 0, episode: 0 };
 }
