@@ -1,19 +1,18 @@
 const { addonBuilder, serveHTTP, publishToCentral } = require('stremio-addon-sdk');
 var express = require("express")
 var addon = express()
-var mysql = require('mysql');
+const oracledb = require('oracledb');
 var http = require("https");
 
-var con = mysql.createConnection({
-  host: process.env.host,
+const connectionConfig = {
   user: process.env.user,
   password: process.env.password,
-  database: process.env.database
-});
+  connectString: process.env.connectString
+};
 
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
-  version: '1.0.0',
+  version: '1.1.0',
   name: 'Turkce Altyazi(SonsuzAnime)',
   description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
@@ -26,119 +25,130 @@ builder.defineSubtitlesHandler(async function(args) {
   const { id } = args;
   console.log("id", id);
   let imdbid = null;
-  
+  let connection;
 
-  if(id.startsWith("tt") ||id.startsWith("kitsu") ||id.startsWith("pt")){
+  try {
+    // Oracle veritabanı bağlantısı açılıyor
+    connection = await oracledb.getConnection(connectionConfig);
+
+    if (id.startsWith("tt") || id.startsWith("kitsu") || id.startsWith("pt")) {
+      if (id.startsWith("tt")) {
+        const parts = id.split(':');
+        if (parts.length >= 1) {
+          imdbid = parts[0];
+        } else {
+          console.log('Geçersiz ID formatı.');
+        }
+      } else if (id.startsWith("kitsu")) {
+        const parts = id.split(':');
+        if (parts.length >= 1) {
+          imdbid = "kitsu:" + parts[1];
+        } else {
+          console.log('Geçersiz ID formatı.');
+        }
+      } else if (id.startsWith("pt")) {
+        const parts = id.split(':');
+        if (parts.length >= 1) {
+          imdbid = "pt:" + parts[1];
+        } else {
+          console.log('Geçersiz ID formatı.');
+        }
+      } else {
+        imdbid = null;
+      }
+    }
     
-    if (id.startsWith("tt")) {
-      const parts = id.split(':');
-      if (parts.length >= 1) {
-        imdbid = parts[0];
-      } else {
-        console.log('Geçersiz ID formatı.');
-      }
-    } else if (id.startsWith("kitsu")) {
-      const parts = id.split(':');
-      if (parts.length >= 1) {
-        imdbid = "kitsu:" + parts[1];
-      } else {
-        console.log('Geçersiz ID formatı.');
-      }
-    } else if (id.startsWith("pt")) {
-      const parts = id.split(':');
-      if (parts.length >= 1) {
-        imdbid = "pt:" + parts[1];
-      } else {
-        console.log('Geçersiz ID formatı.');
-      }
-    }
-    else{
-      imdbid = null;
-    }
-  }
-  //tt,pt,kitsudan birisiyse burası çalışacak
-  if (imdbid != null) {
-    const query = `SELECT * FROM series WHERE series_imdbid = ?`;
-  
-    try {
-      const results = await new Promise((resolve, reject) => {
-        con.query(query, [imdbid], function (err, results) {
-          if (err) {
-            console.error("Veritabanı hatası:", err);
-            reject(err);
-          } else {
-            resolve(results);
-          }
-        });
-      });
-  
-      if (results.length > 0) {
-        const seriesName = results[0].series_path;
-        const { season, episode } = parseId(id);
-        console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
-        
-        try {
-          subtitle = await fetchSubtitles(seriesName, season, episode);
-          
-          if (subtitle !== null) {
-            return Promise.resolve({ subtitles: [subtitle] });
-          } else {
-            console.log("Altyazı alınamadı.");
+    //tt,pt,kitsudan birisiyse burası çalışacak
+    if (imdbid !== null) {
+      const query = `SELECT * FROM series WHERE series_imdbid = :imdbid`;
+
+      try {
+        const results = await connection.execute(query, [imdbid]);
+
+        if (results.rows.length > 0) {
+          const seriesName = results.rows[0].series_path;
+          const version_count = result.rows[0].version_count;
+          const { season, episode } = parseId(id);
+          console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+
+          try {
+            const subtitle = await fetchSubtitles(seriesName, season, episode,version_count);
+
+            if (subtitle !== null) {
+              return Promise.resolve({ subtitles: [subtitle] });
+            } else {
+              console.log("Altyazı alınamadı.");
+              return Promise.resolve({ subtitles: [] });
+            }
+          } catch (fetchError) {
+            console.error("Altyazı alınamadı:", fetchError);
             return Promise.resolve({ subtitles: [] });
           }
-        } catch (fetchError) {
-          console.error("Altyazı alınamadı:", fetchError);
-          return Promise.resolve({ subtitles: [] });
-        }
-      }
-      else {
-        console.log("Seri bulunamadı.");
-  
-        try {
+        } else {
+          console.log("Seri bulunamadı.");
+
           const insertQuery = `
-            INSERT INTO requests (request_imdbid, request_count)
-            VALUES (?, 1)
-            ON DUPLICATE KEY UPDATE request_count = request_count + 1
+            MERGE INTO requests r
+            USING (SELECT :imdbid AS request_imdbid FROM dual) new_data
+            ON (r.request_imdbid = new_data.request_imdbid)
+            WHEN MATCHED THEN
+              UPDATE SET r.request_count = r.request_count + 1
+            WHEN NOT MATCHED THEN
+              INSERT (request_imdbid, request_count)
+              VALUES (new_data.request_imdbid, 1);          
           `;
-  
-          const result = await new Promise((resolve, reject) => {
-            con.query(insertQuery, [imdbid], function (err, result) {
-              if (err) {
-                console.error("Veritabanı hatası:", err);
-                reject(err);
-              } else {
-                resolve(result);
-              }
-            });
-          });
-  
-          if (result.insertId) {
-            console.log("Seri veritabanına eklendi.");
-          } else {
-            console.log("Seri sayısı güncellendi.");
+
+          try {
+            const result = await connection.execute(insertQuery, [imdbid]);
+
+            if (result.rowsAffected === 1) {
+              console.log("Seri veritabanına eklendi.");
+            } else {
+              console.log("Seri sayısı güncellendi.");
+            }
+          } catch (insertError) {
+            console.error("Seri ekleme/güncelleme hatası:", insertError);
           }
-        } catch (insertError) {
-          console.error("Seri ekleme/güncelleme hatası:", insertError);
         }
+      } catch (error) {
+        console.error("Hata:", error);
       }
-  
-      
-    } catch (error) {
-      console.error("Hata:", error);
+    }
+
+  } catch (err) {
+    console.error("Bağlantı hatası:", err);
+  } finally {
+    if (connection) {
+      try {
+        // Oracle veritabanı bağlantısı kapatılıyor
+        await connection.close();
+      } catch (err) {
+        console.error("Bağlantı kapatma hatası:", err);
+      }
     }
   }
-  
-  
-
 });
 
 
-async function fetchSubtitles(anime,season, episode) {
-  const subtitles = 
-    {
+
+async function fetchSubtitles(anime,season, episode,version_count) {
+  const subtitles = [];
+
+  if (version_count === 1) {
+    const subtitle = {
       url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}.srt`,
       lang: "Türkçe",
     };
+    subtitles.push(subtitle);
+  } else {
+    for (let i = 1; i <= version_count; i++) {
+      const subtitle = {
+        url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}-${i}.srt`,
+        lang: "Türkçe",
+      };
+      subtitles.push(subtitle);
+    }
+  }
 
   console.log("Altyazılar", subtitles);
   return subtitles;

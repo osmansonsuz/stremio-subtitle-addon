@@ -2,6 +2,7 @@
   "dependencies": {
     "https": "^1.0.0",
     "mysql": "^2.18.1",
+    "oracledb": "^6.0.3",
     "stremio-addon-sdk": "^1.6.10"
   }
 }
