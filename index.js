@@ -4,6 +4,10 @@ var addon = express()
 const oracledb = require('oracledb');
 var http = require("https");
 
+const user = process.env.user;
+const password = process.env.password;
+const connectionString = process.env.connectString;
+
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.1',
@@ -22,7 +26,7 @@ builder.defineSubtitlesHandler(async function(args) {
   let connection;
 
   try {
-    connection = await oracledb.getConnection({ user: process.env.user, password: process.env.password, connectionString: process.env.connectString });
+    connection = await oracledb.getConnection({ user: user, password: password, connectionString: connectionString});
     console.log("Bağlantı açık");
 
     if (id.startsWith("tt") || id.startsWith("kitsu") || id.startsWith("pt")) {
