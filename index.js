@@ -6,7 +6,7 @@ var http = require("https");
 
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
-  version: '1.1.1',
+  version: '1.0.1',
   name: 'Turkce Altyazi(SonsuzAnime)',
   description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
