@@ -29,7 +29,8 @@ builder.defineSubtitlesHandler(async function(args) {
 
   try {
     // Oracle veritabanı bağlantısı açılıyor
-    connection = await oracledb.getConnection(connectionConfig);
+    connection = await oracledb.getConnection({ user: process.env.user, password: process.env.password, connectionString: process.env.connectString });
+    console.log("Bağlantı açık");
 
     if (id.startsWith("tt") || id.startsWith("kitsu") || id.startsWith("pt")) {
       if (id.startsWith("tt")) {
@@ -64,26 +65,96 @@ builder.defineSubtitlesHandler(async function(args) {
 
       try {
         const results = await connection.execute(query, [imdbid]);
-
         if (results.rows.length > 0) {
-          const seriesName = results.rows[0].series_path;
-          const version_count = result.rows[0].version_count;
+          const { metaData, rows } = results;
+          const columnInfo = metaData.map(column => column.name);
+          const data = rows[0];
+          const dataObject = {};
+          for (let i = 0; i < columnInfo.length; i++) {
+            dataObject[columnInfo[i]] = data[i];
+          }
+          const seriesName = dataObject.SERIES_PATH;
+          const version_count = dataObject.VERSION_COUNT;
           const { season, episode } = parseId(id);
-          console.log("Gelen bölüm: Sezon", season, "Bölüm", episode);
+          console.log("Gelen bölüm:",seriesName," Sezon", season, "Bölüm", episode,"Versiyon",version_count);
 
-          try {
-            const subtitle = await fetchSubtitles(seriesName, season, episode,version_count);
+          if (version_count == 1) {
+            const subtitle = await fetchSubtitles(seriesName, season, episode, version_count);
 
             if (subtitle !== null) {
-              return Promise.resolve({ subtitles: [subtitle] });
+              try {
+                // Oracle veritabanı bağlantısı kapatılıyor
+                await connection.close();
+              } catch (err) {
+                console.error("Bağlantı kapatma hatası:", err);
+              }
+              return Promise.resolve({ subtitles: subtitle });
             } else {
               console.log("Altyazı alınamadı.");
+              try {
+                // Oracle veritabanı bağlantısı kapatılıyor
+                await connection.close();
+              } catch (err) {
+                console.error("Bağlantı kapatma hatası:", err);
+              }
               return Promise.resolve({ subtitles: [] });
             }
-          } catch (fetchError) {
-            console.error("Altyazı alınamadı:", fetchError);
-            return Promise.resolve({ subtitles: [] });
           }
+          else{
+            const subtitleQuery = `
+              SELECT version_count
+              FROM subtitles
+              WHERE series_imdbid = :imdbid
+                AND season = :season
+                AND episode = :episode
+            `;
+
+            const subtitleResult = await connection.execute(subtitleQuery, [imdbid, season, episode]);
+            if (subtitleResult.rows.length > 0) {
+              const fetchedVersionCount = subtitleResult.rows[0][0];
+              const subtitle = await fetchSubtitles(seriesName, season, episode, fetchedVersionCount);
+              if (subtitle != null) {
+                try {
+                  // Oracle veritabanı bağlantısı kapatılıyor
+                  await connection.close();
+                } catch (err) {
+                  console.error("Bağlantı kapatma hatası:", err);
+                }
+                return Promise.resolve({ subtitles: subtitle });
+              } else {
+                console.log("Altyazı alınamadı.");
+                try {
+                  // Oracle veritabanı bağlantısı kapatılıyor
+                  await connection.close();
+                } catch (err) {
+                  console.error("Bağlantı kapatma hatası:", err);
+                }
+                return Promise.resolve({ subtitles: [] });
+              }
+            } else {
+              const subtitle = await fetchSubtitles(seriesName, season, episode, 1);
+              if (subtitle !== null) {
+                try {
+                  // Oracle veritabanı bağlantısı kapatılıyor
+                  await connection.close();
+                } catch (err) {
+                  console.error("Bağlantı kapatma hatası:", err);
+                }
+                return Promise.resolve({ subtitles: subtitle });
+              } else {
+                console.log("Altyazı alınamadı.");
+                try {
+                  // Oracle veritabanı bağlantısı kapatılıyor
+                  await connection.close();
+                } catch (err) {
+                  console.error("Bağlantı kapatma hatası:", err);
+                }
+                return Promise.resolve({ subtitles: [] });
+              }
+              
+            }
+          }
+
         } else {
           console.log("Seri bulunamadı.");
 
@@ -117,25 +188,17 @@ builder.defineSubtitlesHandler(async function(args) {
 
   } catch (err) {
     console.error("Bağlantı hatası:", err);
-  } finally {
-    if (connection) {
-      try {
-        // Oracle veritabanı bağlantısı kapatılıyor
-        await connection.close();
-      } catch (err) {
-        console.error("Bağlantı kapatma hatası:", err);
-      }
-    }
-  }
+  } 
 });
 
 
 
-async function fetchSubtitles(anime,season, episode,version_count) {
+async function fetchSubtitles(anime, season, episode, version_count) {
   const subtitles = [];
 
   if (version_count === 1) {
     const subtitle = {
+      id: `${anime}_${season}_${episode}-1`,
       url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}.srt`,
       lang: "Türkçe",
     };
@@ -143,6 +206,7 @@ async function fetchSubtitles(anime,season, episode,version_count) {
   } else {
     for (let i = 1; i <= version_count; i++) {
       const subtitle = {
+        id: `${anime}_${season}_${episode}-${i}`,
         url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}-${i}.srt`,
         lang: "Türkçe",
       };
