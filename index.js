@@ -6,7 +6,7 @@ var http = require("https");
 
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
-  version: '1.0.1',
+  version: '1.1.1',
   name: 'Turkce Altyazi(SonsuzAnime)',
   description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   
@@ -195,9 +195,9 @@ builder.defineSubtitlesHandler(async function(args) {
 async function fetchSubtitles(anime, season, episode, version_count) {
   const subtitles = [];
 
-  if (version_count === 1) {
+  if (version_count == 1) {
     const subtitle = {
-      id: `${anime}_${season}_${episode}-1`,
+      id: `${anime}-${season}-${episode}`,
       url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}.srt`,
       lang: "Türkçe",
     };
@@ -205,7 +205,7 @@ async function fetchSubtitles(anime, season, episode, version_count) {
   } else {
     for (let i = 1; i <= version_count; i++) {
       const subtitle = {
-        id: `${anime}_${season}_${episode}-${i}`,
+        id: `${anime}-${season}-${episode}-${i}`,
         url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}-${i}.srt`,
         lang: "Türkçe",
       };
