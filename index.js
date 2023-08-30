@@ -22,7 +22,6 @@ builder.defineSubtitlesHandler(async function(args) {
   let connection;
 
   try {
-    // Oracle veritabanı bağlantısı açılıyor
     connection = await oracledb.getConnection({ user: process.env.user, password: process.env.password, connectionString: process.env.connectString });
     console.log("Bağlantı açık");
 
@@ -77,7 +76,6 @@ builder.defineSubtitlesHandler(async function(args) {
 
             if (subtitle !== null) {
               try {
-                // Oracle veritabanı bağlantısı kapatılıyor
                 await connection.close();
               } catch (err) {
                 console.error("Bağlantı kapatma hatası:", err);
@@ -86,7 +84,6 @@ builder.defineSubtitlesHandler(async function(args) {
             } else {
               console.log("Altyazı alınamadı.");
               try {
-                // Oracle veritabanı bağlantısı kapatılıyor
                 await connection.close();
               } catch (err) {
                 console.error("Bağlantı kapatma hatası:", err);
@@ -109,7 +106,6 @@ builder.defineSubtitlesHandler(async function(args) {
               const subtitle = await fetchSubtitles(seriesName, season, episode, fetchedVersionCount);
               if (subtitle != null) {
                 try {
-                  // Oracle veritabanı bağlantısı kapatılıyor
                   await connection.close();
                 } catch (err) {
                   console.error("Bağlantı kapatma hatası:", err);
@@ -118,7 +114,6 @@ builder.defineSubtitlesHandler(async function(args) {
               } else {
                 console.log("Altyazı alınamadı.");
                 try {
-                  // Oracle veritabanı bağlantısı kapatılıyor
                   await connection.close();
                 } catch (err) {
                   console.error("Bağlantı kapatma hatası:", err);
@@ -129,7 +124,6 @@ builder.defineSubtitlesHandler(async function(args) {
               const subtitle = await fetchSubtitles(seriesName, season, episode, 1);
               if (subtitle !== null) {
                 try {
-                  // Oracle veritabanı bağlantısı kapatılıyor
                   await connection.close();
                 } catch (err) {
                   console.error("Bağlantı kapatma hatası:", err);
@@ -138,7 +132,6 @@ builder.defineSubtitlesHandler(async function(args) {
               } else {
                 console.log("Altyazı alınamadı.");
                 try {
-                  // Oracle veritabanı bağlantısı kapatılıyor
                   await connection.close();
                 } catch (err) {
                   console.error("Bağlantı kapatma hatası:", err);
