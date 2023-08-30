@@ -4,12 +4,6 @@ var addon = express()
 const oracledb = require('oracledb');
 var http = require("https");
 
-const connectionConfig = {
-  user: process.env.user,
-  password: process.env.password,
-  connectString: process.env.connectString
-};
-
 const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.1.0',
