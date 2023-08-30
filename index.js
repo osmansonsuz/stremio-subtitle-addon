@@ -146,14 +146,26 @@ builder.defineSubtitlesHandler(async function(args) {
           console.log("Seri bulunamadı.");
 
           const insertQuery = `
-            MERGE INTO requests r
-            USING (SELECT :imdbid AS request_imdbid FROM dual) new_data
-            ON (r.request_imdbid = new_data.request_imdbid)
-            WHEN MATCHED THEN
-              UPDATE SET r.request_count = r.request_count + 1
-            WHEN NOT MATCHED THEN
-              INSERT (request_imdbid, request_count)
-              VALUES (new_data.request_imdbid, 1);          
+          BEGIN
+          -- UPDATE işlemi
+          UPDATE requests
+          SET request_count = request_count + 1
+          WHERE request_imdbid = :imdbid;
+          
+          IF SQL%ROWCOUNT = 0 THEN
+            BEGIN
+              INSERT INTO requests (request_imdbid, request_count)
+              VALUES (:imdbid, 1);
+            EXCEPTION
+              WHEN DUP_VAL_ON_INDEX THEN
+                NULL;
+            END;
+          END IF;
+          
+          COMMIT;
+        END;
+
+
           `;
 
           try {
