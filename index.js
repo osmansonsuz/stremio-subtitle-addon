@@ -234,7 +234,7 @@ function parseId(id) {
   return { season: 0, episode: 0 };
 }
 
-publishToCentral("https://fdfa3f0d051a-one-piece-turkce-altyazi.baby-beamup.club");
+
 
 const port = process.env.PORT || 8000;
 const address = process.env.ADDRESS || '0.0.0.0';
