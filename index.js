@@ -205,7 +205,7 @@ async function fetchSubtitles(name, season, episode, version_count, type) {
       const subtitle = {
         id: `${name}-subtitle-1`,
         url: `https://www.sonsuzanime.com/subtitles/${name}/subtitle1.srt`,
-        lang: "Türkçe",
+        lang: "tur",
       };
       subtitles.push(subtitle);
     } else {
@@ -213,7 +213,7 @@ async function fetchSubtitles(name, season, episode, version_count, type) {
         const subtitle = {
           id: `${name}-subtitle-${i}`,
           url: `https://www.sonsuzanime.com/subtitles/${name}/subtitle${i}.srt`,
-          lang: "Türkçe",
+          lang: "tur",
         };
         subtitles.push(subtitle);
       }
@@ -224,7 +224,7 @@ async function fetchSubtitles(name, season, episode, version_count, type) {
       const subtitle = {
         id: `${name}-${season}-${episode}`,
         url: `https://www.sonsuzanime.com/subtitles/${name}/season${season}/episode${episode}.srt`,
-        lang: "Türkçe",
+        lang: "tur",
       };
       subtitles.push(subtitle);
     } else {
@@ -232,7 +232,7 @@ async function fetchSubtitles(name, season, episode, version_count, type) {
         const subtitle = {
           id: `${name}-${season}-${episode}-${i}`,
           url: `https://www.sonsuzanime.com/subtitles/${name}/season${season}/episode${episode}-${i}.srt`,
-          lang: "Türkçe",
+          lang: "tur",
         };
         subtitles.push(subtitle);
       }
