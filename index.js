@@ -175,6 +175,12 @@ builder.defineSubtitlesHandler(async function(args) {
             } else {
               console.log("Seri sayısı güncellendi.");
             }
+            try {
+              await connection.close();
+            } catch (err) {
+              console.error("Bağlantı kapatma hatası:", err);
+            }
+            return Promise.resolve({ subtitles: [] });
           } catch (insertError) {
             console.error("Seri ekleme/güncelleme hatası:", insertError);
           }
