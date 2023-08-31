@@ -67,11 +67,11 @@ builder.defineSubtitlesHandler(async function(args) {
           }
           const seriesName = dataObject.SERIES_PATH;
           const version_count = dataObject.VERSION_COUNT;
-          const { season, episode } = parseId(id);
-          console.log("Gelen bölüm:",seriesName," Sezon", season, "Bölüm", episode,"Versiyon",version_count);
+          const {type, season, episode } = parseId(id);
+          console.log("Gelen bölüm:",seriesName,"Type:",type," Sezon", season, "Bölüm", episode,"Versiyon",version_count);
 
           if (version_count == 1) {
-            const subtitle = await fetchSubtitles(seriesName, season, episode, version_count);
+            const subtitle = await fetchSubtitles(seriesName, season, episode, version_count,type);
 
             if (subtitle !== null) {
               try {
@@ -102,7 +102,7 @@ builder.defineSubtitlesHandler(async function(args) {
             const subtitleResult = await connection.execute(subtitleQuery, [imdbid, season, episode]);
             if (subtitleResult.rows.length > 0) {
               const fetchedVersionCount = subtitleResult.rows[0][0];
-              const subtitle = await fetchSubtitles(seriesName, season, episode, fetchedVersionCount);
+              const subtitle = await fetchSubtitles(seriesName, season, episode, fetchedVersionCount,type);
               if (subtitle != null) {
                 try {
                   await connection.close();
@@ -120,7 +120,7 @@ builder.defineSubtitlesHandler(async function(args) {
                 return Promise.resolve({ subtitles: [] });
               }
             } else {
-              const subtitle = await fetchSubtitles(seriesName, season, episode, 1);
+              const subtitle = await fetchSubtitles(seriesName, season, episode, 1,type);
               if (subtitle !== null) {
                 try {
                   await connection.close();
@@ -197,24 +197,45 @@ builder.defineSubtitlesHandler(async function(args) {
 
 
 
-async function fetchSubtitles(anime, season, episode, version_count) {
+async function fetchSubtitles(name, season, episode, version_count, type) {
   const subtitles = [];
 
-  if (version_count == 1) {
-    const subtitle = {
-      id: `${anime}-${season}-${episode}`,
-      url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}.srt`,
-      lang: "Türkçe",
-    };
-    subtitles.push(subtitle);
-  } else {
-    for (let i = 1; i <= version_count; i++) {
+  if(type === 'movie'){
+    if (version_count === 1) {
       const subtitle = {
-        id: `${anime}-${season}-${episode}-${i}`,
-        url: `https://www.sonsuzanime.com/subtitles/${anime}/season${season}/episode${episode}-${i}.srt`,
+        id: `${name}-subtitle-1`,
+        url: `https://www.sonsuzanime.com/subtitles/${name}/subtitle1.srt`,
         lang: "Türkçe",
       };
       subtitles.push(subtitle);
+    } else {
+      for (let i = 1; i <= version_count; i++) {
+        const subtitle = {
+          id: `${name}-subtitle-${i}`,
+          url: `https://www.sonsuzanime.com/subtitles/${name}/subtitle${i}.srt`,
+          lang: "Türkçe",
+        };
+        subtitles.push(subtitle);
+      }
+    }
+  }
+  else{
+    if (version_count == 1) {
+      const subtitle = {
+        id: `${name}-${season}-${episode}`,
+        url: `https://www.sonsuzanime.com/subtitles/${name}/season${season}/episode${episode}.srt`,
+        lang: "Türkçe",
+      };
+      subtitles.push(subtitle);
+    } else {
+      for (let i = 1; i <= version_count; i++) {
+        const subtitle = {
+          id: `${name}-${season}-${episode}-${i}`,
+          url: `https://www.sonsuzanime.com/subtitles/${name}/season${season}/episode${episode}-${i}.srt`,
+          lang: "Türkçe",
+        };
+        subtitles.push(subtitle);
+      }
     }
   }
 
@@ -228,17 +249,27 @@ function parseId(id) {
     const match = id.match(/tt(\d+):(\d+):(\d+)/);
     if (match) {
       const [, , season, episode] = match;
-      return { season: Number(season), episode: Number(episode) };
+      return { type: 'series', season: Number(season), episode: Number(episode) };
+    }
+    else{
+      return { type: 'movie', season: Number(1), episode: Number(1) };
     }
   } else if (id.startsWith("kitsu")) {
     const parts = id.split(':');
     if (parts.length >= 3) {
       const [, , episode] = parts;
-      return { season: 1, episode: Number(episode) };
+      return { type: 'series', season: 1, episode: Number(episode) };
+    }
+  } else if (id.startsWith("pt")) {
+    const parts = id.split(':');
+    if (parts.length >= 2) {
+      const [, episode] = parts;
+      return { type: 'series', episode: Number(episode) };
     }
   }
-  return { season: 0, episode: 0 };
+  return { type: 'unknown', season: 0, episode: 0 };
 }
+
 
 publishToCentral("https://turkce-altyazi-sonsuz-anime.onrender.com/manifest.json");
 
