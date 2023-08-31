@@ -234,7 +234,7 @@ function parseId(id) {
   return { season: 0, episode: 0 };
 }
 
-
+publishToCentral("https://turkce-altyazi-sonsuz-anime.onrender.com/manifest.json");
 
 const port = process.env.PORT || 8000;
 const address = process.env.ADDRESS || '0.0.0.0';
