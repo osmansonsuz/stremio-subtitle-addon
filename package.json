@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "start": "concurrently 'npm cache clear'"
+}
   "dependencies": {
     "https": "^1.0.0",
     "mysql": "^2.18.1",
