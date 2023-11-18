@@ -8,7 +8,9 @@ const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.3',
   name: 'Turkce Altyazi(SonsuzAnime)',
-  description: 'Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
+  background:'https://www.sonsuzanime.com/wallpaper.jpg',
+  logo:'https://www.sonsuzanime.com/logo.png',
+  description: 'Bagis yapmak isteyenler için: https://www.buymeacoffee.com/sonsuzosman Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   types: ['series','anime','movie'],
   catalogs: [],
   resources: ['subtitles']
