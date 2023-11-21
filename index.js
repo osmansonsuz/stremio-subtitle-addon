@@ -8,8 +8,8 @@ const builder = new addonBuilder({
   id: 'org.sonsuzanime',
   version: '1.0.3',
   name: 'Turkce Altyazi(SonsuzAnime)',
-  background:'https://www.sonsuzanime.com/wallpaper.jpg',
-  logo:'https://www.sonsuzanime.com/logo.png',
+  background:'./static/wallpaper.jpg',
+  logo:'./static/logo.png',
   description: 'Bagis yapmak isteyenler için: https://www.buymeacoffee.com/sonsuzosman Turkce Altyazilari Senkron Sorunu İstek Altyazi İçin infinity@sonsuzanime.com',
   types: ['series','anime','movie'],
   catalogs: [],
@@ -278,4 +278,4 @@ publishToCentral("https://turkce-altyazi-sonsuz-anime.onrender.com/manifest.json
 const port = process.env.PORT || 8000;
 const address = process.env.ADDRESS || '0.0.0.0';
 
-serveHTTP(builder.getInterface(), { port: port, address: address });
+serveHTTP(builder.getInterface(), { port: port, address: address, static : "/static" });
